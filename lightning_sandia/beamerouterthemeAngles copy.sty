@@ -1,0 +1,105 @@
+\defbeamertemplate*{footline}{Angles}
+{
+
+  \tikzexternaldisable
+  \ifnum \insertframenumber=1\else
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+      
+      
+      \ifsandiabeamer@UX@slidedate
+      \node (footer-date) [family=\sffamily,text=\sandiabeamer@UX@textfg,rectangle,anchor=south west,font=\Tiny] at \offcorner{south west}{1mm,1mm}
+      { \insertshortdate } ;
+      \fi
+      
+      %south west page flag
+      \filldraw[color=snlmediumblue] \offcorner{south west}{6.00mm,0mm} -- ++(-3.0mm,3.0mm) -- ++(-3.0mm,0.0mm) -- ++(0mm,-3.0mm);
+      
+      %bottom page bar
+      \filldraw[color=snllightblue] \offcorner{south west}{5.76mm,1.44mm} -- ++(145.84mm,0mm) -- ++(-0.85mm,-0.85mm) -- ++(-144.14mm,0.0mm);
+      
+      %page number
+      \node (framenumber)
+        [rectangle,anchor=west,font=\small, family=\sffamily,text=\sandiabeamer@UX@textfg,text width=5.04mm,align=center]
+        at \offcorner{south east}{-5.28mm,3.0mm}
+        {\insertframenumber};
+        
+      % if CUIorCLASS include this mark everywhere, even on section-break slides. But not the title
+      % page. and not at dusk. Never at dusk.
+      \iftoggle{SAND@CUIorCLASS}{%
+        \node (ouo-footer-text) 
+        	[rectangle, above=2mm of current page.south,anchor=south,font=\Tiny,family=\sffamily]
+        	{ \SAND@mark@headfoot };
+      }{
+        \iftoggle{SAND@UUR}{
+          \node (uur-footer-text) 
+          	[rectangle,above=2mm of current page.south,anchor=south,font=\Tiny]
+          	{ \sandiabeamer@UURmark };
+        }{}
+      }
+      
+    \end{scope}
+  \end{tikzpicture}%
+  \fi
+  \tikzexternalenable
+}
+
+
+\defbeamertemplate*{headline}{Angles}
+{
+
+  \tikzexternaldisable
+  \ifnum \insertframenumber=1\else
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+
+
+      \node (hrainbow)
+        [rectangle,anchor=north east,left=20.04mm of current page.north east,rotate=135]
+	    { \includegraphics[width=30mm]{assets/vrainbow} };
+      
+      % small color tab on right with thunderbird logo
+      \filldraw[color=snlmediumblue,general shadow={fill=gray!8,shadow scale=1,shadow xshift=1.44mm}] \offcorner{north east}{0mm,-16.92mm} -- \offcorner{north east}{0mm,0mm} -- ++(-8.52mm,0mm) -- ++(-4.20mm,-4.2mm);
+      
+      \node (tbird-tab-logo)
+        [rectangle,anchor=north east]
+        at \offcorner{north east}{-2.28mm,-2.28mm}
+        { \includegraphics[keepaspectratio,height=4.32mm]{assets/header-tbird} };
+
+      % if CUIorCLASS include this mark everywhere, even on section-break slides. But not the title page. 
+      %   and not at dusk. Never at dusk.
+      \iftoggle{SAND@CUIorCLASS}{%
+        \node (ouo-header-text) [below=2mm of current page.north, anchor=north,font=\Tiny,family=\sffamily]
+        { \SAND@mark@headfoot };
+      }{
+        \iftoggle{SAND@UUR}{
+          \node (uur-header-text) [below=2mm of current page.north, anchor=north,font=\Tiny]
+          { \sandiabeamer@UURmark };
+        }{}
+      }
+      
+    \end{scope}
+  \end{tikzpicture}
+  \fi
+    \tikzexternalenable
+}
+
+
+
+\defbeamertemplate*{frametitle}{Angles}{%
+  \tikzexternaldisable
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+      \node (frametitle)
+        [rectangle,text=\sandiabeamer@UX@textfg,anchor=west]
+      	at \offcorner{north west}{18.48mm,-8.52mm}  
+      	{ \MakeUppercase{\insertframetitle} };
+
+    \end{scope}
+  \end{tikzpicture}
+  \vspace*{8mm}
+  \tikzexternalenable
+}
+
+
+

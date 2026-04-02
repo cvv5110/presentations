@@ -1,0 +1,217 @@
+
+
+\mode<presentation>
+
+%
+% Set some inner theme options
+%
+
+\newcommand\sandiabeamer@makeUCNIbonusBox[1]{%
+  \node (ucni-bonus-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0.5mm of uci-extra-box.north, anchor=south, 
+  fill=\sandiabeamer@color@OUOboxfill,fill opacity=0.3, text opacity=1]
+  {\sffamily #1 };
+}
+
+\newcommand\sandiabeamer@UCNIbox{%
+  {\bfseries \sfseries UNCLASSIFIED CONTROLLED NUCLEAR INFORMATION \newline NOT FOR PUBLIC DISSEMINATION}\\
+  \vspace*{0.5mm}
+    {\sffamily Unauthorized dissemination subject to civil and criminal sanctions under Section 148 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2168).}\\
+}
+
+\newcommand\sandiabeamer@makeClassWarningBox[1]{%
+  \node (class-warn-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0mm of rainbow.north east,anchor=south east,
+  fill=\sandiabeamer@color@OUOboxfill, fill opacity=0.3, text opacity=1]
+  {\sffamily #1 };
+}
+
+\newcommand\sandiabeamer@makeClassWarningBoxEmpty{%
+  \node (class-warn-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0mm of rainbow.north east,anchor=south east,
+  fill=\sandiabeamer@color@OUOboxfill, fill opacity=0.3, text opacity=1]
+  {};
+}
+
+\newcommand{\makeClassDCBox}{%
+  \node (class-dc-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0.5mm of class-warn-box.north, anchor=south, 
+  fill=\sandiabeamer@color@OUOboxfill,fill opacity=0.3, text opacity=1]
+  {
+      Classified by: \SAND@mark@Class@DCName, \SAND@mark@Class@DCPosition, \SAND@mark@Class@DCOrg \par
+      Derived from: \SAND@mark@Class@DCGuide \par
+      \iftoggle{SAND@CLASS@NSI}{\par Declassify on: \SAND@mark@Class@DCDeclassify}{}
+  };%
+ }
+
+\newcommand\sandiabeamer@makeClassExtraBox[1]{%
+  \node (class-extra-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0.5mm of class-warn-box.north, anchor=south, 
+  fill=\sandiabeamer@color@OUOboxfill,fill opacity=0.3, text opacity=1]
+  {\sffamily #1 };
+}
+
+\newcommand\sandiabeamer@makeCUIextraBox[1]{%
+  \node (uci-extra-box)
+  [inner sep=1mm,rectangle,align=left,text width=33mm,font=\TINY,
+  above=0mm of rainbow.north east,anchor=south east,
+  fill=\sandiabeamer@color@OUOboxfill, fill opacity=0.3, text opacity=1]
+  {\sffamily #1 };
+}
+
+
+\defbeamertemplate*{title page}{Sandia}%
+{
+  \tikzexternaldisable
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+
+      %
+      % Graphical elements for 16:9
+      \iftoggle{sandiabeamer@flag@lighttheme}{%
+        \node (aerial-img) [fill opacity=0.3,below=37.5mm of current page.north east,anchor=north east]
+        {\includegraphics[width=60mm,height=75mm]{\sandiabeamer@img@aerial}};
+        \newcommand\sandiabeamer@hbaropacity{1}
+        \newcommand\sandiabeamer@vbaropacity{0.7}
+      }{}
+      \iftoggle{sandiabeamer@flag@darktheme}{%
+        \node (aerial-img) [fill opacity=0.3,below=0mm of current page.north west,anchor=north west]
+        {\includegraphics[width=\paperwidth-60mm,height=37.5mm]{\sandiabeamer@img@aerial}};
+        \newcommand\sandiabeamer@hbaropacity{0.25}
+        \newcommand\sandiabeamer@vbaropacity{1}
+      }{}        
+
+      \node (vbar) [rectangle,minimum height=\paperheight, minimum width=35mm, color=\sandiabeamer@color@vbarfill, fill,
+      fill opacity=\sandiabeamer@vbaropacity, left=25mm of current page.north east, anchor=north east] {};
+      
+      \node (hbar1) [rectangle, minimum height=22.5mm, minimum width=3mm, color=\sandiabeamer@color@lvbarfill,
+      fill, below=15mm of current page.north west, anchor=north west] {};
+
+      \node (hbar2) [rectangle, anchor=south west, minimum height=22.5mm, minimum width=\paperwidth-2mm,
+      fill, color=\sandiabeamer@color@hbarfill,fill opacity=\sandiabeamer@hbaropacity, right=0mm of hbar1] {};
+
+
+      \node (SNLstack) [anchor=north,below=4mm of vbar.north]
+      {\includegraphics[height=9mm,keepaspectratio]{assets/snl-white}};
+
+      \node (cross-img) [rectangle, below left=16.25mm and 25mm of current page.north east,anchor=north east]% at \offcorner{north east}{-25mm,-16.25mm}
+      {\includegraphics[height=20mm, width=35mm]{\sandiabeamer@img@cross}};
+
+      \node (right-img) [anchor=north east] at \offcorner{north east}{-60mm,-37.5mm}
+      {\includegraphics[height=12.5mm,width=45mm]{\sandiabeamer@img@right}};
+
+      \node (center-img) [anchor=north east, left=0.5mm of right-img]% at \offcorner{north east}{-106mm,-35mm}
+      {\includegraphics[height=12.5mm,width=20mm]{\sandiabeamer@img@center}};
+
+      \node (left-img) [anchor=north east, left=0.5mm of center-img] %at \offcorner{north east}{-127mm,-35mm}
+      {\includegraphics[height=12.5mm,width=25mm]{\sandiabeamer@img@left}};
+
+      % right edge of vertical color bar + all widths to west
+      \node (rainbow) [anchor=east] at \offcorner{south east}{-25mm,18mm}
+      {\includegraphics[keepaspectratio,width=126mm]{assets/rainbow}};
+
+      \node (DOElogo) [below right=1.5mm and 7mm of rainbow.south east,anchor=north] 
+      {\includegraphics[height=2.5mm]{\sandiabeamer@UX@DOElogo}};
+
+      \node (NNSAlogo) [right=2mm of DOElogo.base east, anchor=base west] 
+      {\includegraphics[height=2.5mm]{\sandiabeamer@UX@NNSAlogo}};
+      
+      \iftoggle{sandiabeamer@flag@CUI}{
+      \node (CUIControlledBy) [anchor=north east, inner sep=1mm, text width=33mm,font=\TINY\sffamily,text=\sandiabeamer@UX@textfg] at (rainbow.south east)
+      	  {Controlled by: \SAND@mark@CUIcontrolled};}{}
+      % \fontsize{2}{3}\selectfont
+      \node (thanks) [rectangle,align=center,text=\sandiabeamer@UX@textfg,text width=24mm,
+      font=\TINY\sffamily,below right=5mm and 12mm of rainbow.east, anchor=north]
+      { \sandiabeamer@text@NTESS \\ \sandiabeamer@text@SANDphrase };
+
+      %
+      % these *should* all be in the same place for all 16:9 versions
+      \node (title-text) [text width=92mm, text=white,font=\LARGE,align=left,anchor=east, right=5mm of hbar1] 
+      {\sffamily \inserttitle };
+
+      \node (subtitle-text) [text width=92mm, rectangle,text=\sandiabeamer@UX@textfg,font=\footnotesize,align=left,below=3mm of left-img.south west,
+      anchor=north west]
+      { \sffamily \insertsubtitle };
+
+      % TODO: change the anchor point of this node to ride the top of author-text, in case someone
+      % adds multi-line content there and it expands upward
+      \node (presented-by) [text width=92mm, rectangle,text=snllightblue,font=\tiny\itshape,above=7mm of rainbow.north
+      west,anchor=south west]
+      { \sandiabeamerPresentedBy };
+
+      \node (author-text) [text width=92mm, rectangle,text=\sandiabeamer@UX@textfg,font=\small,above=3.5mm of rainbow.north west,anchor=west]
+      { \insertauthor };
+      
+      \ifsandiabeamer@UX@titledate
+        \node (date) [rectangle,text width=10mm, font=\Tiny, text=\sandiabeamer@UX@textfg, above right=2mm of current
+        page.south west,anchor=south west]
+        { \insertdate };
+      \fi
+
+      \iftoggle{SAND@CUIorCLASS}{
+        
+        \ifcsvoid{sandiabeamer@CUI@whichExtraBox}{}{\sffamily\sandiabeamer@CUI@whichExtraBox}
+        \ifcsvoid{sandiabeamer@CUI@whichBonusBox}{}{\sffamily\sandiabeamer@CUI@whichBonusBox}
+        \ifcsvoid{sandiabeamer@ClassWhichWarningBox}{}{\sffamily\sandiabeamer@ClassWhichWarningBox}
+        \ifcsvoid{sandiabeamer@ClassWhichExtraBox}{}{\sffamily\sandiabeamer@ClassWhichExtraBox}
+        \ifcsvoid{sandiabeamer@ClassWhichDCBox}{}{\sffamily\sandiabeamer@ClassWhichDCBox}
+        \sandiabeamer@ClassWhichWarningBox
+        \ifcsvoid{sandiabeamer@ClassWhichExtraBox}{}{\sffamily\sandiabeamer@ClassWhichExtraBox}
+        \ifcsvoid{sandiabeamer@ClassWhichDCBox}{}{\sffamily\sandiabeamer@ClassWhichDCBox}
+          
+        \node (CUImarktop) [rectangle,align=center,text=white,font=\Tiny\sffamily,below=1.5mm of vbar.north,anchor=north]
+        { \SAND@mark@headfoot };
+        \node (CUImarkbottom) [rectangle,align=center,text=white,family=\sffamily,font=\sffamily\Tiny,above=1.5mm of vbar.south,anchor=south]
+        { \SAND@mark@headfoot };
+
+      }{
+        \iftoggle{SAND@UUR}{
+          \node (UURmarktop) [rectangle,align=center,text=white,font=\Tiny,below=1.5mm of vbar.north,anchor=north]
+          { \sandiabeamer@UURmark };
+          \node (UURmarkbottom) [rectangle,align=center,text=white,font=\Tiny,above=1.5mm of vbar.south,anchor=south]
+          { \sandiabeamer@UURmark };
+        }{}
+      }
+      
+    \end{scope}
+  
+  \end{tikzpicture}
+  \tikzexternalenable
+}
+
+
+\defbeamertemplate*{section page}{Sandia}%
+{
+  \tikzexternaldisable
+ 
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+
+      \node (section-bg) [rectangle,below=0mm of current page.north west,anchor=north west]
+      { \includegraphics[height=110mm,width=\paperwidth]{\sandiabeamer@img@sectionbg} };
+
+      \node (section-hbar1) [rectangle, anchor=south west, minimum height=22.5mm, minimum width=3mm, color=snlredorange,
+      fill]
+      at \offcorner{north west}{0mm,-65mm} {};
+
+      \node (section-hbar2) [rectangle, minimum height=22.5mm, minimum width=\paperwidth-2mm,
+      fill, color=snlmediumblue, right=0mm of section-hbar1.south east,anchor=south west] {};
+
+      \node (section-rainbow) [rectangle,below=1mm of section-hbar2.south east, anchor=north east]
+      { \includegraphics[width=108mm,height=1mm]{assets/rainbow} };
+
+      \node (section-title) [rectangle,align=left,right=57.5mm of section-hbar1.west,anchor=west,font=\large,color=white]
+      { \sffamily \insertsection };
+
+  \end{scope}
+\end{tikzpicture}
+
+\tikzexternalenable
+}
+
+

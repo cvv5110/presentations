@@ -1,0 +1,99 @@
+
+
+
+\defbeamertemplate*{footline}{Sandia}
+{
+
+  \tikzexternaldisable
+  \begin{tikzpicture}[overlay]
+    \begin{scope}[on background layer]
+      
+      %\node (footer-date) [family=\sffamily,text=\sandiabeamer@UX@textfg,rectangle,anchor=south west,font=\Tiny] at \offcorner{south west}{1mm,1mm}
+      %{ \insertshortdate } ;
+      
+      % if CUIorCLASS include this mark everywhere, even on section-break slides. But not the title
+      % page. and not at dusk. Never at dusk.
+      \ifnum \insertframenumber=1\else
+      \iftoggle{SAND@CUIorCLASS}{%
+        \node (cui-footer-text) [rectangle,above=1mm of current page.south,anchor=south,font=\Tiny,family=\sffamily]
+        { \SAND@mark@headfoot };
+      }{
+        \iftoggle{SAND@UUR}{
+          \node (uur-footer-text) [rectangle,above=1mm of current page.south,anchor=south,font=\Tiny]
+          { \sandiabeamer@UURmark };
+        }{}
+      }
+    \fi
+      
+    \end{scope}
+  \end{tikzpicture}%
+  \tikzexternalenable
+
+}
+
+
+\defbeamertemplate*{headline}{Sandia}
+{
+
+  \tikzexternaldisable
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+
+      \ifnum \insertframenumber=1\else
+
+      \node (vrainbow) [rectangle,anchor=north east,left=0mm of current page.north east,rotate=90] 
+      { \includegraphics{assets/vrainbow} };
+      
+      % small color tab on right with thunderbird logo
+      \node (tbird-tab) [rectangle,anchor=north east,minimum height=6mm,minimum width=20mm,below=5mm of current page.north east,
+      color=\sandiabeamer@color@vbarfill, fill]
+      {};
+      
+      \node (tbird-tab-logo) [rectangle,right=1mm of tbird-tab.west,anchor=west,fill=\sandiabeamer@color@vbarfill]
+      { \includegraphics[keepaspectratio,height=4mm]{assets/header-tbird} };
+
+      \node (title-vbar) [rectangle, right=8mm of current page.north west, anchor=north west, minimum
+      height=10mm, minimum width=1mm, color=\sandiabeamer@color@vbarfill, fill] {};
+
+      \node (pagenumber) [text=\sandiabeamer@UX@textfg,left=2mm of title-vbar.south west,anchor=base east,font=\footnotesize,family=\sffamily]
+      { \insertframenumber };
+
+
+      % if CUIorCLASS include this mark everywhere, even on section-break slides. But not the title
+      % page. and not at dusk. Never at dusk.
+      \iftoggle{SAND@CUIorCLASS}{%
+        \node (cui-header-text) [below=1mm of current page.north, anchor=north,font=\Tiny,family=\sffamily]
+        { \SAND@mark@headfoot };
+      }{
+        \iftoggle{SAND@UUR}{
+          \node (uur-header-text) [below=1mm of current page.north, anchor=north,font=\Tiny]
+          { \sandiabeamer@UURmark };
+      }{}}
+      \fi
+    \end{scope}
+  \end{tikzpicture}
+  \tikzexternalenable
+
+}
+
+
+
+\defbeamertemplate*{frametitle}{Sandia}{%
+  \tikzexternaldisable
+  \begin{tikzpicture}
+    \begin{scope}[on background layer]
+
+      \node (title-vbar) [rectangle, right=8mm of current page.north west, anchor=north west, minimum
+      height=10mm, minimum width=1mm, color=\sandiabeamer@color@vbarfill, fill] {};
+
+      \node (frametitle) [rectangle, text=\sandiabeamer@UX@textfg,right=4mm of title-vbar.south east,anchor=base west]
+      { \insertframetitle };
+
+    \end{scope}
+  \end{tikzpicture}
+  \vspace*{10mm}
+  \tikzexternalenable
+}
+
+
+
