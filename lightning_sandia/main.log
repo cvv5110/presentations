@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.5)  2 APR 2026 14:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.26)  2 APR 2026 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/cavarga/presentations/lightning_sandia/main.tex
-(/home/cavarga/presentations/lightning_sandia/main.tex
+**/home/andres/presentations/lightning_sandia/main.tex
+(/home/andres/presentations/lightning_sandia/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (./sandia-beamer.cls
@@ -677,10 +677,274 @@ File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+))))) (./new-mysymb.sty (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count371
+\float@exts=\toks52
+\float@box=\box86
+\@float@everytoks=\toks53
+\@floatcapt=\box87
+) (/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip69
+\plpartopsep=\skip70
+\plitemsep=\skip71
+\plparsep=\skip72
+\pl@lab=\toks54
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip73
+\subfigcapskip=\skip74
+\subfigcaptopadj=\dimen304
+\subfigbottomskip=\skip75
+\subfigcapmargin=\dimen305
+\subfiglabelskip=\skip76
+\c@subfigure=\count372
+\c@lofdepth=\count373
+\c@subtable=\count374
+\c@lotdepth=\count375
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip77
+\subfig@bottom=\skip78
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip79
+\LTright=\skip80
+\LTpre=\skip81
+\LTpost=\skip82
+\LTchunksize=\count376
+\LTcapwidth=\dimen306
+\LT@head=\box88
+\LT@firsthead=\box89
+\LT@foot=\box90
+\LT@lastfoot=\box91
+\LT@gbox=\box92
+\LT@cols=\count377
+\LT@rows=\count378
+\c@LT@tables=\count379
+\c@LT@chunks=\count380
+\LT@p@ftn=\toks55
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip83
+\multirow@cntb=\count381
+\multirow@dima=\skip84
+\bigstrutjot=\dimen307
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count382
+\mult@box=\box93
+\multicol@leftmargin=\dimen308
+\c@unbalance=\count383
+\c@collectmore=\count384
+\doublecol@number=\count385
+\multicoltolerance=\count386
+\multicolpretolerance=\count387
+\full@width=\dimen309
+\page@free=\dimen310
+\premulticols=\dimen311
+\postmulticols=\dimen312
+\multicolsep=\skip85
+\multicolbaselineskip=\skip86
+\partial@page=\box94
+\last@line=\box95
+\mc@boxedresult=\box96
+\maxbalancingoverflow=\dimen313
+\mult@rightbox=\box97
+\mult@grightbox=\box98
+\mult@firstbox=\box99
+\mult@gfirstbox=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\c@minrows=\count388
+\c@columnbadness=\count389
+\c@finalcolumnbadness=\count390
+\last@try=\dimen314
+\multicolovershoot=\dimen315
+\multicolundershoot=\dimen316
+\mult@nat@firstbox=\box137
+\colbreak@box=\box138
+\mc@col@check@num=\count391
+) (/usr/share/texlive/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+\pb@xlen=\skip87
+) (/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks56
+\SOUL@lasttoken=\toks57
+\SOUL@syllable=\toks58
+\SOUL@cmds=\toks59
+\SOUL@buffer=\toks60
+\SOUL@token=\toks61
+\SOUL@syllgoal=\dimen317
+\SOUL@syllwidth=\dimen318
+\SOUL@charkern=\dimen319
+\SOUL@hyphkern=\dimen320
+\SOUL@dimen=\dimen321
+\SOUL@dimeni=\dimen322
+\SOUL@minus=\count392
+\SOUL@comma=\count393
+\SOUL@apo=\count394
+\SOUL@grave=\count395
+\SOUL@spaceskip=\skip88
+\SOUL@ttwidth=\dimen323
+\SOUL@uldp=\dimen324
+\SOUL@ulht=\dimen325
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+\c@@todonotes@numberoftodonotes=\count396
+)) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks62
+\verbatim@line=\toks63
+\verbatim@in@stream=\read3
+) (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box139
+\tcb@upperbox=\box140
+\tcb@lowerbox=\box141
+\tcb@phantombox=\box142
+\c@tcbbreakpart=\count397
+\c@tcblayer=\count398
+\c@tcolorbox@number=\count399
+\l__tcobox_tmpa_box=\box143
+\l__tcobox_tmpa_dim=\dimen326
+\tcb@temp=\box144
+\tcb@temp=\box145
+\tcb@temp=\box146
+\tcb@temp=\box147
+ (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.2.0'
+\c@tcbrastercolumn=\count400
+\c@tcbrasterrow=\count401
+\c@tcbrasternum=\count402
+\c@tcbraster=\count403
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
+(/usr/share/texlive/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (/usr/share/texlive/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (/usr/share/texlive/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box148
+)) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+)) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.2.0'
+(/usr/share/texlive/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box149
+\tcb@totalupperbox=\box150
+\tcb@totallowerbox=\box151
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.2.0'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
+\tcbfitdim=\dimen327
+\tcb@lowerfitdim=\dimen328
+\tcb@upperfitdim=\dimen329
+\tcb@cur@hbadness=\count404
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.2.0'
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.2.0'
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count405
+\lst@gtempboxa=\box152
+\lst@token=\toks64
+\lst@length=\count406
+\lst@currlwidth=\dimen330
+\lst@column=\count407
+\lst@pos=\count408
+\lst@lostspace=\dimen331
+\lst@width=\dimen332
+\lst@newlines=\count409
+\lst@lineno=\count410
+\lst@maxwidth=\dimen333
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count411
+\lst@skipnumbers=\count412
+\lst@framebox=\box153
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.2.0'
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.2.0'
+)
+\c@tcblisting=\count413
+)) (/usr/share/texlive/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+))) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.2.0'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.2.0'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.2.0'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.2.0'
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerpatchparalist.sty) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count371
-\l__pdf_internal_box=\box86
+\l__color_backend_stack_int=\count414
+\l__pdf_internal_box=\box154
 )
 
 LaTeX Warning: Unused global option(s):
@@ -689,37 +953,37 @@ LaTeX Warning: Unused global option(s):
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count372
-\scratchdimen=\dimen304
-\scratchbox=\box87
-\nofMPsegments=\count373
-\nofMParguments=\count374
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count375
-\MPscratchDim=\dimen305
-\MPnumerator=\count376
-\makeMPintoPDFobject=\count377
-\everyMPtoPDFconversion=\toks53
+\scratchcounter=\count415
+\scratchdimen=\dimen334
+\scratchbox=\box155
+\nofMPsegments=\count416
+\nofMParguments=\count417
+\everyMPshowfont=\toks65
+\MPscratchCnt=\count418
+\MPscratchDim=\dimen335
+\MPnumerator=\count419
+\makeMPintoPDFobject=\count420
+\everyMPtoPDFconversion=\toks66
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -762,7 +1026,7 @@ File: fc-english.def 2016/01/12
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 23.
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -779,65 +1043,421 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
+)
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 23.
+
+\c@lstlisting=\count421
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks67
+\inpenc@posthook=\toks68
 ) (./main.nav)
-<assets/vrainbow.png, id=37, 541.27219pt x 4.51688pt>
+<assets/vrainbow.png, id=49, 541.27219pt x 4.51688pt>
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 38.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 23.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-<assets/header-tbird.png, id=39, 20.32594pt x 19.57312pt>
+<assets/header-tbird.png, id=51, 20.32594pt x 19.57312pt>
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 38.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 23.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<assets/rainbow.png, id=40, 742.27313pt x 3.01125pt>
+<assets/rainbow.png, id=52, 742.27313pt x 3.01125pt>
 File: assets/rainbow.png Graphic file (type png)
 <use assets/rainbow.png>
-Package pdftex.def Info: assets/rainbow.png  used on input line 40.
+Package pdftex.def Info: assets/rainbow.png  used on input line 25.
 (pdftex.def)             Requested size: 364.19527pt x 1.4775pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  [][][]\T1/cmss/m/n/3 Sandia Na-tional Lab-o-ra-to-ries is a mul-ti-mis-sion lab-o-ra-tory man-aged and op-er-ated by Na-tional Tech-nol-ogy and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  \T1/cmss/m/n/3 En-gi-neer-ing So-lu-tions of San-dia LLC, a wholly owned sub-sidiary of Hon-ey-well In-ter-na-tional Inc. for the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  \T1/cmss/m/n/3 U.S. De-part-ment of En-ergy's Na-tional Nu-clear Se-cu-rity Ad-min-is-tra-tion un-der con-tract DE-NA0003525.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
  []\T1/cmss/m/n/3 SAND NO. 2014-00000[]
  []
 
-<assets/doe-black.png, id=41, 2136.98375pt x 517.935pt>
+<assets/doe-black.png, id=53, 2136.98375pt x 517.935pt>
 File: assets/doe-black.png Graphic file (type png)
 <use assets/doe-black.png>
-Package pdftex.def Info: assets/doe-black.png  used on input line 40.
+Package pdftex.def Info: assets/doe-black.png  used on input line 25.
 (pdftex.def)             Requested size: 29.34692pt x 7.11317pt.
-<assets/NNSA_Logo_Black.jpg, id=42, 250.536pt x 69.6201pt>
+<assets/NNSA_Logo_Black.jpg, id=54, 250.536pt x 69.6201pt>
 File: assets/NNSA_Logo_Black.jpg Graphic file (type jpg)
 <use assets/NNSA_Logo_Black.jpg>
-Package pdftex.def Info: assets/NNSA_Logo_Black.jpg  used on input line 40.
+Package pdftex.def Info: assets/NNSA_Logo_Black.jpg  used on input line 25.
 (pdftex.def)             Requested size: 25.59409pt x 7.11317pt.
-<assets/snl-grey-title.pdf, id=43, 113.35172pt x 113.5265pt>
+<assets/snl-grey-title.pdf, id=55, 113.35172pt x 113.5265pt>
 File: assets/snl-grey-title.pdf Graphic file (type pdf)
 <use assets/snl-grey-title.pdf>
-Package pdftex.def Info: assets/snl-grey-title.pdf  used on input line 40.
+Package pdftex.def Info: assets/snl-grey-title.pdf  used on input line 25.
 (pdftex.def)             Requested size: 113.35143pt x 113.52621pt.
-<assets/snl-white.png, id=44, 144.9614pt x 55.83542pt>
+<assets/snl-white.png, id=56, 144.9614pt x 55.83542pt>
 File: assets/snl-white.png Graphic file (type png)
 <use assets/snl-white.png>
-Package pdftex.def Info: assets/snl-white.png  used on input line 40.
+Package pdftex.def Info: assets/snl-white.png  used on input line 25.
 (pdftex.def)             Requested size: 59.09612pt x 22.76219pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./assets/rainbow.png> <./assets/doe-black.png> <./assets/NNSA_Logo_Black.jpg> <./assets/snl-grey-title.pdf> <./assets/snl-white.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./assets/rainbow.png> <./assets/doe-black.png> <./assets/NNSA_Logo_Black.jpg> <./assets/snl-grey-title.pdf> <./assets/snl-white.png>] (./source/introduction.tex
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [2
+
+ <./assets/vrainbow.png> <./assets/header-tbird.png>]
+<../figs/introduction/motivating_example_1.png, id=95, 853.68938pt x 569.12625pt>
+File: ../figs/introduction/motivating_example_1.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_1.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_1.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [3
+
+ <../figs/introduction/motivating_example_1.png>]
+<../figs/introduction/motivating_example_2.png, id=102, 853.68938pt x 569.12625pt>
+File: ../figs/introduction/motivating_example_2.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_2.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_2.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [4
+
+ <../figs/introduction/motivating_example_2.png>]
+<../figs/introduction/motivating_example_3.png, id=109, 853.68938pt x 569.12625pt>
+File: ../figs/introduction/motivating_example_3.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_3.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_3.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [5
+
+ <../figs/introduction/motivating_example_3.png>]
+<../figs/introduction/motivating_example_4.png, id=116, 853.68938pt x 569.12625pt>
+File: ../figs/introduction/motivating_example_4.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_4.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_4.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [6
+
+ <../figs/introduction/motivating_example_4.png>]
+<../figs/introduction/motivating_example_5.png, id=123, 853.68938pt x 569.12625pt>
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [7
+
+ <../figs/introduction/motivating_example_5.png>]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [8
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [9
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [10
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [11
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [12
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [13
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [14
+
+]
+File: ../figs/introduction/motivating_example_5.png Graphic file (type png)
+<use ../figs/introduction/motivating_example_5.png>
+Package pdftex.def Info: ../figs/introduction/motivating_example_5.png  used on input line 64.
+(pdftex.def)             Requested size: 215.10356pt x 143.40146pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 64.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [15
+
+]
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+<../figs/introduction/problem_space_1.png, id=172, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_1.png Graphic file (type png)
+<use ../figs/introduction/problem_space_1.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_1.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [16
+
+ <../figs/introduction/problem_space_1.png>]
+<../figs/introduction/problem_space_2.png, id=179, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_2.png Graphic file (type png)
+<use ../figs/introduction/problem_space_2.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_2.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [17
+
+ <../figs/introduction/problem_space_2.png>]
+<../figs/introduction/problem_space_3.png, id=186, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_3.png Graphic file (type png)
+<use ../figs/introduction/problem_space_3.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_3.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [18
+
+ <../figs/introduction/problem_space_3.png>]
+<../figs/introduction/problem_space_4.png, id=193, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_4.png Graphic file (type png)
+<use ../figs/introduction/problem_space_4.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_4.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [19
+
+ <../figs/introduction/problem_space_4.png>]
+<../figs/introduction/problem_space_5.png, id=201, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_5.png Graphic file (type png)
+<use ../figs/introduction/problem_space_5.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_5.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [20
+
+ <../figs/introduction/problem_space_5.png>]
+<../figs/introduction/problem_space_6.png, id=208, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_6.png Graphic file (type png)
+<use ../figs/introduction/problem_space_6.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_6.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [21
+
+ <../figs/introduction/problem_space_6.png>]
+<../figs/introduction/problem_space_7.png, id=216, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_7.png Graphic file (type png)
+<use ../figs/introduction/problem_space_7.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_7.png  used on input line 104.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 104.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 104.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [22
+
+ <../figs/introduction/problem_space_7.png>])
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -856,18 +1476,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26635 strings out of 474222
- 524932 string characters out of 5748734
- 1938975 words of memory out of 5000000
- 48330 multiletter control sequences out of 15000+600000
- 568932 words of font info for 51 fonts, out of 8000000 for 9000
+ 35058 strings out of 474222
+ 724977 string characters out of 5748733
+ 1942975 words of memory out of 5000000
+ 56539 multiletter control sequences out of 15000+600000
+ 576232 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 142i,11n,137p,1063b,934s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb>
-Output written on main.pdf (1 page, 332254 bytes).
+ 142i,18n,137p,1085b,1075s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb>
+Output written on main.pdf (22 pages, 3407206 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

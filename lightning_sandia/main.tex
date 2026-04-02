@@ -1,43 +1,28 @@
 \documentclass[NM,relaxedfont,theme=angles,number=2014-00000]{sandia-beamer}
-%
-%  Options list:
-%
-%   strictfont  - use Sandia Corporate-specified font 
-%                   The closest LaTeX standard font for 
-%                   Garamond MT is `ebgaramond-maths`
-%                   Gill Sans MT is `gillius`
-%   relaxedfont - use Times font (Times/mathptmx)
-%   sansfont    - Helvetica only [default]
-%   theme       - select theme.  Choose from [dark,light,angles]
-%   slidenumber - include slide numbers on body slides
-%   slidedate   - include date on body slides
-%   titledate   - include date on title slide
-%   number      - SAND report number (don't include 'SAND')
-%
-%   CUI options:
-%     CUI       - include to mark as CUI (must define `\CUIstring{}`
-%                 in preamble [CUI can also take the value =UCNI]
-%     CUIcontrtolledBy - Originating organization 
-%                        (usually Sandia National Laboratories) and 
-%                        name of person controlling the CUI
-%     caveat    - Choose an admonishment including
-%                   - ECDOE (Export controlled by Atomic Energy Act)
-%                   - CRADA 
-%                   - ECEAR (Export Controlled by Export Admin. Act)
-%                   - ECITAR (Export Controlled by ITAR)
-%                   - PATENT
-%
-%   Classified Options:
-%     ClassLevel    - (C) Confidential, (S) Secret, (TS) Top Secret
-%     ClassCat      - FRD, RD, NSI
+\usepackage{new-mysymb}
 
-\title{A Wonderful Sample Slidedeck (UUR)}
-\subtitle{Example UUR}
-\author{Patrick M. Widener \& Christopher J. O'Brien}
+\usepackage[most]{tcolorbox}
+\usepackage[most]{tcolorbox}
+\newtcolorbox{graybox}[2][]{%
+  enhanced,
+  width=\linewidth,
+  colback=white!10,
+  colbacktitle=gray!30,
+  colframe=black!60,
+  fonttitle=\bfseries,
+  coltitle=black,
+  title={#2},
+  before skip=0pt,
+  after skip=0pt,
+  #1
+}
+\title{Physics-Infused Reduced-Order Modeling of Hypersonic Systems}
+\subtitle{An Overview of Recent Advances and Future Directions}
+\author{Carlos A. Vargas Venegas}
 
 \begin{document}
 
 \maketitle
-
+\input{./source/introduction.tex}
 
 \end{document}
