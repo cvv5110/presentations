@@ -1,0 +1,37 @@
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\newcommand{\vcQ}{\boldsymbol{\mathcal{Q}}}
+\newcommand{\vomega}{\boldsymbol{\omega}}
+\newcommand{\vbeta}{\boldsymbol{\beta}}
+\newcommand{\vs}{\mathbf{s}}
+\newcommand{\vy}{\mathbf{y}}
+\newcommand{\vu}{\mathbf{u}}
+\newcommand{\vxi}{\boldsymbol{\xi}}
+\newcommand{\vPsi}{\boldsymbol{\Psi}}
+\newcommand{\vzero}{\boldsymbol{0}}
+\newcommand{\vtheta}{\boldsymbol{\theta}}
+\newcommand{\vTheta}{\boldsymbol{\Theta}}
+\newcommand{\vlambda}{\boldsymbol{\lambda}}
+\newcommand{\vp}{\mathbf{p}}
+\newcommand{\vnu}{\boldsymbol{\nu}}
+\newcommand{\vz}{\mathbf{z}}
+\newcommand{\vPhi}{\boldsymbol{\Phi}}
+\newcommand{\vf}{\mathbf{f}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\vOmega}{\boldsymbol{\Omega}}
+\newcommand{\hlred}[1]{\colorbox{red!50}{$\displaystyle #1$}}
+\newcommand{\hlgreen}[1]{\colorbox{green!50}{$\displaystyle #1$}}
+\newcommand{\redvomega}{\textcolor{red}{\boldsymbol{\omega}}}
+\newcommand{\redvTheta}{\textcolor{red}{\boldsymbol{\Theta}}}
+\newcommand{\vq}{\mathbf{q}}
+\newcommand{\vA}{\mathbf{A}}
+\newcommand{\vB}{\mathbf{B}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\redvbeta}{\textcolor{red}{\boldsymbol{\beta}}}
+\newcommand{\vcD}{\boldsymbol{\mathcal{D}}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\redTheta}{\textcolor{red}{\Theta}}
+\newcommand{\vx}{\mathbf{x}}
+\newcommand{\cR}{\mathcal{R}}
