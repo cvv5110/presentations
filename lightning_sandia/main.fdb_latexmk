@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1775754162.00884 "/home/andres/presentations/lightning_sandia/main.tex" "main.pdf" "main" 1775754175.65276 0
+["pdflatex"] 1775758721.4483 "/home/andres/presentations/lightning_sandia/main.tex" "main.pdf" "main" 1775758735.23693 0
   "../figs/introduction/itm_1.png" 1775316675.38085 40058 57041af94c9d74190c733c57aef9dc7b ""
   "../figs/introduction/itm_2.png" 1775316675.38185 101505 f7cf50dc894a5f2ce548fa9a9fa5116b ""
   "../figs/introduction/itm_3.png" 1775316675.38385 194439 d54e607ad4669df6ff9865f674576ed6 ""
@@ -368,15 +368,15 @@
   "beamerinnerthemeAngles.sty" 1775316677.4235 7853 4815870e44dc1d2a191350c7308391d4 ""
   "beamerouterthemeAngles.sty" 1775316677.4245 3421 5aa18b66bb4c571a5f2baaa76618d516 ""
   "beamerthemeAngles.sty" 1775316677.4245 1614 07343d6d35ff097a99c8058b142e0c56 ""
-  "main.aux" 1775754175.50025 9501 8f4e76bb99850740b4ea0379362ae554 "pdflatex"
-  "main.nav" 1775754175.50125 1135 48eefc07deea8e4bf9b1e4825447756f "pdflatex"
-  "main.out" 1775754162.78521 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1775758735.07832 9746 8848d379f59f493b6924c07373937eaa "pdflatex"
+  "main.nav" 1775758735.07932 1228 50652b798db9764d395c2bfe066d5a39 "pdflatex"
+  "main.out" 1775758722.2245 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1775753492.60025 632 a2a9e5e0cbe657bdf099e71f9ed58c3e ""
   "markings.tex" 1775316677.44951 10045 669c6b2d0c7109f34b4f59c7ca69b3e3 ""
   "new-mysymb.sty" 1775316677.44951 7587 cee14fd555bfc4ed97e787900c5bd0e0 ""
   "sandia-beamer.cls" 1775316677.44951 15063 65cd69c7112568c7ee7112a6e5e3e409 ""
   "source/introduction.tex" 1775753711.737 12478 98bd9f8f1f7ce16e94f4290db672fac7 ""
-  "source/tps.tex" 1775754158.2992 197 6d9d3eaf0bdee6ce32df337fafd2932a ""
+  "source/tps.tex" 1775758709.61068 238 1fed32fc01a96a3864200a9b25bb0612 ""
   (generated)
   "main.aux"
   "main.log"
