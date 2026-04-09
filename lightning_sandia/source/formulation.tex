@@ -61,73 +61,72 @@
     \footnotesize
     \vspace*{-0.2in}
     \begin{columns}
-        \visible<1->{
         \begin{column}{0.55\textwidth}
-            \only<1>{
+            \only<2>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.85\textwidth]{../figs/pirom/coarse_graining_tps_left_1.png}
                 \end{figure}}
-            \only<2>{
+            \only<3>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.85\textwidth]{../figs/pirom/coarse_graining_tps_left_2.png}
                 \end{figure}}
-            \only<3>{
+            \only<4>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.85\textwidth]{../figs/pirom/coarse_graining_tps_left_3.png}
                 \end{figure}}
-            \only<4->{
+            \only<5->{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.85\textwidth]{../figs/pirom/coarse_graining_tps_left_4.png}
                 \end{figure}}
-        \end{column}}
+        \end{column}
         \hspace*{-0.25in}
-        \visible<1->{
         \begin{column}{0.55\textwidth}
             \vspace*{-0.05in}
-            \only<5>{
+            \only<6>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_1.png}
                 \end{figure}}
-            \only<6>{
+            \only<7>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_2.png}
                 \end{figure}}
-            \only<7>{
+            \only<8>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_3.png}
                 \end{figure}}
-            \only<8>{
+            \only<9>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_4.png}
                 \end{figure}}
-            \only<9>{
+            \only<10>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_5.png}
                 \end{figure}}
-            \only<10>{
+            \only<11>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.95\textwidth]{../figs/pirom/coarse_grained_variables_tps_6.png}
                 \end{figure}}
-        \end{column}}
+        \end{column}
     \end{columns}
 \end{frame}
 
 \begin{frame}{\small We need to \textbf{efficiently model} the \textbf{residual dynamics},}
     \footnotesize
     \vspace*{-0.3in}
+    \visible<2->{
     \begin{equation*}
         \text{Projected GLE}:\quad \underbrace{\frac{\partial}{\partial t} \cP e^{t\cL}\bvu}_{\text{Observable Dynamics}} \visible<3->{= \underbrace{\cP e^{t\cL}\cP\cL\bvu}_{\text{Markovian}}} \visible<4->{+ \cP\underbrace{\int_0^t e^{(t-s)\cL}\cP\cL e^{s\cQ\cL}\cQ\cL\bvu ds}_{\text{Non-Markovian}}} \visible<5->{+ \cP\underbrace{e^{t\cQ\cL}\cQ\cL\bvu}_{\text{Noise}}}
-    \end{equation*}
+    \end{equation*}}
     \begin{columns}
         \visible<3->{
         \begin{column}{0.3\textwidth}
@@ -167,9 +166,10 @@
     \vspace*{-0.3in}
     \begin{columns}
         \begin{column}{0.5\textwidth}
+            \visible<2->{
             \begin{center}
                 \textbf{Memory Kernel Approximation}
-            \end{center}
+            \end{center}}
                 \visible<3->{
                 Define the memory kernel,
                 \begin{equation*}
@@ -189,9 +189,10 @@
         \end{column}
         \hspace*{-0.1in}
         \begin{column}{0.55\textwidth}
+            \visible<6->{
             \begin{center}
                 \textbf{Markovian Reformulation}
-            \end{center}
+            \end{center}}
                 \visible<7->{
                 Define the memory variable as,
                 \begin{equation*}
