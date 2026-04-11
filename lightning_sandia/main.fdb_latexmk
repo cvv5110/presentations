@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1775940978.57963 "/home/andres/presentations/lightning_sandia/main.tex" "main.pdf" "main" 1775941005.95791 0
+["pdflatex"] 1775941627.54822 "/home/andres/presentations/lightning_sandia/main.tex" "main.pdf" "main" 1775941655.34772 0
   "../figs/introduction/problem_space_1.png" 1775927825.77934 58155 9694d1814f4b23379c10ddda82425950 ""
   "../figs/introduction/problem_space_10.png" 1775927825.78234 514654 9f5acb9dfe3befc4a6a7bfcee416a658 ""
   "../figs/introduction/problem_space_2.png" 1775927825.78234 76297 d024339fdc36f1b0c706c47833858c88 ""
@@ -57,7 +57,7 @@
   "../figs/sota/physics_infused_8.png" 1775934736.73211 574927 8a53a2299c0fc28cafa26f3ef6a2c2f9 ""
   "../figs/sota/physics_infused_9.png" 1775934743.2981 576687 aee86f598d73df560b6e89d256eb8022 ""
   "/etc/texmf/web2c/texmf.cnf" 1756260258.42441 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/andres/presentations/lightning_sandia/main.tex" 1775927825.97234 1937 6334aedb74a08e94a42c2296460d76f6 ""
+  "/home/andres/presentations/lightning_sandia/main.tex" 1775941627.49035 1926 ed85dbb1cbfedc692a266a20effb9ccb ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm" 1136768653 3584 178baad7ffca7f5d3428a83bd7cc64c3 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm" 1136768653 3584 291a5713401683441e0a8c8f4417b17b ""
@@ -330,10 +330,10 @@
   "beamerinnerthemeAngles.sty" 1775164318.57699 7853 4815870e44dc1d2a191350c7308391d4 ""
   "beamerouterthemeAngles.sty" 1775164318.57699 3421 5aa18b66bb4c571a5f2baaa76618d516 ""
   "beamerthemeAngles.sty" 1775164318.57699 1614 07343d6d35ff097a99c8058b142e0c56 ""
-  "main.aux" 1775941005.56318 8147 b72d967e7d8713fcf0ab9b325824a6d9 "pdflatex"
-  "main.nav" 1775941005.56418 769 4d11ef6e5eb98b366222264a1ec258f8 "pdflatex"
-  "main.out" 1775940979.49575 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1775927825.97234 1937 6334aedb74a08e94a42c2296460d76f6 ""
+  "main.aux" 1775941655.1729 8147 b72d967e7d8713fcf0ab9b325824a6d9 "pdflatex"
+  "main.nav" 1775941655.1739 769 4d11ef6e5eb98b366222264a1ec258f8 "pdflatex"
+  "main.out" 1775941628.54837 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1775941627.49035 1926 ed85dbb1cbfedc692a266a20effb9ccb ""
   "markings.tex" 1775164318.57799 10045 669c6b2d0c7109f34b4f59c7ca69b3e3 ""
   "new-mysymb.sty" 1775166304.28456 7587 cee14fd555bfc4ed97e787900c5bd0e0 ""
   "sandia-beamer.cls" 1775164318.57899 15063 65cd69c7112568c7ee7112a6e5e3e409 ""
