@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.26)  10 APR 2026 19:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.10)  11 APR 2026 10:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,15 +508,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
-Package: sansmathaccent 2020/01/31
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count344
@@ -1110,27 +1102,27 @@ Package pdftex.def Info: assets/snl-white.png  used on input line 55.
 (pdftex.def)             Requested size: 59.09612pt x 22.76219pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./assets/rainbow.png> <./assets/doe-black.png> <./assets/NNSA_Logo_Black.jpg> <./assets/snl-grey-title.pdf> <./assets/snl-white.png>] (./source/introduction.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/rainbow.png> <./assets/doe-black.png> <./assets/NNSA_Logo_Black.jpg> <./assets/snl-grey-title.pdf> <./assets/snl-white.png>] (./source/introduction.tex
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 <../figs/introduction/problem_space_1.png, id=72, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_1.png Graphic file (type png)
 <use ../figs/introduction/problem_space_1.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_1.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_1.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [2
 
@@ -1138,15 +1130,15 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_2.png, id=82, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_2.png Graphic file (type png)
 <use ../figs/introduction/problem_space_2.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_2.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_2.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [3
 
@@ -1154,15 +1146,15 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_3.png, id=89, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_3.png Graphic file (type png)
 <use ../figs/introduction/problem_space_3.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_3.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_3.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [4
 
@@ -1170,15 +1162,15 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_4.png, id=96, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_4.png Graphic file (type png)
 <use ../figs/introduction/problem_space_4.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_4.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_4.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [5
 
@@ -1186,15 +1178,15 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_5.png, id=103, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_5.png Graphic file (type png)
 <use ../figs/introduction/problem_space_5.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_5.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_5.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [6
 
@@ -1202,15 +1194,15 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_6.png, id=110, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_6.png Graphic file (type png)
 <use ../figs/introduction/problem_space_6.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_6.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_6.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [7
 
@@ -1218,605 +1210,713 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
 <../figs/introduction/problem_space_7.png, id=118, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_7.png Graphic file (type png)
 <use ../figs/introduction/problem_space_7.png>
-Package pdftex.def Info: ../figs/introduction/problem_space_7.png  used on input line 40.
+Package pdftex.def Info: ../figs/introduction/problem_space_7.png  used on input line 55.
 (pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 40.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 40.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [8
 
  <../figs/introduction/problem_space_7.png>]
+<../figs/introduction/problem_space_8.png, id=125, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_8.png Graphic file (type png)
+<use ../figs/introduction/problem_space_8.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_8.png  used on input line 55.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/sota/physics_informed_1.png, id=125, 1138.2525pt x 625.58719pt>
+ [9
+
+ <../figs/introduction/problem_space_8.png>]
+<../figs/introduction/problem_space_9.png, id=132, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_9.png Graphic file (type png)
+<use ../figs/introduction/problem_space_9.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_9.png  used on input line 55.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [10
+
+ <../figs/introduction/problem_space_9.png>]
+<../figs/introduction/problem_space_10.png, id=139, 1422.81563pt x 569.12625pt>
+File: ../figs/introduction/problem_space_10.png Graphic file (type png)
+<use ../figs/introduction/problem_space_10.png>
+Package pdftex.def Info: ../figs/introduction/problem_space_10.png  used on input line 55.
+(pdftex.def)             Requested size: 378.42044pt x 151.36484pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 55.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 55.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [11
+
+ <../figs/introduction/problem_space_10.png>]
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+<../figs/sota/physics_informed_1.png, id=146, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_informed_1.png Graphic file (type png)
 <use ../figs/sota/physics_informed_1.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_1.png  used on input line 208.
+Package pdftex.def Info: ../figs/sota/physics_informed_1.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[9
-
- <../figs/sota/physics_informed_1.png>]
-<../figs/sota/physics_informed_2.png, id=133, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_2.png Graphic file (type png)
-<use ../figs/sota/physics_informed_2.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_2.png  used on input line 208.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-
-Overfull \vbox (0.44481pt too high) detected at line 208
- []
-
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[10
-
- <../figs/sota/physics_informed_2.png>]
-<../figs/sota/physics_informed_3.png, id=140, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_3.png Graphic file (type png)
-<use ../figs/sota/physics_informed_3.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_3.png  used on input line 208.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-
-Overfull \vbox (0.44481pt too high) detected at line 208
- []
-
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[11
-
- <../figs/sota/physics_informed_3.png>]
-<../figs/sota/physics_informed_4.png, id=147, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_4.png Graphic file (type png)
-<use ../figs/sota/physics_informed_4.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_4.png  used on input line 208.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-
-Overfull \vbox (0.44481pt too high) detected at line 208
- []
-
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [12
 
- <../figs/sota/physics_informed_4.png>]
-<../figs/sota/physics_informed_5.png, id=154, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_5.png Graphic file (type png)
-<use ../figs/sota/physics_informed_5.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_5.png  used on input line 208.
+ <../figs/sota/physics_informed_1.png>]
+<../figs/sota/physics_informed_2.png, id=154, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_2.png Graphic file (type png)
+<use ../figs/sota/physics_informed_2.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_2.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [13
 
- <../figs/sota/physics_informed_5.png>]
-<../figs/sota/physics_informed_6.png, id=162, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_6.png Graphic file (type png)
-<use ../figs/sota/physics_informed_6.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_6.png  used on input line 208.
+ <../figs/sota/physics_informed_2.png>]
+<../figs/sota/physics_informed_3.png, id=162, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_3.png Graphic file (type png)
+<use ../figs/sota/physics_informed_3.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_3.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [14
 
- <../figs/sota/physics_informed_6.png>]
-<../figs/sota/physics_informed_7.png, id=169, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_7.png Graphic file (type png)
-<use ../figs/sota/physics_informed_7.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_7.png  used on input line 208.
+ <../figs/sota/physics_informed_3.png>]
+<../figs/sota/physics_informed_4.png, id=169, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_4.png Graphic file (type png)
+<use ../figs/sota/physics_informed_4.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_4.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [15
 
- <../figs/sota/physics_informed_7.png>]
-<../figs/sota/physics_informed_8.png, id=176, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_8.png Graphic file (type png)
-<use ../figs/sota/physics_informed_8.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_8.png  used on input line 208.
+ <../figs/sota/physics_informed_4.png>]
+<../figs/sota/physics_informed_5.png, id=176, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_5.png Graphic file (type png)
+<use ../figs/sota/physics_informed_5.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_5.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [16
 
- <../figs/sota/physics_informed_8.png>]
-<../figs/sota/physics_informed_9.png, id=183, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_9.png Graphic file (type png)
-<use ../figs/sota/physics_informed_9.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_9.png  used on input line 208.
+ <../figs/sota/physics_informed_5.png>]
+<../figs/sota/physics_informed_6.png, id=183, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_6.png Graphic file (type png)
+<use ../figs/sota/physics_informed_6.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_6.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [17
 
- <../figs/sota/physics_informed_9.png>]
-<../figs/sota/physics_informed_10.png, id=190, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_10.png Graphic file (type png)
-<use ../figs/sota/physics_informed_10.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_10.png  used on input line 208.
+ <../figs/sota/physics_informed_6.png>]
+<../figs/sota/physics_informed_7.png, id=190, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_7.png Graphic file (type png)
+<use ../figs/sota/physics_informed_7.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_7.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [18
 
- <../figs/sota/physics_informed_10.png>]
-<../figs/sota/physics_informed_11.png, id=197, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_11.png Graphic file (type png)
-<use ../figs/sota/physics_informed_11.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_11.png  used on input line 208.
+ <../figs/sota/physics_informed_7.png>]
+<../figs/sota/physics_informed_8.png, id=197, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_8.png Graphic file (type png)
+<use ../figs/sota/physics_informed_8.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_8.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [19
 
- <../figs/sota/physics_informed_11.png>]
-<../figs/sota/physics_informed_12.png, id=205, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_12.png Graphic file (type png)
-<use ../figs/sota/physics_informed_12.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_12.png  used on input line 208.
+ <../figs/sota/physics_informed_8.png>]
+<../figs/sota/physics_informed_9.png, id=205, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_9.png Graphic file (type png)
+<use ../figs/sota/physics_informed_9.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_9.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [20
 
- <../figs/sota/physics_informed_12.png>]
-<../figs/sota/physics_informed_13.png, id=212, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_13.png Graphic file (type png)
-<use ../figs/sota/physics_informed_13.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_13.png  used on input line 208.
+ <../figs/sota/physics_informed_9.png>]
+<../figs/sota/physics_informed_10.png, id=212, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_10.png Graphic file (type png)
+<use ../figs/sota/physics_informed_10.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_10.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [21
 
- <../figs/sota/physics_informed_13.png>]
-<../figs/sota/physics_informed_14.png, id=220, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_14.png Graphic file (type png)
-<use ../figs/sota/physics_informed_14.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_14.png  used on input line 208.
+ <../figs/sota/physics_informed_10.png>]
+<../figs/sota/physics_informed_11.png, id=220, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_11.png Graphic file (type png)
+<use ../figs/sota/physics_informed_11.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_11.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [22
 
- <../figs/sota/physics_informed_14.png>]
-<../figs/sota/physics_informed_15.png, id=227, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_informed_15.png Graphic file (type png)
-<use ../figs/sota/physics_informed_15.png>
-Package pdftex.def Info: ../figs/sota/physics_informed_15.png  used on input line 208.
+ <../figs/sota/physics_informed_11.png>]
+<../figs/sota/physics_informed_12.png, id=227, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_12.png Graphic file (type png)
+<use ../figs/sota/physics_informed_12.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_12.png  used on input line 238.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 
-Overfull \vbox (0.44481pt too high) detected at line 208
+Overfull \vbox (0.44481pt too high) detected at line 238
  []
 
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 208.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 208.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 [23
 
- <../figs/sota/physics_informed_15.png>]
+ <../figs/sota/physics_informed_12.png>]
+<../figs/sota/physics_informed_13.png, id=234, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_13.png Graphic file (type png)
+<use ../figs/sota/physics_informed_13.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_13.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/sota/physics_infused_1.png, id=234, 1138.2525pt x 625.58719pt>
+[24
+
+ <../figs/sota/physics_informed_13.png>]
+<../figs/sota/physics_informed_14.png, id=241, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_14.png Graphic file (type png)
+<use ../figs/sota/physics_informed_14.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_14.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+[25
+
+ <../figs/sota/physics_informed_14.png>]
+<../figs/sota/physics_informed_15.png, id=249, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_15.png Graphic file (type png)
+<use ../figs/sota/physics_informed_15.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_15.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+[26
+
+ <../figs/sota/physics_informed_15.png>]
+<../figs/sota/physics_informed_16.png, id=256, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_16.png Graphic file (type png)
+<use ../figs/sota/physics_informed_16.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_16.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+[27
+
+ <../figs/sota/physics_informed_16.png>]
+<../figs/sota/physics_informed_17.png, id=263, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_17.png Graphic file (type png)
+<use ../figs/sota/physics_informed_17.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_17.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+[28
+
+ <../figs/sota/physics_informed_17.png>]
+<../figs/sota/physics_informed_18.png, id=270, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_informed_18.png Graphic file (type png)
+<use ../figs/sota/physics_informed_18.png>
+Package pdftex.def Info: ../figs/sota/physics_informed_18.png  used on input line 238.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+
+Overfull \vbox (0.44481pt too high) detected at line 238
+ []
+
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 238.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+[29
+
+ <../figs/sota/physics_informed_18.png>]
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+<../figs/sota/physics_infused_1.png, id=277, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_1.png Graphic file (type png)
 <use ../figs/sota/physics_infused_1.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_1.png  used on input line 298.
+Package pdftex.def Info: ../figs/sota/physics_infused_1.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [24
-
- <../figs/sota/physics_infused_1.png>]
-<../figs/sota/physics_infused_2.png, id=241, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_2.png Graphic file (type png)
-<use ../figs/sota/physics_infused_2.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_2.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [25
-
- <../figs/sota/physics_infused_2.png>]
-<../figs/sota/physics_infused_3.png, id=249, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_3.png Graphic file (type png)
-<use ../figs/sota/physics_infused_3.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_3.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [26
-
- <../figs/sota/physics_infused_3.png>]
-<../figs/sota/physics_infused_4.png, id=256, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_4.png Graphic file (type png)
-<use ../figs/sota/physics_infused_4.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_4.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [27
-
- <../figs/sota/physics_infused_4.png>]
-<../figs/sota/physics_infused_5.png, id=263, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_5.png Graphic file (type png)
-<use ../figs/sota/physics_infused_5.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_5.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [28
-
- <../figs/sota/physics_infused_5.png>]
-<../figs/sota/physics_infused_6.png, id=270, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_6.png Graphic file (type png)
-<use ../figs/sota/physics_infused_6.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_6.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [29
-
- <../figs/sota/physics_infused_6.png>]
-<../figs/sota/physics_infused_7.png, id=277, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_7.png Graphic file (type png)
-<use ../figs/sota/physics_infused_7.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_7.png  used on input line 298.
-(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [30
 
- <../figs/sota/physics_infused_7.png>]
-<../figs/sota/physics_infused_8.png, id=284, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_8.png Graphic file (type png)
-<use ../figs/sota/physics_infused_8.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_8.png  used on input line 298.
+ <../figs/sota/physics_infused_1.png>]
+<../figs/sota/physics_infused_2.png, id=284, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_2.png Graphic file (type png)
+<use ../figs/sota/physics_infused_2.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_2.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [31
 
- <../figs/sota/physics_infused_8.png>]
-<../figs/sota/physics_infused_9.png, id=292, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_9.png Graphic file (type png)
-<use ../figs/sota/physics_infused_9.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_9.png  used on input line 298.
+ <../figs/sota/physics_infused_2.png>]
+<../figs/sota/physics_infused_3.png, id=292, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_3.png Graphic file (type png)
+<use ../figs/sota/physics_infused_3.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_3.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [32
 
- <../figs/sota/physics_infused_9.png>]
-<../figs/sota/physics_infused_10.png, id=299, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_10.png Graphic file (type png)
-<use ../figs/sota/physics_infused_10.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_10.png  used on input line 298.
+ <../figs/sota/physics_infused_3.png>]
+<../figs/sota/physics_infused_4.png, id=299, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_4.png Graphic file (type png)
+<use ../figs/sota/physics_infused_4.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_4.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [33
 
- <../figs/sota/physics_infused_10.png>]
-<../figs/sota/physics_infused_11.png, id=306, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_11.png Graphic file (type png)
-<use ../figs/sota/physics_infused_11.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_11.png  used on input line 298.
+ <../figs/sota/physics_infused_4.png>]
+<../figs/sota/physics_infused_5.png, id=306, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_5.png Graphic file (type png)
+<use ../figs/sota/physics_infused_5.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_5.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [34
 
- <../figs/sota/physics_infused_11.png>]
-<../figs/sota/physics_infused_12.png, id=313, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_12.png Graphic file (type png)
-<use ../figs/sota/physics_infused_12.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_12.png  used on input line 298.
+ <../figs/sota/physics_infused_5.png>]
+<../figs/sota/physics_infused_6.png, id=313, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_6.png Graphic file (type png)
+<use ../figs/sota/physics_infused_6.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_6.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [35
 
- <../figs/sota/physics_infused_12.png>]
-<../figs/sota/physics_infused_13.png, id=320, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_13.png Graphic file (type png)
-<use ../figs/sota/physics_infused_13.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_13.png  used on input line 298.
+ <../figs/sota/physics_infused_6.png>]
+<../figs/sota/physics_infused_7.png, id=320, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_7.png Graphic file (type png)
+<use ../figs/sota/physics_infused_7.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_7.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [36
 
- <../figs/sota/physics_infused_13.png>]
-<../figs/sota/physics_infused_14.png, id=327, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_14.png Graphic file (type png)
-<use ../figs/sota/physics_infused_14.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_14.png  used on input line 298.
+ <../figs/sota/physics_infused_7.png>]
+<../figs/sota/physics_infused_8.png, id=327, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_8.png Graphic file (type png)
+<use ../figs/sota/physics_infused_8.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_8.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [37
 
- <../figs/sota/physics_infused_14.png>]
-<../figs/sota/physics_infused_15.png, id=335, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_15.png Graphic file (type png)
-<use ../figs/sota/physics_infused_15.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_15.png  used on input line 298.
+ <../figs/sota/physics_infused_8.png>]
+<../figs/sota/physics_infused_9.png, id=335, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_9.png Graphic file (type png)
+<use ../figs/sota/physics_infused_9.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_9.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [38
 
- <../figs/sota/physics_infused_15.png>]
-<../figs/sota/physics_infused_16.png, id=342, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_16.png Graphic file (type png)
-<use ../figs/sota/physics_infused_16.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_16.png  used on input line 298.
+ <../figs/sota/physics_infused_9.png>]
+<../figs/sota/physics_infused_10.png, id=342, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_10.png Graphic file (type png)
+<use ../figs/sota/physics_infused_10.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_10.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [39
 
- <../figs/sota/physics_infused_16.png>]
-<../figs/sota/physics_infused_17.png, id=349, 1138.2525pt x 625.58719pt>
-File: ../figs/sota/physics_infused_17.png Graphic file (type png)
-<use ../figs/sota/physics_infused_17.png>
-Package pdftex.def Info: ../figs/sota/physics_infused_17.png  used on input line 298.
+ <../figs/sota/physics_infused_10.png>]
+<../figs/sota/physics_infused_11.png, id=349, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_11.png Graphic file (type png)
+<use ../figs/sota/physics_infused_11.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_11.png  used on input line 328.
 (pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 298.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 298.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [40
+
+ <../figs/sota/physics_infused_11.png>]
+<../figs/sota/physics_infused_12.png, id=356, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_12.png Graphic file (type png)
+<use ../figs/sota/physics_infused_12.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_12.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [41
+
+ <../figs/sota/physics_infused_12.png>]
+<../figs/sota/physics_infused_13.png, id=363, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_13.png Graphic file (type png)
+<use ../figs/sota/physics_infused_13.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_13.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [42
+
+ <../figs/sota/physics_infused_13.png>]
+<../figs/sota/physics_infused_14.png, id=370, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_14.png Graphic file (type png)
+<use ../figs/sota/physics_infused_14.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_14.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [43
+
+ <../figs/sota/physics_infused_14.png>]
+<../figs/sota/physics_infused_15.png, id=378, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_15.png Graphic file (type png)
+<use ../figs/sota/physics_infused_15.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_15.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [44
+
+ <../figs/sota/physics_infused_15.png>]
+<../figs/sota/physics_infused_16.png, id=385, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_16.png Graphic file (type png)
+<use ../figs/sota/physics_infused_16.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_16.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [45
+
+ <../figs/sota/physics_infused_16.png>]
+<../figs/sota/physics_infused_17.png, id=392, 1138.2525pt x 625.58719pt>
+File: ../figs/sota/physics_infused_17.png Graphic file (type png)
+<use ../figs/sota/physics_infused_17.png>
+Package pdftex.def Info: ../figs/sota/physics_infused_17.png  used on input line 328.
+(pdftex.def)             Requested size: 358.50229pt x 197.03236pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 328.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 328.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [46
 
  <../figs/sota/physics_infused_17.png>]) (./source/results.tex
 File: assets/vrainbow.png Graphic file (type png)
@@ -1827,7 +1927,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 12.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/pirom/tps.png, id=356, 675.57996pt x 407.02464pt>
+<../figs/pirom/tps.png, id=400, 675.57996pt x 407.02464pt>
 File: ../figs/pirom/tps.png Graphic file (type png)
 <use ../figs/pirom/tps.png>
 Package pdftex.def Info: ../figs/pirom/tps.png  used on input line 12.
@@ -1840,7 +1940,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 12.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [41
+ [47
 
  <../figs/pirom/tps.png>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -1859,10 +1959,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 37.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [42
+ [48
 
 ]
-<../figs/pirom/tps_data_1.png, id=368, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_1.png, id=412, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_1.png Graphic file (type png)
 <use ../figs/pirom/tps_data_1.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_1.png  used on input line 37.
@@ -1875,10 +1975,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 37.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [43
+ [49
 
  <../figs/pirom/tps_data_1.png>]
-<../figs/pirom/tps_data_2.png, id=376, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_2.png, id=420, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_2.png Graphic file (type png)
 <use ../figs/pirom/tps_data_2.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_2.png  used on input line 37.
@@ -1891,10 +1991,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 37.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [44
+ [50
 
  <../figs/pirom/tps_data_2.png>]
-<../figs/pirom/tps_data_3.png, id=383, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_3.png, id=427, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_3.png Graphic file (type png)
 <use ../figs/pirom/tps_data_3.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_3.png  used on input line 37.
@@ -1907,10 +2007,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 37.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [45
+ [51
 
  <../figs/pirom/tps_data_3.png>]
-<../figs/pirom/tps_data_4.png, id=390, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_4.png, id=434, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_4.png Graphic file (type png)
 <use ../figs/pirom/tps_data_4.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_4.png  used on input line 37.
@@ -1923,7 +2023,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 37.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [46
+ [52
 
  <../figs/pirom/tps_data_4.png>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -1942,10 +2042,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [47
+ [53
 
 ]
-<../figs/pirom/performance_1.png, id=403, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_1.png, id=446, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_1.png Graphic file (type png)
 <use ../figs/pirom/performance_1.png>
 Package pdftex.def Info: ../figs/pirom/performance_1.png  used on input line 111.
@@ -1963,10 +2063,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[48
+[54
 
  <../figs/pirom/performance_1.png>]
-<../figs/pirom/performance_2.png, id=410, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_2.png, id=453, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_2.png Graphic file (type png)
 <use ../figs/pirom/performance_2.png>
 Package pdftex.def Info: ../figs/pirom/performance_2.png  used on input line 111.
@@ -1984,10 +2084,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[49
+[55
 
  <../figs/pirom/performance_2.png>]
-<../figs/pirom/performance_3.png, id=418, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_3.png, id=461, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_3.png Graphic file (type png)
 <use ../figs/pirom/performance_3.png>
 Package pdftex.def Info: ../figs/pirom/performance_3.png  used on input line 111.
@@ -2005,10 +2105,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[50
+[56
 
  <../figs/pirom/performance_3.png>]
-<../figs/pirom/performance_4.png, id=425, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_4.png, id=468, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_4.png Graphic file (type png)
 <use ../figs/pirom/performance_4.png>
 Package pdftex.def Info: ../figs/pirom/performance_4.png  used on input line 111.
@@ -2026,10 +2126,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[51
+[57
 
  <../figs/pirom/performance_4.png>]
-<../figs/pirom/performance_5.png, id=432, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_5.png, id=475, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_5.png Graphic file (type png)
 <use ../figs/pirom/performance_5.png>
 Package pdftex.def Info: ../figs/pirom/performance_5.png  used on input line 111.
@@ -2047,7 +2147,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 111.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[52
+[58
 
  <../figs/pirom/performance_5.png>])
 \tf@nav=\write6
@@ -2068,18 +2168,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35522 strings out of 474222
- 738457 string characters out of 5748733
+ 35426 strings out of 476106
+ 736384 string characters out of 5793933
  1939975 words of memory out of 5000000
- 56963 multiletter control sequences out of 15000+600000
+ 56626 multiletter control sequences out of 15000+600000
  570773 words of font info for 54 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 142i,18n,137p,1085b,1075s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on main.pdf (52 pages, 42349733 bytes).
+ 59 hyphenation exceptions out of 8191
+ 108i,18n,127p,1085b,1075s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1728.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk> </home/andres/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0500.360pk>
+Output written on main.pdf (58 pages, 43294760 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 286 compressed objects within 3 object streams
- 105 named destinations out of 1000 (max. 500000)
- 467 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 730 PDF objects out of 1000 (max. 8388607)
+ 320 compressed objects within 4 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 497 words of extra memory for PDF output out of 10000 (max. 10000000)
 
