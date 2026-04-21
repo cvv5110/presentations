@@ -1,0 +1,105 @@
+
+\ProvidesPackage{beamercolorthemeSandia}
+
+
+\mode<presentation>
+
+
+% -------------------------------------------------------
+% New primary colors from the SNL Graphic Standards Guide
+%   Rev. 03/2021
+% -------------------------------------------------------
+% SNL Gray 900 (Pantone Black 7 C)
+% CMYK: 38,35,33,90
+% HTML: #3d3d3d
+\definecolor{snlgray}{RGB}{61,61,61}
+
+% SNL Medium Blue 700 (Pantone 2377 C)
+% CMYK: 84,54,29,30
+% HTML: #005376
+\definecolor{snlmediumblue}{RGB}{0,83,118}
+
+% SNL Light Blue (Pantone 312 C)
+% CMYK: 100,0,12,0
+% HTML: #00add0
+\definecolor{snllightblue}{RGB}{0,173,208}
+
+%SNL light gray
+\definecolor{snllightgray}{RGB}{242,242,242}
+
+% ----------------
+% Secondary colors
+% ----------------
+% Pantone 3288C (dark forest green)
+% CMYK: 99,3,68,12
+% HTML: 008E74
+\definecolor{snldarkgreen}{RGB}{0,142,116}
+
+% Pantone 369C (leaf green)
+% CMYK: 68,0,100,0
+% HTML: 6CB312
+\definecolor{snlgreen}{RGB}{108,179,18}
+
+% SNL Medium 400 (orange)
+% Pantone 144C
+% CMYK: 0,51,100,0
+% HTML: FFA033
+\definecolor{snlmedium}{RGB}{255,160,51}
+
+% SNL Red Orange 700 
+% Pantone 7627C
+% CMYK: 5,94,88,22
+% HTML: A92C00
+\definecolor{snlredorange}{RGB}{169,44,0}
+
+% SNL Lavender 700
+% Pantone 689C 
+% CMYK: 24,89,5,32
+% HTML: 7D0D7C
+\definecolor{snllavender}{RGB}{125,13,124}
+
+\newcommand\sandiabeamer@color@vbarfill{snllightblue}
+\newcommand\sandiabeamer@color@lvbarfill{snllightblue}
+\newcommand\sandiabeamer@color@hbarfill{snlmediumblue}
+\newcommand\sandiabeamer@color@OUOboxfill{snlmediumblue}
+\newcommand\sandiabeamer@color@CUIheadfoot{black}
+
+\iftoggle{sandiabeamer@flag@CUI}
+{
+  \renewcommand\sandiabeamer@color@vbarfill{snllavender}
+  \renewcommand\sandiabeamer@color@CUIheadfoot{black}
+  \renewcommand\sandiabeamer@color@lvbarfill{snllavender}
+}{}
+
+\iftoggle{sandiabeamer@flag@darktheme}{
+  \setbeamercolor{background canvas}{bg=snlmediumblue}
+  \renewcommand\sandiabeamer@color@hbarfill{snlgray}
+  % for some reason "itemize items" isn't inheriting properly?
+  \setbeamercolor{itemize item}{fg=snllightblue}
+  \setbeamercolor{itemize subitem}{fg=snllightblue}
+  \setbeamercolor{itemize subsubitem}{fg=snllightblue}
+}{
+  \setbeamercolor{itemize items}{fg=snlmediumblue}
+}
+
+%set color of default block types
+%basic block
+\setbeamercolor{block title}{bg=snllightblue,fg=white}
+\setbeamercolor{block body}{bg=snlgray!25! ,fg=black}
+%  alert block
+\setbeamercolor{block title alerted}{bg=snlredorange ,fg=white}
+\setbeamercolor{block body alerted}{bg=snlmedium,fg=black}
+%  example block
+\setbeamercolor{block title example}{bg=snlgreen, fg=white}
+\setbeamercolor{block body example}{bg=snlgreen!25!, fg=black}
+
+\setbeamertemplate{itemize items}[square]
+%\setbeamertemplate{blocks example}[rounded]
+\setbeamertemplate{blocks}[rounded]
+%\setbeamertemplate{blocks alert}[rounded
+
+\setbeamercolor{normal text}{fg=\sandiabeamer@UX@textfg}
+  
+\mode<all>
+
+\endinput

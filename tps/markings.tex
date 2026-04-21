@@ -1,0 +1,184 @@
+% 
+%  CUI/classified text string and typeset box definitions
+%
+\newcommand{\SAND@mark@CUI}{\relax}
+\newcommand{\SAND@mark@CRADAdate}[1][\today]{{#1}}
+\newcommand{\SAND@mark@CRADAnumber}{999999}
+\newcommand{\SAND@mark@CRADAembargo}{100 years}
+
+\newcommand{\SAND@mark@UCNI@ITAR}{\uline{Export Controlled Information / ITAR}}
+\newcommand{\SAND@mark@UCNI@EAR}{\uline{Export Controlled Information / EAR}}
+\newcommand{\SAND@mark@UCNI@DOE}{\uline{Export Controlled Information / DOE}}
+\newcommand{\SAND@mark@UCNI@PATENT}{\uline{Patent Caution}}
+\newcommand{\SAND@mark@UCIPIApprovals}{N/A}
+
+\newcommand{\SAND@mark@Class@DCName}{Not A. DC}
+\newcommand{\SAND@mark@Class@DCPosition}{Derivative Classifier}
+\newcommand{\SAND@mark@Class@DCOrg}{DOE SNL}
+\newcommand{\SAND@mark@Class@DCGuide}{CG-FAKE-2, 01/01/2099, DOE OC}
+\newcommand{\SAND@mark@Class@DCDeclassify}{DECLASSIFICATION DATE NEEDED}
+
+\newcommand{\SAND@mark@SGI@NameTitle}{\relax}
+\newcommand{\SAND@mark@SGI@Org}{\relax}
+\newcommand{\SAND@mark@SGI@Date}{\relax}
+
+\newcommand{\SAND@mark@CAVEAT@ECDOEextraBox}{
+  {\bfseries EXPORT CONTROLLED INFORMATION}\par
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Atomic Energy Act of 1954, as
+  amended, 42 U.S.C. \S 2011 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@CAVEAT@ECEARextraBox}{
+  {\bfseries EXPORT CONTROLLED INFORMATION}\par
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Export Administration Act of 1979,
+  as amended, 50 U.S.C. App. 2401 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@CAVEAT@ITARextraBox}{
+  {\bfseries EXPORT CONTROLLED INFORMATION}\par
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Arms
+  Export Control Act, 22 U.S.C. 39 \S 2751 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@CAVEAT@CRADAextraBox}{%
+  {\bfseries PROTECTED CRADA INFORMATION}\par
+  This product contains Protected CRADA Information which was produced \SAND@mark@CRADAdate\xspace{} under CRADA No. \SAND@mark@CRADAnumber\xspace{} and is not to be further disclosed for a period of \SAND@mark@CRADAembargo\xspace{} from the date it was produced except as expressly provided for in the CRADA.
+  \par\vspace{.5\baselineskip}
+  Further dissemination authorized to the Department of Energy only; other requests shall be approved by the originating facility or
+  higher DOE programmatic authority.\par
+}
+
+\newcommand{\SAND@mark@CAVEAT@PATENTextraBox}{%
+  {\bfseries PATENT CAUTION}\par
+  These materials may reveal patentable subject matter. The information must not be divulged outside
+  Sandia National Laboratories without the approval of the Legal Technology Transfer Center, Sandia
+  National Laboratories. Approved external recipients must not divulge the information to others.
+  \par\vspace{.5\baselineskip}
+  Further dissemination authorized to U.S. Government agencies only; other requests must be approved by the originating facility or
+  higher DOE programmatic authority.
+  \par\vspace{.5\baselineskip}
+  No distribution limitation for Patent Interest.\par
+}
+
+
+\newcommand{\SAND@mark@CAVEAT@TPP@extraBox}{%
+  {\bfseries \SAND@mark@@thirdPartyProprietaryName\xspace{} Proprietary}\par
+  This technical data contains \SAND@mark@thirdPartyProprietaryName\xspace{} Proprietary Information furnished under
+  contract or agreement between Sandia National Laboratories and \SAND@mark@@marks@thirdPartyProprietaryName\xspace{} for the
+  controlled release of the information. Disclosure outside the Government is not authorized without
+  prior approval of the originator, or in accordance with provisions of 48 CFR 952.227 and 5
+  U.S.C. 552.\par\vspace{.5\baselineskip}
+  Further dissemination authorized to U.S. Government agencies only; other requests must be approved by
+  the originating facility or higher DOE programmatic authority.\par
+}
+
+\newcommand{\SAND@mark@CAVEAT@PIextraBox}{%
+  Any further distribution by any holder of this product or data therein to third parties representing foreign interests, foreign
+  governments, foreign companies, and foreign subsidiaries or foreign divisions of U.S. companies shall be approved by the
+  \SAND@mark@UCIPIApprovals\xspace{}, U.S. Department of Energy. Further, foreign party release may require DOE approval pursuant to 10 CFR 810, and/or may be subject to Section 127 of the Atomic Energy Act.
+  \par\vspace{.5\baselineskip}
+  Further dissemination only as authorized by the originating facility or higher DOE programmatic authority; requester must possess appropriate security clearance, need-to-know, and facility approval for receipt and storage of classified documents by the DOE Office of Security Affairs.
+}
+
+\newcommand{\SAND@mark@UCNI@CAVEAT@CRADAbottomBox}{
+  {\bfseries PROTECTED CRADA INFORMATION}\par
+  This product contains Protected CRADA Information which was produced \SAND@mark@CRADAdate\xspace{} under CRADA No. \SAND@mark@CRADAnumber\xspace{} and is not to be further disclosed for a period of \SAND@mark@CRADAembargo\xspace{} from the date it was produced except as expressly provided for in the CRADA.
+  \par\vspace{.5\baselineskip}
+  Further dissemination authorized to the Department of Energy only; other requests shall be approved by the originating facility or
+  higher DOE programmatic authority.\par
+}
+
+\newcommand{\SAND@mark@UCNI@CAVEAT@PATENTbottomBox}{%
+  {\bfseries PATENT CAUTION}\par
+  These materials may reveal patentable subject matter. The information must not be divulged outside
+  Sandia National Laboratories without the approval of the Legal Technology Transfer Center, Sandia
+  National Laboratories. Approved external recipients must not divulge the information to others.
+  \par\vspace{.5\baselineskip}
+  Further dissemination authorized to U.S. Government agencies only; other requests must be approved by the originating facility or
+  higher DOE programmatic authority.
+  \par\vspace{.5\baselineskip}
+  No distribution limitation for Patent Interest.\par
+}
+
+\newcommand{\SAND@mark@UCNI@CAVEAT@ITARbottomBox}{
+  {\bfseries\centering EXPORT CONTROLLED INFORMATION}
+  \par\vspace{.5\baselineskip}
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Arms Export Control Act, 22 U.S.C. 39 \S
+  2751 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@UCNI@CAVEAT@EARbottomBox}{
+  {\bfseries\centering EXPORT CONTROLLED INFORMATION}
+  \par\vspace{.5\baselineskip}
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Export Administration Act of 1979,
+  as amended, 50 U.S.C. App. 2401 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@UCNI@CAVEAT@DOEbottomBox}{
+  {\bfseries\centering EXPORT CONTROLLED INFORMATION}
+  \par\vspace{.5\baselineskip}
+  WARNING \textendash{} This document contains technical data whose export is restricted by the Atomic Energy Act of 1954,
+  as amended, 42 U.S.C. \S 2401 \textit{et seq}. Violations of these export laws are subject to severe criminal penalties.
+}
+
+\newcommand{\SAND@mark@Class@WarningFRD}{
+  {\bfseries\centering FORMERLY RESTRICTED DATA}
+    \par\vspace{.5\baselineskip}
+    Unauthorized disclosure subject to Administrative and Criminal Sanctions. Handle as Restricted Data in Foreign Dissemination, Section 144.b, Atomic Energy Act, 1954.
+}
+
+\newcommand{\SAND@mark@Class@WarningRD}{
+  {\bfseries\centering RESTRICTED DATA}
+    \par\vspace{.5\baselineskip}
+    This document contains Restricted Data as defined in the Atomic Energy Act of 1954. Unauthorized disclosure subject to Administrative and Criminal Sanctions.
+}
+
+\newcommand{\SAND@mark@SGI@Warning}{
+  {\bfseries\centering SAFEGUARDS INFORMATION}
+  \par\vspace{.5\baselineskip}
+  {\bfseries Unauthorized disclosure will be subject to CIVIL and CRIMINAL sanctions.}
+  \par\vspace{.5\baselineskip}
+  Safeguards Information determination made by:
+  \par\vspace{.5\baselineskip}
+  Name/Title: \SAND@mark@SGINameTitle
+  \par\vspace{.5\baselineskip}
+  Organization: \SAND@mark@SGIOrg
+  \par\vspace{.5\baselineskip}
+  Date: \SAND@mark@SGIDate
+  \par\vspace{.5\baselineskip}
+}
+
+\newcommand{\SAND@mark@UNNPI@Warning}{
+  {\bfseries\centering UNCLASSIFIED NAVAL NUCLEAR PROPULSION INFORMATION}
+  \par\vspace{.5\baselineskip}
+  No Foreign Dissemination (NOFORN). This document is subject to special export controls and each
+  transmittal to foreign governments or foreign nationals must be made only with the prior approval of
+  Naval Sea Systems Command.
+  }
+
+\newcommand\sandiabeamer@text@NTESS{
+  Sandia National Laboratories is a multimission laboratory managed
+  and operated by National Technology and Engineering Solutions of
+  Sandia LLC, a wholly owned subsidiary of Honeywell International
+  Inc. for the U.S. Department of Energy's National Nuclear Security
+  Administration under contract DE-NA0003525.}
+
+%
+% User-accessible API
+%
+
+\newcommand\SANDCRADAdate[1]{\renewcommand\SAND@mark@CRADAdate{#1}}
+\newcommand\SANDCRADAnumber[1]{\renewcommand\SAND@mark@CRADAnumber{#1}}
+\newcommand\SANDCRADAembargo[1]{\renewcommand\SAND@mark@CRADAembargo{#1}}
+\newcommand\SANDUCIPIapprovals[1]{\renewcommand\SAND@mark@UCIPIApprovals{#1}}
+\newcommand\SANDDCName[1]{\renewcommand\SAND@mark@Class@DCName{#1}}
+\newcommand\SANDDCPosition[1]{\renewcommand\SAND@mark@Class@DCPosition{#1}}
+\newcommand\SANDDCOrg[1]{\renewcommand\SAND@mark@Class@DCOrg{#1}}
+\newcommand\SANDDCGuide[1]{\renewcommand\SAND@mark@Class@DCGuide{#1}}
+\newcommand\SANDDeclassify[1]{\renewcommand\SAND@mark@Class@DCDeclassify{#1}}
+\newcommand{\SAND@mark@CUIcontrolled}{\relax}
+\newcommand{\CUIcontrolledBy}[1]{\renewcommand\SAND@mark@CUIcontrolled{#1}}
+\newcommand{\CUIstring}[1]{\renewcommand\SAND@mark@CUI{#1}}
+
+
+

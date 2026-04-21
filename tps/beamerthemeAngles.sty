@@ -1,0 +1,51 @@
+
+
+\def\sandiabeamer@version{3}
+\ProvidesPackage{beamerthemeAngles}[3/22/2023 v3 sandia-beamer]
+
+\mode<presentation>
+
+\beamertemplatenavigationsymbolsempty
+
+\useoutertheme{Angles}
+\usecolortheme{Sandia}
+\useinnertheme{Angles}
+
+\usefonttheme{\sandiabeamer@fonttheme}
+
+\usetikzlibrary{calc,backgrounds,positioning,shadows}
+
+% Do some tikz global configuration
+\tikzset{every picture/.append style={overlay,remember picture}}
+\tikzset{every node/.append style={draw=none,text=\sandiabeamer@UX@textfg, outer sep=0pt,inner sep=0pt}}
+
+% 
+%  Syntactic sugar for specifying node location
+%
+\newcommand\offcorner[2]{($ (current page.#1) + (#2) $)}
+
+\newcommand{\sandiabeamer@boxfont}{\sffamily}
+% set date format
+\mdyydate
+
+% Set bibliography color black for all entry types
+\setbeamercolor{bibliography item}{fg=black}
+\setbeamercolor{bibliography entry author}{fg=black}
+\setbeamercolor{bibliography entry title}{fg=black}
+\setbeamercolor{bibliography entry location}{fg=black}
+\setbeamercolor{bibliography entry note}{fg=black}
+ 
+% Font size for all Bibliography entries
+\setbeamerfont{bibliography item}{size=\footnotesize}
+\setbeamerfont{bibliography entry author}{size=\footnotesize}
+\setbeamerfont{bibliography entry title}{size=\footnotesize}
+\setbeamerfont{bibliography entry location}{size=\footnotesize}
+\setbeamerfont{bibliography entry note}{size=\footnotesize}
+ 
+\setbeamertemplate{bibliography entry title}{}
+\setbeamertemplate{bibliography entry location}{}
+\setbeamertemplate{bibliography entry note}{}
+\setbeamertemplate{bibliography item}{\insertbiblabel} % get numbered Bibliography entries
+
+\mode
+<all>
