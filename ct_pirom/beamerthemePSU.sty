@@ -1,0 +1,144 @@
+\ProvidesPackage{beamerthemePSU}[2024/02/19]
+
+\RequirePackage[T1]{fontenc}
+\RequirePackage{helvet}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Colors and fonts
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{PSUnavy}{RGB}{30,64,124}
+\definecolor{PSUDarkBlue}{RGB}{4,30,66}
+
+\usecolortheme[named=PSUDarkBlue]{structure}
+\usecolortheme{rose}
+\setbeamercolor{author}{fg=PSUDarkBlue}
+\setbeamercolor{institute}{fg=PSUDarkBlue}
+\setbeamercolor{date}{fg=PSUDarkBlue}
+\setbeamercolor{title page}{fg=white}
+\setbeamercolor{logo}{bg=PSUDarkBlue}
+\setbeamercolor{frametitle}{fg=white,bg=PSUnavy}
+\setbeamercolor{section in sidebar}{fg=PSUDarkBlue}
+\setbeamercolor{block title}{bg=PSUnavy!28!white,fg=PSUnavy}
+\setbeamercolor{block body}{bg=PSUDarkBlue!15!white}
+\setbeamercolor{normal text}{fg=PSUDarkBlue}
+
+\setbeamerfont{section in sidebar}{series=\bfseries}
+\setbeamerfont{note page}{size=\fontsize{0.2cm}{0.1cm}}
+
+\let\oldfootnote\footnote
+\renewcommand{\footnote}[1]{\oldfootnote{\scriptsize#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Outer theme
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\useoutertheme{miniframes}
+\newlength{\beamer@baseliney}
+\setlength{\beamer@baseliney}{.25\paperheight}
+
+\pgfdeclareimage[width=.25\paperwidth]{apus-logo}{_src/apus_1}
+\pgfdeclareimage[width=.35\paperwidth]{flat-logo}{_src/apus_2}
+\pgfdeclareimage[width=.35\paperwidth]{aero-logo}{_src/psu_aero_landscape.png}
+
+\newcommand\DoPSUBackground{%
+\pgfpathmoveto{\pgfpointorigin}
+\pgfpathrectanglecorners{\pgfpoint{0pt}{0pt}}{\pgfpoint{\paperwidth}{-\paperheight}}
+\pgfsetfillcolor{white}
+\pgfusepath{fill}
+}
+
+% \setbeamertemplate{footline}[text line]{%
+% \hspace{25em}\insertshortauthor\strut\hfill\insertshorttitle\hfill\insertframenumber/\inserttotalframenumber}
+\newcommand\customTextLine{\strut\hfill\insertframenumber/\inserttotalframenumber}
+\setbeamertemplate{footline}[text line]{\customTextLine}
+
+\addtobeamertemplate{notitle}{}{%
+\begin{pgfpicture}
+\pgftransformxshift{-\Gm@lmargin}
+\pgftransformyshift{\beamer@baseliney}
+\pgftext[at=\pgfpoint{.0\paperwidth}{-.97\paperheight},left,base]{\pgfuseimage{flat-logo}}
+\end{pgfpicture}}
+
+\addtobeamertemplate{frametitle}{}{%
+\begin{pgfpicture}
+\pgf@relevantforpicturesizefalse
+\pgftransformxshift{-\Gm@lmargin}
+\pgftransformyshift{\beamer@baseliney}
+\pgftext[at=\pgfpoint{.0\paperwidth}{-.97\paperheight},left,base]{\pgfuseimage{flat-logo}}
+\end{pgfpicture}%
+\vskip-25pt%
+}
+
+\addtobeamertemplate{title page}{%
+\usebeamertemplate{title background}}{}
+
+\setbeamertemplate{title background}{%
+\begin{pgfpicture}
+\pgf@relevantforpicturesizefalse
+\pgftransformxshift{-\Gm@lmargin}
+\pgftransformyshift{5.5pt}
+\DoPSUBackground
+
+\pgftext[at=\pgfpoint{.007\paperwidth}{-.99\paperheight},left,base]{\pgfuseimage{aero-logo}}
+\pgftext[at=\pgfpoint{.98\paperwidth}{-.99\paperheight},right,base]{\pgfuseimage{apus-logo}}
+
+\pgfpathrectanglecorners{\pgfpoint{0}{-.31\paperheight}}{\pgfpoint{\paperwidth}{-.36\paperheight}}
+\pgfsetfillcolor{PSUnavy}
+\pgfusepath{fill}
+
+\end{pgfpicture}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Inner Theme
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\useinnertheme{rectangles}
+\setbeamertemplate{navigation symbols}{}
+
+\setlength{\leftmargini}{.5em}
+\setlength{\leftmarginii}{1.0em}
+\setlength{\leftmarginiii}{1.5em}
+\setlength{\leftmarginiv}{2.0em}
+\setlength{\leftmarginv}{2.5em}
+\setlength{\leftmarginvi}{3.0em}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Customized Frames
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\TitleFrame{
+\begin{frame}[plain,t,noframenumbering]
+\titlepage
+\end{frame}
+}
+
+\newcommand\ThankYouFrame[2]{
+\begin{frame}[plain,t,noframenumbering]
+\begin{pgfpicture}
+\pgf@relevantforpicturesizefalse
+\pgftransformxshift{-\Gm@lmargin}
+\pgftransformyshift{5.5pt}
+
+\pgftext[at=\pgfpoint{.5\paperwidth}{-.5\paperheight},center,bottom]{\huge\structure{#1}}
+
+\pgftext[at=\pgfpoint{.5\paperwidth}{-.55\paperheight},center,top]{\structure{\insertshortauthor~~#2}}
+
+\pgftext[at=\pgfpoint{.007\paperwidth}{-.99\paperheight},left,base]{\pgfuseimage{aero-logo}}
+\pgftext[at=\pgfpoint{.98\paperwidth}{-.99\paperheight},right,base]{\pgfuseimage{apus-logo}}
+
+\end{pgfpicture}
+\end{frame}
+}
+
+\newcommand\ReferenceFrame[1]{
+\setbeamertemplate{footline}[text line]{}
+\begin{frame}[allowframebreaks,noframenumbering]{References}
+\bibliographystyle{ieeetr}
+{\scriptsize \bibliography{#1}}
+\end{frame}
+\setbeamertemplate{footline}[text line]{\customTextLine}
+}
+
+% \usepackage{etoolbox}
+% \makeatletter
+% \patchcmd{\endbeamer@frameslide}{\ifx\beamer@frametitle\@empty}{\iffalse}{}{\errmessage{failed to patch}}
+% \makeatother

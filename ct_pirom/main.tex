@@ -1,0 +1,95 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage{new-mysymb}
+\usepackage{xcolor}
+\usepackage{varwidth}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{empheq}
+\usepackage{amsmath}
+\usepackage{textpos}
+\definecolor{lightblue}{rgb}{0.68, 0.85, 0.9}
+\definecolor{lightred}{rgb}{1, 0.7, 0.7}
+\definecolor{lightpurple}{rgb}{0.8,0.6,1.0}
+\definecolor{darkgreen}{RGB}{144, 238, 144}
+\usepackage[most]{tcolorbox}
+\newtcolorbox{graybox}[2][]{%
+  enhanced,
+  colback=white!10,
+  colframe=black!60,
+  boxrule=0.8pt,
+  boxsep=1pt,
+  top=5pt,
+  bottom=1pt,
+  arc=2pt,
+  left=6pt, right=6pt, top=5pt, bottom=1pt,
+  attach boxed title to top left={xshift=0.5em, yshift=-2mm},
+  boxed title style={colback=gray!30, colframe=gray!60, boxrule=0pt},
+  fonttitle=\bfseries,
+  coltitle=black,
+  title={#2},
+  #1
+}
+
+% commands
+\newcommand{\bvx}{\bar{\vx}}
+\newcommand{\deltavx}{\delta\vx}
+\newcommand{\vPhi}{\boldsymbol{\Phi}}
+\newcommand{\vPsi}{\boldsymbol{\Psi}}
+\newcommand{\vkappa}{\boldsymbol{\kappa}}
+\newcommand{\tvkappa}{\tilde{\boldsymbol{\kappa}}}
+\newcommand{\vTheta}{\boldsymbol{\Theta}}
+\newcommand{\vtheta}{\boldsymbol{\theta}}
+\newcommand{\vzero}{\boldsymbol{0}}
+\newcommand{\vlambda}{\boldsymbol{\lambda}}
+\newcommand{\vcD}{\boldsymbol{\mathcal{D}}}
+\newcommand{\vnu}{\boldsymbol{\nu}}
+\newcommand{\bvu}{\bar{\mathbf{u}}}
+\newcommand{\vXi}{\boldsymbol{\Xi}}
+\newcommand{\vbeta}{\boldsymbol{\beta}}
+\newcommand{\vLambda}{\boldsymbol{\Lambda}}
+\newcommand{\redvTheta}{\textcolor{red}{\boldsymbol{\Theta}}}
+\newcommand{\vomega}{\boldsymbol{\omega}}
+\newcommand{\vcQ}{\boldsymbol{\mathcal{Q}}}
+\newcommand{\vcH}{\boldsymbol{\mathcal{H}}}
+\newcommand{\redvomega}{\textcolor{red}{\boldsymbol{\omega}}}
+\newcommand{\redvbeta}{\textcolor{red}{\boldsymbol{\beta}}}
+\newcommand{\redvB}{\textcolor{red}{\mathbf{B}}}
+\newcommand{\vcF}{\boldsymbol{\mathcal{F}}}
+\newcommand{\vmu}{\boldsymbol{\mu}}
+\newcommand{\redTheta}{\textcolor{red}{\Theta}}
+\newcommand{\valpha}{\boldsymbol{\alpha}}
+\newcommand{\vOmega}{\boldsymbol{\Omega}}
+\newcommand{\deltavu}{\delta\mathbf{u}}
+
+
+\title[]{A Unified Control-Theoretic Framework for Physics-Infused Reduced-Order Modeling and Optimal Closed-Loop Control}
+\subtitle{}
+\author[]{Carlos A. Vargas Venegas}
+
+\institute{}
+
+\begin{document}
+
+\maketitle
+
+
+% part 1: introduction and objectives
+\input{./src/introduction.tex}
+
+% part 2: itm
+\input{./src/itm.tex}
+% \input{./src/itm_part_3.tex}
+
+% % part 3: bridge: control-theoretic training
+% \input{./src/control_theoretic.tex}
+
+% % part 4: resolving the impossible trinity of optimal control (ITOC)
+% \input{./src/itoc_part_1.tex}
+% \input{./src/itoc_part_2.tex}
+% \input{./src/itoc_part_3.tex}
+
+% % part 5: conclusion and future work
+% \input{./src/conclusions.tex}
+
+
+\end{document}
