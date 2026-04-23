@@ -208,11 +208,14 @@
                 \visible<9->{
                 Thus, the PIROM is written as,
                 \begin{align*}
-                    \dot{\bvu} &= \underbrace{\cP e^{t\cL}\cP\cL\bvu}_{\text{\textbf{LCM dynamics!}}} + \sum_{j=1}^{m}\textcolor{red}{\vp_j}\beta_j\\
-                    \dot{\beta}_j &= \textcolor{red}{\lambda_j}\beta_j + \textcolor{red}{\vq_j}^\top\bar{\vu} + \textcolor{red}{\vr_j}^\top\bar{\vf}\\
-                    \vz &= \textcolor{red}{\vD_{\bar{u}}}\bvu + \textcolor{red}{\vD_{\beta}}\boldsymbol{\beta}
+                    \visible<10->{
+                    \dot{\bvu} &= \underbrace{\cP e^{t\cL}\cP\cL\bvu}_{\text{\textbf{LCM dynamics!}}} + \sum_{j=1}^{m}\textcolor{red}{\vp_j}\beta_j\\}
+                    \visible<11->{
+                    \dot{\beta}_j &= \textcolor{red}{\lambda_j}\beta_j + \textcolor{red}{\vq_j}^\top\bar{\vu} + \textcolor{red}{\vr_j}^\top\bar{\vf}\\}
+                    \visible<12->{
+                    \vz &= \textcolor{red}{\vD_{\bar{u}}}\bvu + \textcolor{red}{\vD_{\beta}}\boldsymbol{\beta}}
                 \end{align*}}
-                \visible<10->{
+                \visible<13->{
                 $\redvTheta = \left\{\textcolor{red}{\vP,\vQ,\vLambda,\vR,\vD_{\bar{u}},\vD_{\beta}}\right\}$ \textbf{\textcolor{red}{learn from data!}}}
         \end{column}
     \end{columns}
@@ -251,7 +254,6 @@
         {\tiny TPS: thermal protection system}
     \end{center}}
 \end{frame}
-
 
 \begin{frame}{\small \textbf{Quantify} the impossible trinity of modeling (ITM),}
     \vspace*{-0.2in}

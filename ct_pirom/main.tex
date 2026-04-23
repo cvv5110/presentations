@@ -7,6 +7,8 @@
 \usepackage{empheq}
 \usepackage{amsmath}
 \usepackage{textpos}
+\setbeamertemplate{footline}[frame number]
+\setbeamertemplate{navigation symbols}{}
 \definecolor{lightblue}{rgb}{0.68, 0.85, 0.9}
 \definecolor{lightred}{rgb}{1, 0.7, 0.7}
 \definecolor{lightpurple}{rgb}{0.8,0.6,1.0}
@@ -78,15 +80,9 @@
 
 % part 2: itm
 \input{./src/itm.tex}
-% \input{./src/itm_part_3.tex}
 
-% % part 3: bridge: control-theoretic training
-% \input{./src/control_theoretic.tex}
-
-% % part 4: resolving the impossible trinity of optimal control (ITOC)
-% \input{./src/itoc_part_1.tex}
-% \input{./src/itoc_part_2.tex}
-% \input{./src/itoc_part_3.tex}
+% % part 3: resolving the impossible trinity of optimal control (ITOC)
+\input{./src/itoc.tex}
 
 % % part 5: conclusion and future work
 % \input{./src/conclusions.tex}

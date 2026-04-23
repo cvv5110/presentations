@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1776893637.32926 "/home/cavarga/presentations/tps/main.tex" "main.pdf" "main" 1776893667.01886 0
+["pdflatex"] 1776966751.79266 "/home/cavarga/presentations/tps/main.tex" "main.pdf" "main" 1776966782.39362 0
   "../figs/introduction/itm.png" 1775496507.4629 121238 2f10d553b2536a71922dc4dbe9d5f2f9 ""
   "../figs/introduction/itm_1.png" 1775496507.4699 40058 57041af94c9d74190c733c57aef9dc7b ""
   "../figs/introduction/itm_2.png" 1775496507.4699 101505 f7cf50dc894a5f2ce548fa9a9fa5116b ""
@@ -399,14 +399,14 @@
   "beamerinnerthemeAngles.sty" 1776891387.11964 7853 4815870e44dc1d2a191350c7308391d4 ""
   "beamerouterthemeAngles.sty" 1776891387.12064 3421 5aa18b66bb4c571a5f2baaa76618d516 ""
   "beamerthemeAngles.sty" 1776891387.12164 1614 07343d6d35ff097a99c8058b142e0c56 ""
-  "main.aux" 1776893666.73666 16072 a0b640aee0f577a7b4fc4404152febcf "pdflatex"
-  "main.nav" 1776893666.75066 1703 eba165ac1eab1db22c9ec020eb683661 "pdflatex"
-  "main.out" 1776893638.5996 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1776966782.10178 16420 e8ec3d16240e7573300661ec4929d11e "pdflatex"
+  "main.nav" 1776966782.11478 1703 af455ebfa60f6682b66ac4a3c45ce47a "pdflatex"
+  "main.out" 1776966753.06371 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1776893583.39547 1949 bc4026b66f75ab18dfce18ea4415aafa ""
   "markings.tex" 1776891387.25364 10045 669c6b2d0c7109f34b4f59c7ca69b3e3 ""
   "new-mysymb.sty" 1776891387.25364 7587 cee14fd555bfc4ed97e787900c5bd0e0 ""
   "sandia-beamer.cls" 1776891387.25364 15063 65cd69c7112568c7ee7112a6e5e3e409 ""
-  "source/application.tex" 1776891387.25464 16033 4232af537044cb27193364c984133fc8 ""
+  "source/application.tex" 1776966747.61269 16140 ba988ecaaea085b1e2edfc921bf9133b ""
   "source/conclusions.tex" 1776893576.18345 191 ef6859517591e38f68ad044acb82abaa ""
   "source/introduction.tex" 1776893513.05931 10788 56cf41507f0df6febc34649bb07c4290 ""
   "source/overview.tex" 1776891387.25564 3100 d50fcc728393bc10604428997f859f0b ""
