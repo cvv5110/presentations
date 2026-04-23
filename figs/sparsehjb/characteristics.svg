@@ -28,17 +28,33 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0061417"
-     inkscape:cx="762.81502"
+     inkscape:cx="763.31197"
      inkscape:cy="309.10159"
      inkscape:window-width="2238"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g146010"
      showguides="true" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient2498"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="0"
+         id="stop2496" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2474"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff9090;stop-opacity:1;"
+         offset="0"
+         id="stop2472" />
+    </linearGradient>
     <linearGradient
        id="linearGradient70798"
        inkscape:swatch="solid">
@@ -555,7 +571,7 @@
        id="g14518"
        transform="translate(-67.479839,1.0040437)">
       <rect
-         style="opacity:0.539778;fill:#ff9090;fill-opacity:0.69049698;stroke:none;stroke-width:0.485286;stroke-opacity:1"
+         style="opacity:0.539778;fill:#d2d2d2;fill-opacity:0.69049698;stroke:none;stroke-width:0.485286;stroke-opacity:1"
          id="rect51647"
          width="102.64435"
          height="123.69341"
@@ -564,7 +580,7 @@
          ry="9.1930971" />
       <g
          inkscape:label=""
-         transform="matrix(1.1136727,0,0,1.1136727,152.88477,59.122524)"
+         transform="matrix(1.1136727,0,0,1.1136727,158.86935,59.122524)"
          id="g115340">
         <g
            fill="#000000"
@@ -736,37 +752,6 @@
             <path
                d="m 3.421875,-13.84375 c 0,-0.59375 -0.484375,-0.828125 -0.84375,-0.828125 -0.34375,0 -0.84375,0.234375 -0.84375,0.828125 L 2.375,-3.859375 c 0.015625,0.265625 0.015625,0.375 0.203125,0.375 0.1875,0 0.1875,-0.109375 0.203125,-0.375 z m 0,13 c 0,-0.453125 -0.359375,-0.84375 -0.84375,-0.84375 -0.453125,0 -0.84375,0.359375 -0.84375,0.84375 0,0.453125 0.375,0.84375 0.84375,0.84375 0.453125,0 0.84375,-0.375 0.84375,-0.84375 z m 0,0"
                id="path115320" />
-          </g>
-        </g>
-        <g
-           clip-path="url(#clipPath8346)"
-           id="g124"
-           transform="matrix(0.352778,0,0,0.352778,-0.369314,-0.003616)">
-          <g
-             fill="#000000"
-             fill-opacity="1"
-             id="g115337">
-            <g
-               id="g115328"
-               transform="translate(227.10153,15.479)">
-              <path
-                 d="M 4.859375,5.140625 V 4.421875 H 2.90625 V -14.75 h 1.953125 v -0.71875 H 2.1875 V 5.140625 Z m 0,0"
-                 id="path115326" />
-            </g>
-            <g
-               id="use118"
-               transform="translate(232.2589,15.479)">
-              <path
-                 d="m 2.1875,-7.125 c 0,-4.9375 2.3125,-6.046875 3.65625,-6.046875 0.4375,0 1.484375,0.07813 1.90625,0.875 -0.328125,0 -0.953125,0 -0.953125,0.734375 0,0.546875 0.453125,0.734375 0.75,0.734375 0.171875,0 0.734375,-0.07813 0.734375,-0.78125 0,-1.296875 -1.03125,-2.046875 -2.453125,-2.046875 -2.46875,0 -5.046875,2.5625 -5.046875,7.125 0,5.625 2.34375,6.859375 3.984375,6.859375 2.015625,0 3.90625,-1.796875 3.90625,-4.5625 0,-2.578125 -1.671875,-4.46875 -3.78125,-4.46875 -1.25,0 -2.1875,0.828125 -2.703125,2.28125 z m 2.578125,6.953125 c -2.53125,0 -2.53125,-3.796875 -2.53125,-4.5625 0,-1.484375 0.703125,-3.625 2.625,-3.625 0.34375,0 1.359375,0 2.046875,1.421875 0.359375,0.796875 0.359375,1.65625 0.359375,2.6875 0,1.109375 0,1.9375 -0.421875,2.765625 -0.46875,0.84375 -1.125,1.3125 -2.078125,1.3125 z m 0,0"
-                 id="path115330" />
-            </g>
-            <g
-               id="g115335"
-               transform="translate(241.73473,15.479)">
-              <path
-                 d="M 2.953125,-15.46875 H 0.296875 V -14.75 h 1.9375 V 4.421875 h -1.9375 v 0.71875 h 2.65625 z m 0,0"
-                 id="path115333" />
-            </g>
           </g>
         </g>
       </g>
@@ -2837,28 +2822,18 @@
       </g>
     </g>
     <g
-       id="g182242"
-       transform="translate(-67.479839,1.0040437)">
+       id="g2772">
       <rect
-         style="opacity:0.539778;fill:#b2b2b2;fill-opacity:0.690497;stroke:none;stroke-width:0.305851;stroke-opacity:1"
+         style="opacity:0.539778;fill:#d2d2d2;fill-opacity:0.69049698;stroke:none;stroke-width:0.305851;stroke-opacity:1"
          id="rect51647-3"
          width="132.92854"
          height="37.939114"
-         x="136.02873"
-         y="16.450226"
+         x="68.548897"
+         y="17.454269"
          ry="2.8196976" />
-      <rect
-         style="opacity:0.484983;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.329491;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect2928-50-9"
-         width="187.93741"
-         height="137.81738"
-         x="5.5499077"
-         y="-271.05731"
-         ry="5.3864942"
-         transform="rotate(90)" />
       <g
          inkscape:label=""
-         transform="matrix(1.1499423,0,0,1.1499423,179.58585,18.412416)"
+         transform="matrix(1.1499423,0,0,1.1499423,112.10601,19.41646)"
          id="g138089">
         <g
            fill="#000000"
@@ -2945,7 +2920,7 @@
       </g>
       <g
          inkscape:label=""
-         transform="translate(157.48321,8.2837475)"
+         transform="translate(90.003371,9.2877912)"
          id="g141124">
         <g
            clip-path="url(#clipPath7537)"
@@ -3152,7 +3127,7 @@
       </g>
       <g
          inkscape:label=""
-         transform="matrix(1.1499423,0,0,1.1499423,139.97935,29.283343)"
+         transform="matrix(1.1499423,0,0,1.1499423,72.499511,30.287387)"
          id="g147536">
         <g
            fill="#000000"
@@ -3496,7 +3471,7 @@
       </g>
       <g
          inkscape:label=""
-         transform="matrix(1.1277618,0,0,1.1277618,158.32597,42.467985)"
+         transform="matrix(1.1277618,0,0,1.1277618,90.846131,43.472029)"
          id="g150923">
         <g
            fill="#000000"
@@ -4527,8 +4502,8 @@
          id="rect184530-3-8-6-8-4"
          width="68.850647"
          height="10.623869"
-         x="282.69119"
-         y="-37.150993"
+         x="282.35428"
+         y="-36.729832"
          ry="0" />
     </g>
     <g
