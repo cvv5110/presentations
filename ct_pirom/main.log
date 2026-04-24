@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.10)  23 APR 2026 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.10)  24 APR 2026 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1101,7 +1101,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [10
 
 ]
-<../figs/introduction/problem_space_1.png, id=115, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_1.png, id=111, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_1.png Graphic file (type png)
 <use ../figs/introduction/problem_space_1.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_1.png  used on input line 139.
@@ -1109,7 +1109,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_1.png  used on input
  [11
 
  <../figs/introduction/problem_space_1.png>]
-<../figs/introduction/problem_space_2.png, id=123, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_2.png, id=119, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_2.png Graphic file (type png)
 <use ../figs/introduction/problem_space_2.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_2.png  used on input line 139.
@@ -1117,7 +1117,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_2.png  used on input
  [12
 
  <../figs/introduction/problem_space_2.png>]
-<../figs/introduction/problem_space_3.png, id=130, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_3.png, id=126, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_3.png Graphic file (type png)
 <use ../figs/introduction/problem_space_3.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_3.png  used on input line 139.
@@ -1125,7 +1125,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_3.png  used on input
  [13
 
  <../figs/introduction/problem_space_3.png>]
-<../figs/introduction/problem_space_4.png, id=138, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_4.png, id=134, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_4.png Graphic file (type png)
 <use ../figs/introduction/problem_space_4.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_4.png  used on input line 139.
@@ -1133,7 +1133,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_4.png  used on input
  [14
 
  <../figs/introduction/problem_space_4.png>]
-<../figs/introduction/problem_space_5.png, id=145, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_5.png, id=141, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_5.png Graphic file (type png)
 <use ../figs/introduction/problem_space_5.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_5.png  used on input line 139.
@@ -1141,7 +1141,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_5.png  used on input
  [15
 
  <../figs/introduction/problem_space_5.png>]
-<../figs/introduction/problem_space_6.png, id=152, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_6.png, id=148, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_6.png Graphic file (type png)
 <use ../figs/introduction/problem_space_6.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_6.png  used on input line 139.
@@ -1149,7 +1149,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_6.png  used on input
  [16
 
  <../figs/introduction/problem_space_6.png>]
-<../figs/introduction/problem_space_7.png, id=159, 1422.81563pt x 569.12625pt>
+<../figs/introduction/problem_space_7.png, id=155, 1422.81563pt x 569.12625pt>
 File: ../figs/introduction/problem_space_7.png Graphic file (type png)
 <use ../figs/introduction/problem_space_7.png>
 Package pdftex.def Info: ../figs/introduction/problem_space_7.png  used on input line 139.
@@ -1157,7 +1157,7 @@ Package pdftex.def Info: ../figs/introduction/problem_space_7.png  used on input
  [17
 
  <../figs/introduction/problem_space_7.png>]
-<../figs/introduction/itm_1.png, id=166, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_1.png, id=162, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_1.png Graphic file (type png)
 <use ../figs/introduction/itm_1.png>
 Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 180.
@@ -1172,7 +1172,7 @@ Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 180.
  [19
 
 ]
-<../figs/introduction/itm_2.png, id=179, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_2.png, id=175, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_2.png Graphic file (type png)
 <use ../figs/introduction/itm_2.png>
 Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 180.
@@ -1180,7 +1180,7 @@ Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 180.
  [20
 
  <../figs/introduction/itm_2.png>]
-<../figs/introduction/itm_3.png, id=186, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_3.png, id=182, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_3.png Graphic file (type png)
 <use ../figs/introduction/itm_3.png>
 Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 180.
@@ -1188,7 +1188,7 @@ Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 180.
  [21
 
  <../figs/introduction/itm_3.png>]
-<../figs/introduction/itm_4.png, id=194, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_4.png, id=190, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_4.png Graphic file (type png)
 <use ../figs/introduction/itm_4.png>
 Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 180.
@@ -1196,7 +1196,7 @@ Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 180.
  [22
 
  <../figs/introduction/itm_4.png>]
-<../figs/introduction/itoc_1.png, id=201, 711.4078pt x 540.51938pt>
+<../figs/introduction/itoc_1.png, id=197, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_1.png Graphic file (type png)
 <use ../figs/introduction/itoc_1.png>
 Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 222.
@@ -1211,7 +1211,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 222
  [24
 
 ]
-<../figs/introduction/itoc_2.png, id=213, 711.4078pt x 540.51938pt>
+<../figs/introduction/itoc_2.png, id=209, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_2.png Graphic file (type png)
 <use ../figs/introduction/itoc_2.png>
 Package pdftex.def Info: ../figs/introduction/itoc_2.png  used on input line 222.
@@ -1219,7 +1219,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_2.png  used on input line 222
  [25
 
  <../figs/introduction/itoc_2.png>]
-<../figs/introduction/itoc_3.png, id=221, 711.4078pt x 540.51938pt>
+<../figs/introduction/itoc_3.png, id=217, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_3.png Graphic file (type png)
 <use ../figs/introduction/itoc_3.png>
 Package pdftex.def Info: ../figs/introduction/itoc_3.png  used on input line 222.
@@ -1227,7 +1227,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_3.png  used on input line 222
  [26
 
  <../figs/introduction/itoc_3.png>]
-<../figs/introduction/itoc_4.png, id=228, 711.4078pt x 540.51938pt>
+<../figs/introduction/itoc_4.png, id=224, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_4.png Graphic file (type png)
 <use ../figs/introduction/itoc_4.png>
 Package pdftex.def Info: ../figs/introduction/itoc_4.png  used on input line 222.
@@ -1235,7 +1235,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_4.png  used on input line 222
  [27
 
  <../figs/introduction/itoc_4.png>]
-<../figs/introduction/objectives_1.png, id=235, 1280.53406pt x 569.12625pt>
+<../figs/introduction/objectives_1.png, id=231, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_1.png Graphic file (type png)
 <use ../figs/introduction/objectives_1.png>
 Package pdftex.def Info: ../figs/introduction/objectives_1.png  used on input line 243.
@@ -1243,7 +1243,7 @@ Package pdftex.def Info: ../figs/introduction/objectives_1.png  used on input li
  [28
 
  <../figs/introduction/objectives_1.png>]
-<../figs/introduction/objectives_2.png, id=242, 1280.53406pt x 569.12625pt>
+<../figs/introduction/objectives_2.png, id=238, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_2.png Graphic file (type png)
 <use ../figs/introduction/objectives_2.png>
 Package pdftex.def Info: ../figs/introduction/objectives_2.png  used on input line 243.
@@ -1251,7 +1251,7 @@ Package pdftex.def Info: ../figs/introduction/objectives_2.png  used on input li
  [29
 
  <../figs/introduction/objectives_2.png>]
-<../figs/introduction/objectives_3.png, id=249, 1280.53406pt x 569.12625pt>
+<../figs/introduction/objectives_3.png, id=245, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_3.png Graphic file (type png)
 <use ../figs/introduction/objectives_3.png>
 Package pdftex.def Info: ../figs/introduction/objectives_3.png  used on input line 243.
@@ -1261,7 +1261,7 @@ Package pdftex.def Info: ../figs/introduction/objectives_3.png  used on input li
  <../figs/introduction/objectives_3.png>]) (./src/itm.tex [31
 
 ]
-<../figs/tps/tps_vehicle.png, id=262, 1541.76pt x 1027.84pt>
+<../figs/tps/tps_vehicle.png, id=258, 1541.76pt x 1027.84pt>
 File: ../figs/tps/tps_vehicle.png Graphic file (type png)
 <use ../figs/tps/tps_vehicle.png>
 Package pdftex.def Info: ../figs/tps/tps_vehicle.png  used on input line 118.
@@ -1278,7 +1278,7 @@ Package pdftex.def Info: ../figs/tps/tps_vehicle.png  used on input line 118.
 ] [34
 
 ]
-<../figs/pirom/coarse_graining_tps_left_1.png, id=278, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_1.png, id=274, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_1.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_1.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_1.png  used on input line 232.
@@ -1286,7 +1286,7 @@ Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_1.png  used on i
  [35
 
  <../figs/pirom/coarse_graining_tps_left_1.png>]
-<../figs/pirom/coarse_graining_tps_left_2.png, id=285, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_2.png, id=281, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_2.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_2.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_2.png  used on input line 232.
@@ -1294,7 +1294,7 @@ Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_2.png  used on i
  [36
 
  <../figs/pirom/coarse_graining_tps_left_2.png>]
-<../figs/pirom/coarse_graining_tps_left_3.png, id=292, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_3.png, id=288, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_3.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_3.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_3.png  used on input line 232.
@@ -1302,7 +1302,7 @@ Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_3.png  used on i
  [37
 
  <../figs/pirom/coarse_graining_tps_left_3.png>]
-<../figs/pirom/coarse_graining_tps_left_4.png, id=300, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_4.png, id=296, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
@@ -1314,7 +1314,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_1.png, id=307, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_1.png, id=303, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_1.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_1.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_1.png  used on input line 232.
@@ -1326,7 +1326,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_2.png, id=314, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_2.png, id=310, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_2.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_2.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_2.png  used on input line 232.
@@ -1338,7 +1338,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_3.png, id=321, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_3.png, id=317, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_3.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_3.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_3.png  used on input line 232.
@@ -1350,7 +1350,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_4.png, id=328, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_4.png, id=324, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_4.png  used on input line 232.
@@ -1362,7 +1362,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_5.png, id=335, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_5.png, id=331, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_5.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_5.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_5.png  used on input line 232.
@@ -1374,7 +1374,7 @@ File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 232.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_6.png, id=343, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_6.png, id=339, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_6.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_6.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_6.png  used on input line 232.
@@ -1388,17 +1388,17 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 273.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 273.
-<../figs/pirom/coarse_variables.png, id=350, 569.12625pt x 426.84468pt>
+<../figs/pirom/coarse_variables.png, id=346, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/coarse_variables.png Graphic file (type png)
 <use ../figs/pirom/coarse_variables.png>
 Package pdftex.def Info: ../figs/pirom/coarse_variables.png  used on input line 273.
 (pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-<../figs/pirom/memory.png, id=351, 569.12625pt x 426.84468pt>
+<../figs/pirom/memory.png, id=347, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/memory.png Graphic file (type png)
 <use ../figs/pirom/memory.png>
 Package pdftex.def Info: ../figs/pirom/memory.png  used on input line 273.
 (pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-<../figs/pirom/noise.png, id=352, 569.12625pt x 426.84468pt>
+<../figs/pirom/noise.png, id=348, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/noise.png Graphic file (type png)
 <use ../figs/pirom/noise.png>
 Package pdftex.def Info: ../figs/pirom/noise.png  used on input line 273.
@@ -1574,7 +1574,7 @@ Overfull \hbox (1.42416pt too wide) detected at line 328
 ] [63
 
 ]
-<../figs/pirom/tps_data_1.png, id=464, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_1.png, id=460, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_1.png Graphic file (type png)
 <use ../figs/pirom/tps_data_1.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_1.png  used on input line 403.
@@ -1582,7 +1582,7 @@ Package pdftex.def Info: ../figs/pirom/tps_data_1.png  used on input line 403.
  [64
 
  <../figs/pirom/tps_data_1.png>]
-<../figs/pirom/tps_data_2.png, id=471, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_2.png, id=467, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_2.png Graphic file (type png)
 <use ../figs/pirom/tps_data_2.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_2.png  used on input line 403.
@@ -1590,7 +1590,7 @@ Package pdftex.def Info: ../figs/pirom/tps_data_2.png  used on input line 403.
  [65
 
  <../figs/pirom/tps_data_2.png>]
-<../figs/pirom/tps_data_3.png, id=478, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_3.png, id=474, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_3.png Graphic file (type png)
 <use ../figs/pirom/tps_data_3.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_3.png  used on input line 403.
@@ -1598,7 +1598,7 @@ Package pdftex.def Info: ../figs/pirom/tps_data_3.png  used on input line 403.
  [66
 
  <../figs/pirom/tps_data_3.png>]
-<../figs/pirom/tps_data_4.png, id=485, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_4.png, id=481, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_4.png Graphic file (type png)
 <use ../figs/pirom/tps_data_4.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_4.png  used on input line 403.
@@ -1606,7 +1606,7 @@ Package pdftex.def Info: ../figs/pirom/tps_data_4.png  used on input line 403.
  [67
 
  <../figs/pirom/tps_data_4.png>]
-<../figs/pirom/tps_data_5.png, id=493, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_5.png, id=489, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_5.png Graphic file (type png)
 <use ../figs/pirom/tps_data_5.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_5.png  used on input line 403.
@@ -1616,7 +1616,7 @@ Package pdftex.def Info: ../figs/pirom/tps_data_5.png  used on input line 403.
  <../figs/pirom/tps_data_5.png>] [69
 
 ]
-<../figs/pirom/performance_1.png, id=505, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_1.png, id=501, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_1.png Graphic file (type png)
 <use ../figs/pirom/performance_1.png>
 Package pdftex.def Info: ../figs/pirom/performance_1.png  used on input line 436.
@@ -1629,7 +1629,7 @@ Overfull \hbox (19.91814pt too wide) in paragraph at lines 436--436
 [70
 
  <../figs/pirom/performance_1.png>]
-<../figs/pirom/performance_2.png, id=512, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_2.png, id=508, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_2.png Graphic file (type png)
 <use ../figs/pirom/performance_2.png>
 Package pdftex.def Info: ../figs/pirom/performance_2.png  used on input line 436.
@@ -1642,7 +1642,7 @@ Overfull \hbox (19.91814pt too wide) in paragraph at lines 436--436
 [71
 
  <../figs/pirom/performance_2.png>]
-<../figs/pirom/performance_3.png, id=520, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_3.png, id=516, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_3.png Graphic file (type png)
 <use ../figs/pirom/performance_3.png>
 Package pdftex.def Info: ../figs/pirom/performance_3.png  used on input line 436.
@@ -1655,7 +1655,7 @@ Overfull \hbox (19.91814pt too wide) in paragraph at lines 436--436
 [72
 
  <../figs/pirom/performance_3.png>]
-<../figs/pirom/performance_4.png, id=527, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_4.png, id=523, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_4.png Graphic file (type png)
 <use ../figs/pirom/performance_4.png>
 Package pdftex.def Info: ../figs/pirom/performance_4.png  used on input line 436.
@@ -1668,7 +1668,7 @@ Overfull \hbox (19.91814pt too wide) in paragraph at lines 436--436
 [73
 
  <../figs/pirom/performance_4.png>]
-<../figs/pirom/performance_5.png, id=535, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_5.png, id=531, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_5.png Graphic file (type png)
 <use ../figs/pirom/performance_5.png>
 Package pdftex.def Info: ../figs/pirom/performance_5.png  used on input line 436.
@@ -1681,12 +1681,12 @@ Overfull \hbox (19.91814pt too wide) in paragraph at lines 436--436
 [74
 
  <../figs/pirom/performance_5.png>]
-<../figs/introduction/itm.png, id=542, 776.9025pt x 496.85625pt>
+<../figs/introduction/itm.png, id=538, 776.9025pt x 496.85625pt>
 File: ../figs/introduction/itm.png Graphic file (type png)
 <use ../figs/introduction/itm.png>
 Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 481.
 (pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
-<../figs/pirom/checkmark.png, id=543, 501.875pt x 501.875pt>
+<../figs/pirom/checkmark.png, id=539, 501.875pt x 501.875pt>
 File: ../figs/pirom/checkmark.png Graphic file (type png)
 <use ../figs/pirom/checkmark.png>
 Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 481.
@@ -1915,7 +1915,7 @@ Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 481.
 ] [88
 
 ]
-<../figs/ct/ct_overview_1.png, id=619, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_1.png, id=615, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_1.png Graphic file (type png)
 <use ../figs/ct/ct_overview_1.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_1.png  used on input line 115.
@@ -1923,7 +1923,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_1.png  used on input line 115.
  [89
 
  <../figs/ct/ct_overview_1.png>]
-<../figs/ct/ct_overview_2.png, id=626, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_2.png, id=622, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_2.png Graphic file (type png)
 <use ../figs/ct/ct_overview_2.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_2.png  used on input line 115.
@@ -1931,7 +1931,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_2.png  used on input line 115.
  [90
 
  <../figs/ct/ct_overview_2.png>]
-<../figs/ct/ct_overview_3.png, id=633, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_3.png, id=629, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_3.png Graphic file (type png)
 <use ../figs/ct/ct_overview_3.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_3.png  used on input line 115.
@@ -1939,7 +1939,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_3.png  used on input line 115.
  [91
 
  <../figs/ct/ct_overview_3.png>]
-<../figs/ct/ct_overview_4.png, id=641, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_4.png, id=637, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_4.png Graphic file (type png)
 <use ../figs/ct/ct_overview_4.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_4.png  used on input line 115.
@@ -1947,7 +1947,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_4.png  used on input line 115.
  [92
 
  <../figs/ct/ct_overview_4.png>]
-<../figs/ct/ct_overview_5.png, id=648, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_5.png, id=644, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_5.png Graphic file (type png)
 <use ../figs/ct/ct_overview_5.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_5.png  used on input line 115.
@@ -1955,7 +1955,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_5.png  used on input line 115.
  [93
 
  <../figs/ct/ct_overview_5.png>]
-<../figs/ct/ct_overview_6.png, id=655, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_6.png, id=651, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_6.png Graphic file (type png)
 <use ../figs/ct/ct_overview_6.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_6.png  used on input line 115.
@@ -1963,7 +1963,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_6.png  used on input line 115.
  [94
 
  <../figs/ct/ct_overview_6.png>]
-<../figs/ct/ct_overview_7.png, id=662, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_7.png, id=658, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_7.png Graphic file (type png)
 <use ../figs/ct/ct_overview_7.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_7.png  used on input line 115.
@@ -1971,7 +1971,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_7.png  used on input line 115.
  [95
 
  <../figs/ct/ct_overview_7.png>]
-<../figs/ct/ct_overview_8.png, id=669, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_8.png, id=665, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_8.png Graphic file (type png)
 <use ../figs/ct/ct_overview_8.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_8.png  used on input line 115.
@@ -1979,7 +1979,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_8.png  used on input line 115.
  [96
 
  <../figs/ct/ct_overview_8.png>]
-<../figs/ct/ct_overview_9.png, id=677, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_9.png, id=673, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_9.png Graphic file (type png)
 <use ../figs/ct/ct_overview_9.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_9.png  used on input line 115.
@@ -1987,7 +1987,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_9.png  used on input line 115.
  [97
 
  <../figs/ct/ct_overview_9.png>]
-<../figs/ct/ct_overview_10.png, id=685, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_10.png, id=681, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_10.png Graphic file (type png)
 <use ../figs/ct/ct_overview_10.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_10.png  used on input line 115.
@@ -1995,7 +1995,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_10.png  used on input line 115.
  [98
 
  <../figs/ct/ct_overview_10.png>]
-<../figs/ct/ct_overview_11.png, id=692, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_11.png, id=688, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_11.png Graphic file (type png)
 <use ../figs/ct/ct_overview_11.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_11.png  used on input line 115.
@@ -2003,7 +2003,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_11.png  used on input line 115.
  [99
 
  <../figs/ct/ct_overview_11.png>]
-<../figs/ct/ct_overview_12.png, id=699, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_12.png, id=695, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_12.png Graphic file (type png)
 <use ../figs/ct/ct_overview_12.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_12.png  used on input line 115.
@@ -2011,7 +2011,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_12.png  used on input line 115.
  [100
 
  <../figs/ct/ct_overview_12.png>]
-<../figs/ct/ct_overview_13.png, id=706, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_13.png, id=702, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_13.png Graphic file (type png)
 <use ../figs/ct/ct_overview_13.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_13.png  used on input line 115.
@@ -2019,7 +2019,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_13.png  used on input line 115.
  [101
 
  <../figs/ct/ct_overview_13.png>]
-<../figs/ct/ct_overview_14.png, id=713, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_14.png, id=709, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_14.png Graphic file (type png)
 <use ../figs/ct/ct_overview_14.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_14.png  used on input line 115.
@@ -2027,7 +2027,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_14.png  used on input line 115.
  [102
 
  <../figs/ct/ct_overview_14.png>]
-<../figs/ct/ct_overview_15.png, id=720, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_15.png, id=716, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_15.png Graphic file (type png)
 <use ../figs/ct/ct_overview_15.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_15.png  used on input line 115.
@@ -2035,7 +2035,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_15.png  used on input line 115.
  [103
 
  <../figs/ct/ct_overview_15.png>]
-<../figs/ct/ct_overview_16.png, id=728, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_16.png, id=724, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_16.png Graphic file (type png)
 <use ../figs/ct/ct_overview_16.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_16.png  used on input line 115.
@@ -2043,7 +2043,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_16.png  used on input line 115.
  [104
 
  <../figs/ct/ct_overview_16.png>]
-<../figs/ct/ct_overview_17.png, id=735, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_17.png, id=731, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_17.png Graphic file (type png)
 <use ../figs/ct/ct_overview_17.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_17.png  used on input line 115.
@@ -2051,7 +2051,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_17.png  used on input line 115.
  [105
 
  <../figs/ct/ct_overview_17.png>]
-<../figs/ct/ct_overview_18.png, id=742, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_18.png, id=738, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_18.png Graphic file (type png)
 <use ../figs/ct/ct_overview_18.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_18.png  used on input line 115.
@@ -2059,7 +2059,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_18.png  used on input line 115.
  [106
 
  <../figs/ct/ct_overview_18.png>]
-<../figs/ct/ct_overview_19.png, id=749, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_19.png, id=745, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_19.png Graphic file (type png)
 <use ../figs/ct/ct_overview_19.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_19.png  used on input line 115.
@@ -2069,7 +2069,7 @@ Package pdftex.def Info: ../figs/ct/ct_overview_19.png  used on input line 115.
  <../figs/ct/ct_overview_19.png>] [108
 
 ]
-<../figs/introduction/motivating_example_1.png, id=761, 853.68938pt x 569.12625pt>
+<../figs/introduction/motivating_example_1.png, id=757, 853.68938pt x 569.12625pt>
 File: ../figs/introduction/motivating_example_1.png Graphic file (type png)
 <use ../figs/introduction/motivating_example_1.png>
 Package pdftex.def Info: ../figs/introduction/motivating_example_1.png  used on input line 140.
@@ -2086,7 +2086,7 @@ Package pdftex.def Info: ../figs/introduction/motivating_example_1.png  used on 
 ] [111
 
 ]
-<../figs/sparsehjb/trajectory_parametrization_1.png, id=780, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_1.png, id=776, 1138.2525pt x 583.42969pt>
 File: ../figs/sparsehjb/trajectory_parametrization_1.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_1.png  used on input line 185.
@@ -2094,7 +2094,7 @@ Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_1.png  use
  [112
 
  <../figs/sparsehjb/trajectory_parametrization_1.png>]
-<../figs/sparsehjb/trajectory_parametrization_2.png, id=787, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_2.png, id=783, 1138.2525pt x 583.42969pt>
 File: ../figs/sparsehjb/trajectory_parametrization_2.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_2.png  used on input line 185.
@@ -2102,7 +2102,7 @@ Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_2.png  use
  [113
 
  <../figs/sparsehjb/trajectory_parametrization_2.png>]
-<../figs/sparsehjb/trajectory_parametrization_3.png, id=794, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_3.png, id=790, 1138.2525pt x 583.42969pt>
 File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 185.
@@ -2138,7 +2138,7 @@ Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  use
  [118
 
 ]
-<../figs/sparsehjb/solutions_1.png, id=822, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_1.png, id=818, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_1.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_1.png  used on input line 209.
@@ -2146,7 +2146,7 @@ Package pdftex.def Info: ../figs/sparsehjb/solutions_1.png  used on input line 2
  [119
 
  <../figs/sparsehjb/solutions_1.png>]
-<../figs/sparsehjb/solutions_2.png, id=829, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_2.png, id=825, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_2.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_2.png  used on input line 209.
@@ -2154,7 +2154,7 @@ Package pdftex.def Info: ../figs/sparsehjb/solutions_2.png  used on input line 2
  [120
 
  <../figs/sparsehjb/solutions_2.png>]
-<../figs/sparsehjb/solutions_3.png, id=836, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_3.png, id=832, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_3.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_3.png  used on input line 209.
@@ -2162,7 +2162,7 @@ Package pdftex.def Info: ../figs/sparsehjb/solutions_3.png  used on input line 2
  [121
 
  <../figs/sparsehjb/solutions_3.png>]
-<../figs/sparsehjb/solutions_4.png, id=845, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_4.png, id=841, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_4.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_4.png  used on input line 209.
@@ -2172,7 +2172,7 @@ Package pdftex.def Info: ../figs/sparsehjb/solutions_4.png  used on input line 2
  <../figs/sparsehjb/solutions_4.png>] [123
 
 ]
-<../figs/sparsehjb/characteristics_1.png, id=857, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_1.png, id=853, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_1.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_1.png  used on input line 273.
@@ -2180,7 +2180,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_1.png  used on input 
  [124
 
  <../figs/sparsehjb/characteristics_1.png>]
-<../figs/sparsehjb/characteristics_2.png, id=864, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_2.png, id=860, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_2.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_2.png  used on input line 273.
@@ -2188,7 +2188,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_2.png  used on input 
  [125
 
  <../figs/sparsehjb/characteristics_2.png>]
-<../figs/sparsehjb/characteristics_3.png, id=871, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_3.png, id=867, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_3.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_3.png  used on input line 273.
@@ -2196,7 +2196,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_3.png  used on input 
  [126
 
  <../figs/sparsehjb/characteristics_3.png>]
-<../figs/sparsehjb/characteristics_4.png, id=878, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_4.png, id=874, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_4.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_4.png  used on input line 273.
@@ -2204,7 +2204,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_4.png  used on input 
  [127
 
  <../figs/sparsehjb/characteristics_4.png>]
-<../figs/sparsehjb/characteristics_5.png, id=886, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_5.png, id=882, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_5.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_5.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_5.png  used on input line 273.
@@ -2212,7 +2212,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_5.png  used on input 
  [128
 
  <../figs/sparsehjb/characteristics_5.png>]
-<../figs/sparsehjb/characteristics_6.png, id=893, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_6.png, id=889, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_6.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_6.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_6.png  used on input line 273.
@@ -2220,7 +2220,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_6.png  used on input 
  [129
 
  <../figs/sparsehjb/characteristics_6.png>]
-<../figs/sparsehjb/characteristics_7.png, id=900, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_7.png, id=896, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_7.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_7.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_7.png  used on input line 273.
@@ -2228,7 +2228,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_7.png  used on input 
  [130
 
  <../figs/sparsehjb/characteristics_7.png>]
-<../figs/sparsehjb/characteristics_8.png, id=907, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_8.png, id=903, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_8.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_8.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_8.png  used on input line 273.
@@ -2236,7 +2236,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_8.png  used on input 
  [131
 
  <../figs/sparsehjb/characteristics_8.png>]
-<../figs/sparsehjb/characteristics_9.png, id=914, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_9.png, id=910, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_9.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_9.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_9.png  used on input line 273.
@@ -2244,7 +2244,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_9.png  used on input 
  [132
 
  <../figs/sparsehjb/characteristics_9.png>]
-<../figs/sparsehjb/characteristics_10.png, id=921, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_10.png, id=917, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_10.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_10.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_10.png  used on input line 273.
@@ -2252,7 +2252,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_10.png  used on input
  [133
 
  <../figs/sparsehjb/characteristics_10.png>]
-<../figs/sparsehjb/characteristics_11.png, id=929, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_11.png, id=925, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_11.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_11.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_11.png  used on input line 273.
@@ -2260,7 +2260,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_11.png  used on input
  [134
 
  <../figs/sparsehjb/characteristics_11.png>]
-<../figs/sparsehjb/characteristics_12.png, id=936, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_12.png, id=932, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_12.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_12.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_12.png  used on input line 273.
@@ -2270,7 +2270,7 @@ Package pdftex.def Info: ../figs/sparsehjb/characteristics_12.png  used on input
  <../figs/sparsehjb/characteristics_12.png>] [136
 
 ]
-<../figs/sparsehjb/performance_ae_1.png, id=948, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_1.png, id=944, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_1.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_1.png  used on input line 297.
@@ -2278,7 +2278,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ae_1.png  used on input l
  [137
 
  <../figs/sparsehjb/performance_ae_1.png>]
-<../figs/sparsehjb/performance_ae_2.png, id=955, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_2.png, id=951, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_2.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_2.png  used on input line 297.
@@ -2286,7 +2286,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ae_2.png  used on input l
  [138
 
  <../figs/sparsehjb/performance_ae_2.png>]
-<../figs/sparsehjb/performance_ae_3.png, id=962, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_3.png, id=958, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_3.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_3.png  used on input line 297.
@@ -2294,7 +2294,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ae_3.png  used on input l
  [139
 
  <../figs/sparsehjb/performance_ae_3.png>]
-<../figs/sparsehjb/performance_ae_4.png, id=970, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_4.png, id=966, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_4.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_4.png  used on input line 297.
@@ -2304,7 +2304,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ae_4.png  used on input l
  <../figs/sparsehjb/performance_ae_4.png>] [141
 
 ]
-<../figs/sparsehjb/performance_ss_1.png, id=982, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_1.png, id=978, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_1.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_1.png  used on input line 336.
@@ -2312,7 +2312,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ss_1.png  used on input l
  [142
 
  <../figs/sparsehjb/performance_ss_1.png>]
-<../figs/sparsehjb/performance_ss_2.png, id=989, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_2.png, id=985, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_2.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_2.png  used on input line 336.
@@ -2320,7 +2320,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ss_2.png  used on input l
  [143
 
  <../figs/sparsehjb/performance_ss_2.png>]
-<../figs/sparsehjb/performance_ss_3.png, id=996, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_3.png, id=992, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_3.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_3.png  used on input line 336.
@@ -2328,7 +2328,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ss_3.png  used on input l
  [144
 
  <../figs/sparsehjb/performance_ss_3.png>]
-<../figs/sparsehjb/performance_ss_4.png, id=1003, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_4.png, id=999, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_4.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_4.png  used on input line 336.
@@ -2343,7 +2343,7 @@ Package pdftex.def Info: ../figs/sparsehjb/performance_ss_4.png  used on input l
  [146
 
 ]
-<../figs/introduction/itoc.png, id=1017, 776.9025pt x 496.85625pt>
+<../figs/introduction/itoc.png, id=1013, 776.9025pt x 496.85625pt>
 File: ../figs/introduction/itoc.png Graphic file (type png)
 <use ../figs/introduction/itoc.png>
 Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 375.
@@ -2495,157 +2495,12 @@ Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
 (pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
  [154
 
-]) (./src/conclusions.tex [155
+])
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 95.
+ [155
 
 ]
-<../figs/conclusions/conclusion_overview_1.png, id=1065, 842.39719pt x 551.05875pt>
-File: ../figs/conclusions/conclusion_overview_1.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_1.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_1.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 154.78308pt.
- [156
-
- <../figs/conclusions/conclusion_overview_1.png>]
-<../figs/conclusions/conclusion_overview_2.png, id=1073, 837.88031pt x 558.58687pt>
-File: ../figs/conclusions/conclusion_overview_2.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_2.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_2.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 157.74142pt.
- [157
-
- <../figs/conclusions/conclusion_overview_2.png>]
-<../figs/conclusions/conclusion_overview_3.png, id=1081, 840.89156pt x 554.82281pt>
-File: ../figs/conclusions/conclusion_overview_3.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_3.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_3.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 156.11972pt.
- [158
-
- <../figs/conclusions/conclusion_overview_3.png>]
-<../figs/conclusions/conclusion_overview_4.png, id=1088, 846.91406pt x 558.58687pt>
-File: ../figs/conclusions/conclusion_overview_4.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_4.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_4.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 156.06232pt.
- [159
-
- <../figs/conclusions/conclusion_overview_4.png>]
-<../figs/conclusions/conclusion_overview_5.png, id=1095, 791.20593pt x 529.98pt>
-File: ../figs/conclusions/conclusion_overview_5.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_5.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_5.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 158.49384pt.
- [160
-
- <../figs/conclusions/conclusion_overview_5.png>]
-<../figs/conclusions/conclusion_overview_6.png, id=1102, 791.20593pt x 529.98pt>
-File: ../figs/conclusions/conclusion_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_6.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 158.49384pt.
- [161
-
- <../figs/conclusions/conclusion_overview_6.png>]
-File: ../figs/conclusions/conclusion_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_6.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 158.49384pt.
- [162
-
-]
-File: ../figs/conclusions/conclusion_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_6.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 158.49384pt.
- [163
-
-]
-File: ../figs/conclusions/conclusion_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/conclusion_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/conclusion_overview_6.png  used on input line 69.
-(pdftex.def)             Requested size: 236.61684pt x 158.49384pt.
- [164
-
-]
-<../figs/conclusions/control_overview_1.png, id=1125, 840.89156pt x 556.32843pt>
-File: ../figs/conclusions/control_overview_1.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_1.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_1.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 156.54338pt.
- [165
-
- <../figs/conclusions/control_overview_1.png>]
-<../figs/conclusions/control_overview_2.png, id=1132, 841.64438pt x 557.83406pt>
-File: ../figs/conclusions/control_overview_2.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_2.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_2.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 156.82234pt.
- [166
-
- <../figs/conclusions/control_overview_2.png>]
-<../figs/conclusions/control_overview_3.png, id=1139, 834.11626pt x 555.57562pt>
-File: ../figs/conclusions/control_overview_3.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_3.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_3.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 157.59468pt.
- [167
-
- <../figs/conclusions/control_overview_3.png>]
-<../figs/conclusions/control_overview_4.png, id=1146, 837.1275pt x 557.08125pt>
-File: ../figs/conclusions/control_overview_4.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_4.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_4.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 157.46074pt.
- [168
-
- <../figs/conclusions/control_overview_4.png>]
-<../figs/conclusions/control_overview_5.png, id=1153, 811.53188pt x 545.03625pt>
-File: ../figs/conclusions/control_overview_5.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_5.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_5.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 158.91307pt.
- [169
-
- <../figs/conclusions/control_overview_5.png>]
-<../figs/conclusions/control_overview_6.png, id=1161, 827.34094pt x 545.03625pt>
-File: ../figs/conclusions/control_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_6.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 155.87752pt.
- [170
-
- <../figs/conclusions/control_overview_6.png>]
-File: ../figs/conclusions/control_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_6.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 155.87752pt.
- [171
-
-]
-File: ../figs/conclusions/control_overview_6.png Graphic file (type png)
-<use ../figs/conclusions/control_overview_6.png>
-Package pdftex.def Info: ../figs/conclusions/control_overview_6.png  used on input line 125.
-(pdftex.def)             Requested size: 236.61684pt x 155.87752pt.
- [172
-
-] [173
-
-] [174
-
-]
-<../figs/acknowledgments/penn_state_logo.png, id=1189, 1284.8pt x 893.3375pt>
-File: ../figs/acknowledgments/penn_state_logo.png Graphic file (type png)
-<use ../figs/acknowledgments/penn_state_logo.png>
-Package pdftex.def Info: ../figs/acknowledgments/penn_state_logo.png  used on input line 174.
-(pdftex.def)             Requested size: 53.77588pt x 37.39041pt.
-<../figs/acknowledgments/snl_logo.png, id=1190, 1284.8pt x 513.92pt>
-File: ../figs/acknowledgments/snl_logo.png Graphic file (type png)
-<use ../figs/acknowledgments/snl_logo.png>
-Package pdftex.def Info: ../figs/acknowledgments/snl_logo.png  used on input line 174.
-(pdftex.def)             Requested size: 53.77588pt x 21.51pt.
- [175
-
- <../figs/acknowledgments/penn_state_logo.png> <../figs/acknowledgments/snl_logo.png>])
 \tf@nav=\write6
 \openout6 = `main.nav'.
 
@@ -2665,21 +2520,21 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 88658FD538D081C2DA83D0F2B89CB6AC;429.
+(rerunfilecheck)             Checksum: 0A12259D70B5CDACD52DB14D752D9EE0;242.
  ) 
 Here is how much of TeX's memory you used:
- 35323 strings out of 476106
- 739031 string characters out of 5793933
+ 35102 strings out of 476106
+ 732403 string characters out of 5793933
  1954975 words of memory out of 5000000
- 56311 multiletter control sequences out of 15000+600000
- 571570 words of font info for 84 fonts, out of 8000000 for 9000
+ 56132 multiletter control sequences out of 15000+600000
+ 573176 words of font info for 90 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 101i,26n,107p,1198b,1816s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (175 pages, 36153014 bytes).
+ 101i,26n,107p,438b,1784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (155 pages, 32531115 bytes).
 PDF statistics:
- 1354 PDF objects out of 1440 (max. 8388607)
- 891 compressed objects within 9 object streams
- 353 named destinations out of 1000 (max. 500000)
- 733 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1204 PDF objects out of 1440 (max. 8388607)
+ 792 compressed objects within 8 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 655 words of extra memory for PDF output out of 10000 (max. 10000000)
 
