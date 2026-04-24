@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.5)  23 APR 2026 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.26)  24 APR 2026 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/cavarga/presentations/tps/main.tex
-(/home/cavarga/presentations/tps/main.tex
+**/home/andres/presentations/tps/main.tex
+(/home/andres/presentations/tps/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (./sandia-beamer.cls
@@ -948,7 +948,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 )
 
 LaTeX Warning: Unused global option(s):
-    [theme=angles,number=2014-00000].
+    [theme=angles,number=2026].
 
 (./main.aux)
 \openout1 = `main.aux'.
@@ -1085,7 +1085,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
- []\T1/cmss/m/n/3 SAND NO. 2014-00000[]
+ []\T1/cmss/m/n/3 SAND NO. 2026[]
  []
 
 <assets/doe-black.png, id=53, 2136.98375pt x 517.935pt>
@@ -1311,87 +1311,87 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 126.
  <../figs/introduction/problem_space_10.png>]
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
 <../figs/introduction/itm_1.png, id=159, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_1.png Graphic file (type png)
 <use ../figs/introduction/itm_1.png>
-Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 176.
+Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 174.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [14
 
  <../figs/introduction/itm_1.png>]
 File: ../figs/introduction/itm_1.png Graphic file (type png)
 <use ../figs/introduction/itm_1.png>
-Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 176.
+Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 174.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [15
 
 ]
-<../figs/introduction/itm_2.png, id=175, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_2.png, id=174, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_2.png Graphic file (type png)
 <use ../figs/introduction/itm_2.png>
-Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 176.
+Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 174.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [16
 
  <../figs/introduction/itm_2.png>]
-<../figs/introduction/itm_3.png, id=182, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_3.png, id=181, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_3.png Graphic file (type png)
 <use ../figs/introduction/itm_3.png>
-Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 176.
+Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 174.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [17
 
  <../figs/introduction/itm_3.png>]
-<../figs/introduction/itm_4.png, id=189, 711.4078pt x 540.51938pt>
+<../figs/introduction/itm_4.png, id=188, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_4.png Graphic file (type png)
 <use ../figs/introduction/itm_4.png>
-Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 176.
+Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 174.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 176.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 174.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 176.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 174.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [18
 
@@ -1423,7 +1423,18 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/sota/physics_infused_1.png, id=203, 1138.2525pt x 625.58719pt>
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 103.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [20
+
+]
+<../figs/sota/physics_infused_1.png, id=207, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_1.png Graphic file (type png)
 <use ../figs/sota/physics_infused_1.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_1.png  used on input line 103.
@@ -1436,10 +1447,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [20
+ [21
 
  <../figs/sota/physics_infused_1.png>]
-<../figs/sota/physics_infused_2.png, id=210, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_2.png, id=215, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_2.png Graphic file (type png)
 <use ../figs/sota/physics_infused_2.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_2.png  used on input line 103.
@@ -1452,10 +1463,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [21
+ [22
 
  <../figs/sota/physics_infused_2.png>]
-<../figs/sota/physics_infused_3.png, id=218, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_3.png, id=222, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_3.png Graphic file (type png)
 <use ../figs/sota/physics_infused_3.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_3.png  used on input line 103.
@@ -1468,10 +1479,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [22
+ [23
 
  <../figs/sota/physics_infused_3.png>]
-<../figs/sota/physics_infused_4.png, id=225, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_4.png, id=229, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_4.png Graphic file (type png)
 <use ../figs/sota/physics_infused_4.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_4.png  used on input line 103.
@@ -1484,10 +1495,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [23
+ [24
 
  <../figs/sota/physics_infused_4.png>]
-<../figs/sota/physics_infused_5.png, id=232, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_5.png, id=236, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_5.png Graphic file (type png)
 <use ../figs/sota/physics_infused_5.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_5.png  used on input line 103.
@@ -1500,10 +1511,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [24
+ [25
 
  <../figs/sota/physics_infused_5.png>]
-<../figs/sota/physics_infused_6.png, id=239, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_6.png, id=244, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_6.png Graphic file (type png)
 <use ../figs/sota/physics_infused_6.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_6.png  used on input line 103.
@@ -1516,10 +1527,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [25
+ [26
 
  <../figs/sota/physics_infused_6.png>]
-<../figs/sota/physics_infused_7.png, id=247, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_7.png, id=251, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_7.png Graphic file (type png)
 <use ../figs/sota/physics_infused_7.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_7.png  used on input line 103.
@@ -1532,10 +1543,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [26
+ [27
 
  <../figs/sota/physics_infused_7.png>]
-<../figs/sota/physics_infused_8.png, id=254, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_8.png, id=258, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_8.png Graphic file (type png)
 <use ../figs/sota/physics_infused_8.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_8.png  used on input line 103.
@@ -1548,10 +1559,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [27
+ [28
 
  <../figs/sota/physics_infused_8.png>]
-<../figs/sota/physics_infused_9.png, id=261, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_9.png, id=265, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_9.png Graphic file (type png)
 <use ../figs/sota/physics_infused_9.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_9.png  used on input line 103.
@@ -1564,10 +1575,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [28
+ [29
 
  <../figs/sota/physics_infused_9.png>]
-<../figs/sota/physics_infused_10.png, id=268, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_10.png, id=272, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_10.png Graphic file (type png)
 <use ../figs/sota/physics_infused_10.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_10.png  used on input line 103.
@@ -1580,10 +1591,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [29
+ [30
 
  <../figs/sota/physics_infused_10.png>]
-<../figs/sota/physics_infused_11.png, id=275, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_11.png, id=279, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_11.png Graphic file (type png)
 <use ../figs/sota/physics_infused_11.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_11.png  used on input line 103.
@@ -1596,10 +1607,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [30
+ [31
 
  <../figs/sota/physics_infused_11.png>]
-<../figs/sota/physics_infused_12.png, id=282, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_12.png, id=287, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_12.png Graphic file (type png)
 <use ../figs/sota/physics_infused_12.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_12.png  used on input line 103.
@@ -1612,10 +1623,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [31
+ [32
 
  <../figs/sota/physics_infused_12.png>]
-<../figs/sota/physics_infused_13.png, id=290, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_13.png, id=294, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_13.png Graphic file (type png)
 <use ../figs/sota/physics_infused_13.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_13.png  used on input line 103.
@@ -1628,10 +1639,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [32
+ [33
 
  <../figs/sota/physics_infused_13.png>]
-<../figs/sota/physics_infused_14.png, id=297, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_14.png, id=301, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_14.png Graphic file (type png)
 <use ../figs/sota/physics_infused_14.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_14.png  used on input line 103.
@@ -1644,10 +1655,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [33
+ [34
 
  <../figs/sota/physics_infused_14.png>]
-<../figs/sota/physics_infused_15.png, id=304, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_15.png, id=308, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_15.png Graphic file (type png)
 <use ../figs/sota/physics_infused_15.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_15.png  used on input line 103.
@@ -1660,10 +1671,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [34
+ [35
 
  <../figs/sota/physics_infused_15.png>]
-<../figs/sota/physics_infused_16.png, id=311, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_16.png, id=315, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_16.png Graphic file (type png)
 <use ../figs/sota/physics_infused_16.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_16.png  used on input line 103.
@@ -1676,10 +1687,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [35
+ [36
 
  <../figs/sota/physics_infused_16.png>]
-<../figs/sota/physics_infused_17.png, id=318, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_17.png, id=322, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_17.png Graphic file (type png)
 <use ../figs/sota/physics_infused_17.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_17.png  used on input line 103.
@@ -1692,10 +1703,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [36
+ [37
 
  <../figs/sota/physics_infused_17.png>]
-<../figs/sota/physics_infused_18.png, id=325, 1138.2525pt x 625.58719pt>
+<../figs/sota/physics_infused_18.png, id=330, 1138.2525pt x 625.58719pt>
 File: ../figs/sota/physics_infused_18.png Graphic file (type png)
 <use ../figs/sota/physics_infused_18.png>
 Package pdftex.def Info: ../figs/sota/physics_infused_18.png  used on input line 103.
@@ -1708,7 +1719,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 103.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [37
+ [38
 
  <../figs/sota/physics_infused_18.png>]) (./source/application.tex
 File: assets/vrainbow.png Graphic file (type png)
@@ -1719,7 +1730,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 13.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/tps/tps_vehicle.png, id=333, 1541.76pt x 1027.84pt>
+<../figs/tps/tps_vehicle.png, id=337, 1541.76pt x 1027.84pt>
 File: ../figs/tps/tps_vehicle.png Graphic file (type png)
 <use ../figs/tps/tps_vehicle.png>
 Package pdftex.def Info: ../figs/tps/tps_vehicle.png  used on input line 13.
@@ -1732,7 +1743,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 13.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [38
+ [39
 
  <../figs/tps/tps_vehicle.png (PNG copy)>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -1751,22 +1762,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<../figs/pirom/coarse_graining.png, id=339, 799.48688pt x 298.86656pt>
-File: ../figs/pirom/coarse_graining.png Graphic file (type png)
-<use ../figs/pirom/coarse_graining.png>
-Package pdftex.def Info: ../figs/pirom/coarse_graining.png  used on input line 60.
-(pdftex.def)             Requested size: 195.18419pt x 72.96072pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 60.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 60.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [39
-
- <../figs/pirom/coarse_graining.png>]
+<../figs/pirom/coarse_graining.png, id=343, 799.48688pt x 298.86656pt>
 File: ../figs/pirom/coarse_graining.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining.png  used on input line 60.
@@ -1781,7 +1777,7 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 60.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [40
 
-]
+ <../figs/pirom/coarse_graining.png>]
 File: ../figs/pirom/coarse_graining.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining.png  used on input line 60.
@@ -1932,26 +1928,41 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 60.
  [50
 
 ]
+File: ../figs/pirom/coarse_graining.png Graphic file (type png)
+<use ../figs/pirom/coarse_graining.png>
+Package pdftex.def Info: ../figs/pirom/coarse_graining.png  used on input line 60.
+(pdftex.def)             Requested size: 195.18419pt x 72.96072pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 123.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 60.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 123.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 60.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [51
 
 ]
-<../figs/pirom/coarse_graining_tps_left_1.png, id=426, 711.4078pt x 569.12625pt>
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 123.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 123.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [52
+
+]
+<../figs/pirom/coarse_graining_tps_left_1.png, id=430, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_1.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_1.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_1.png  used on input line 123.
@@ -1964,10 +1975,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [52
+ [53
 
  <../figs/pirom/coarse_graining_tps_left_1.png>]
-<../figs/pirom/coarse_graining_tps_left_2.png, id=433, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_2.png, id=437, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_2.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_2.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_2.png  used on input line 123.
@@ -1980,10 +1991,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [53
+ [54
 
  <../figs/pirom/coarse_graining_tps_left_2.png>]
-<../figs/pirom/coarse_graining_tps_left_3.png, id=440, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_3.png, id=444, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_3.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_3.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_3.png  used on input line 123.
@@ -1996,10 +2007,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [54
+ [55
 
  <../figs/pirom/coarse_graining_tps_left_3.png>]
-<../figs/pirom/coarse_graining_tps_left_4.png, id=447, 711.4078pt x 569.12625pt>
+<../figs/pirom/coarse_graining_tps_left_4.png, id=452, 711.4078pt x 569.12625pt>
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
@@ -2012,14 +2023,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [55
+ [56
 
  <../figs/pirom/coarse_graining_tps_left_4.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_1.png, id=455, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_1.png, id=459, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_1.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_1.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_1.png  used on input line 123.
@@ -2032,14 +2043,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [56
+ [57
 
  <../figs/pirom/coarse_grained_variables_tps_1.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_2.png, id=462, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_2.png, id=466, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_2.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_2.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_2.png  used on input line 123.
@@ -2052,14 +2063,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [57
+ [58
 
  <../figs/pirom/coarse_grained_variables_tps_2.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_3.png, id=469, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_3.png, id=473, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_3.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_3.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_3.png  used on input line 123.
@@ -2072,14 +2083,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [58
+ [59
 
  <../figs/pirom/coarse_grained_variables_tps_3.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_4.png, id=476, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_4.png, id=480, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_4.png  used on input line 123.
@@ -2092,14 +2103,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [59
+ [60
 
  <../figs/pirom/coarse_grained_variables_tps_4.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_5.png, id=483, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_5.png, id=487, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_5.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_5.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_5.png  used on input line 123.
@@ -2112,14 +2123,14 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [60
+ [61
 
  <../figs/pirom/coarse_grained_variables_tps_5.png>]
 File: ../figs/pirom/coarse_graining_tps_left_4.png Graphic file (type png)
 <use ../figs/pirom/coarse_graining_tps_left_4.png>
 Package pdftex.def Info: ../figs/pirom/coarse_graining_tps_left_4.png  used on input line 123.
 (pdftex.def)             Requested size: 186.22565pt x 148.9767pt.
-<../figs/pirom/coarse_grained_variables_tps_6.png, id=490, 711.4078pt x 597.73312pt>
+<../figs/pirom/coarse_grained_variables_tps_6.png, id=495, 711.4078pt x 597.73312pt>
 File: ../figs/pirom/coarse_grained_variables_tps_6.png Graphic file (type png)
 <use ../figs/pirom/coarse_grained_variables_tps_6.png>
 Package pdftex.def Info: ../figs/pirom/coarse_grained_variables_tps_6.png  used on input line 123.
@@ -2132,7 +2143,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 123.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [61
+ [62
 
  <../figs/pirom/coarse_grained_variables_tps_6.png>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -2143,40 +2154,17 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 164.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/pirom/coarse_variables.png, id=498, 569.12625pt x 426.84468pt>
+<../figs/pirom/coarse_variables.png, id=502, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/coarse_variables.png Graphic file (type png)
 <use ../figs/pirom/coarse_variables.png>
 Package pdftex.def Info: ../figs/pirom/coarse_variables.png  used on input line 164.
 (pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-<../figs/pirom/memory.png, id=499, 569.12625pt x 426.84468pt>
+<../figs/pirom/memory.png, id=503, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/memory.png Graphic file (type png)
 <use ../figs/pirom/memory.png>
 Package pdftex.def Info: ../figs/pirom/memory.png  used on input line 164.
 (pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-<../figs/pirom/noise.png, id=500, 569.12625pt x 426.84468pt>
-File: ../figs/pirom/noise.png Graphic file (type png)
-<use ../figs/pirom/noise.png>
-Package pdftex.def Info: ../figs/pirom/noise.png  used on input line 164.
-(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 164.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 164.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [62
-
- <../figs/pirom/coarse_variables.png> <../figs/pirom/memory.png> <../figs/pirom/noise.png>]
-File: ../figs/pirom/coarse_variables.png Graphic file (type png)
-<use ../figs/pirom/coarse_variables.png>
-Package pdftex.def Info: ../figs/pirom/coarse_variables.png  used on input line 164.
-(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
-File: ../figs/pirom/memory.png Graphic file (type png)
-<use ../figs/pirom/memory.png>
-Package pdftex.def Info: ../figs/pirom/memory.png  used on input line 164.
-(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
+<../figs/pirom/noise.png, id=504, 569.12625pt x 426.84468pt>
 File: ../figs/pirom/noise.png Graphic file (type png)
 <use ../figs/pirom/noise.png>
 Package pdftex.def Info: ../figs/pirom/noise.png  used on input line 164.
@@ -2191,7 +2179,7 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 164.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [63
 
-]
+ <../figs/pirom/coarse_variables.png> <../figs/pirom/memory.png> <../figs/pirom/noise.png>]
 File: ../figs/pirom/coarse_variables.png Graphic file (type png)
 <use ../figs/pirom/coarse_variables.png>
 Package pdftex.def Info: ../figs/pirom/coarse_variables.png  used on input line 164.
@@ -2261,30 +2249,38 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 164.
  [66
 
 ]
+File: ../figs/pirom/coarse_variables.png Graphic file (type png)
+<use ../figs/pirom/coarse_variables.png>
+Package pdftex.def Info: ../figs/pirom/coarse_variables.png  used on input line 164.
+(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
+File: ../figs/pirom/memory.png Graphic file (type png)
+<use ../figs/pirom/memory.png>
+Package pdftex.def Info: ../figs/pirom/memory.png  used on input line 164.
+(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
+File: ../figs/pirom/noise.png Graphic file (type png)
+<use ../figs/pirom/noise.png>
+Package pdftex.def Info: ../figs/pirom/noise.png  used on input line 164.
+(pdftex.def)             Requested size: 107.55177pt x 80.65843pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 222.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 164.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 222.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 164.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-
-Overfull \hbox (4.21925pt too wide) detected at line 222
-[]
- []
-
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 222.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 222.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[67
+ [67
 
 ]
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 222.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 222.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+
 Overfull \hbox (4.21925pt too wide) detected at line 222
 []
  []
@@ -2465,26 +2461,41 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 222.
 [79
 
 ]
+Overfull \hbox (4.21925pt too wide) detected at line 222
+[]
+ []
+
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 256.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 222.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 222.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 256.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [80
+[80
 
 ]
-<../figs/pirom/tps_data_1.png, id=606, 1138.2525pt x 569.12625pt>
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 256.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 256.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [81
+
+]
+<../figs/pirom/tps_data_1.png, id=610, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_1.png Graphic file (type png)
 <use ../figs/pirom/tps_data_1.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_1.png  used on input line 256.
@@ -2497,10 +2508,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [81
+ [82
 
  <../figs/pirom/tps_data_1.png>]
-<../figs/pirom/tps_data_2.png, id=613, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_2.png, id=617, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_2.png Graphic file (type png)
 <use ../figs/pirom/tps_data_2.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_2.png  used on input line 256.
@@ -2513,10 +2524,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [82
+ [83
 
  <../figs/pirom/tps_data_2.png>]
-<../figs/pirom/tps_data_3.png, id=620, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_3.png, id=624, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_3.png Graphic file (type png)
 <use ../figs/pirom/tps_data_3.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_3.png  used on input line 256.
@@ -2529,10 +2540,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [83
+ [84
 
  <../figs/pirom/tps_data_3.png>]
-<../figs/pirom/tps_data_4.png, id=627, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_4.png, id=631, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_4.png Graphic file (type png)
 <use ../figs/pirom/tps_data_4.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_4.png  used on input line 256.
@@ -2545,10 +2556,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [84
+ [85
 
  <../figs/pirom/tps_data_4.png>]
-<../figs/pirom/tps_data_5.png, id=634, 1138.2525pt x 569.12625pt>
+<../figs/pirom/tps_data_5.png, id=639, 1138.2525pt x 569.12625pt>
 File: ../figs/pirom/tps_data_5.png Graphic file (type png)
 <use ../figs/pirom/tps_data_5.png>
 Package pdftex.def Info: ../figs/pirom/tps_data_5.png  used on input line 256.
@@ -2561,7 +2572,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 256.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [85
+ [86
 
  <../figs/pirom/tps_data_5.png>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -2572,22 +2583,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 296.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-<../figs/introduction/itm.png, id=642, 776.9025pt x 496.85625pt>
-File: ../figs/introduction/itm.png Graphic file (type png)
-<use ../figs/introduction/itm.png>
-Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 296.
-(pdftex.def)             Requested size: 125.47798pt x 80.2416pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 296.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 296.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [86
-
- <../figs/introduction/itm.png>]
+<../figs/introduction/itm.png, id=646, 776.9025pt x 496.85625pt>
 File: ../figs/introduction/itm.png Graphic file (type png)
 <use ../figs/introduction/itm.png>
 Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 296.
@@ -2602,7 +2598,7 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 296.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [87
 
-]
+ <../figs/introduction/itm.png>]
 File: ../figs/introduction/itm.png Graphic file (type png)
 <use ../figs/introduction/itm.png>
 Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 296.
@@ -2648,26 +2644,41 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 296.
  [90
 
 ]
+File: ../figs/introduction/itm.png Graphic file (type png)
+<use ../figs/introduction/itm.png>
+Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 296.
+(pdftex.def)             Requested size: 125.47798pt x 80.2416pt.
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 330.
+Package pdftex.def Info: assets/vrainbow.png  used on input line 296.
 (pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
 File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 330.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
+Package pdftex.def Info: assets/header-tbird.png  used on input line 296.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [91
 
 ]
-<../figs/pirom/performance_1.png, id=676, 1707.16194pt x 569.05399pt>
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 330.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 330.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [92
+
+]
+<../figs/pirom/performance_1.png, id=680, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_1.png Graphic file (type png)
 <use ../figs/pirom/performance_1.png>
 Package pdftex.def Info: ../figs/pirom/performance_1.png  used on input line 330.
@@ -2685,10 +2696,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[92
+[93
 
  <../figs/pirom/performance_1.png>]
-<../figs/pirom/performance_2.png, id=683, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_2.png, id=687, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_2.png Graphic file (type png)
 <use ../figs/pirom/performance_2.png>
 Package pdftex.def Info: ../figs/pirom/performance_2.png  used on input line 330.
@@ -2706,10 +2717,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[93
+[94
 
  <../figs/pirom/performance_2.png>]
-<../figs/pirom/performance_3.png, id=690, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_3.png, id=694, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_3.png Graphic file (type png)
 <use ../figs/pirom/performance_3.png>
 Package pdftex.def Info: ../figs/pirom/performance_3.png  used on input line 330.
@@ -2727,10 +2738,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[94
+[95
 
  <../figs/pirom/performance_3.png>]
-<../figs/pirom/performance_4.png, id=697, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_4.png, id=701, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_4.png Graphic file (type png)
 <use ../figs/pirom/performance_4.png>
 Package pdftex.def Info: ../figs/pirom/performance_4.png  used on input line 330.
@@ -2748,10 +2759,10 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[95
+[96
 
  <../figs/pirom/performance_4.png>]
-<../figs/pirom/performance_5.png, id=704, 1707.16194pt x 569.05399pt>
+<../figs/pirom/performance_5.png, id=709, 1707.16194pt x 569.05399pt>
 File: ../figs/pirom/performance_5.png Graphic file (type png)
 <use ../figs/pirom/performance_5.png>
 Package pdftex.def Info: ../figs/pirom/performance_5.png  used on input line 330.
@@ -2769,7 +2780,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 330.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
-[96
+[97
 
  <../figs/pirom/performance_5.png>]
 File: assets/vrainbow.png Graphic file (type png)
@@ -2784,34 +2795,7 @@ File: ../figs/introduction/itm.png Graphic file (type png)
 <use ../figs/introduction/itm.png>
 Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 375.
 (pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
-<../figs/pirom/checkmark.png, id=712, 501.875pt x 501.875pt>
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: assets/vrainbow.png Graphic file (type png)
-<use assets/vrainbow.png>
-Package pdftex.def Info: assets/vrainbow.png  used on input line 375.
-(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
-File: assets/header-tbird.png Graphic file (type png)
-<use assets/header-tbird.png>
-Package pdftex.def Info: assets/header-tbird.png  used on input line 375.
-(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [97
-
- <../figs/pirom/checkmark.png>]
-File: ../figs/introduction/itm.png Graphic file (type png)
-<use ../figs/introduction/itm.png>
-Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 375.
-(pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
+<../figs/pirom/checkmark.png, id=717, 501.875pt x 501.875pt>
 File: ../figs/pirom/checkmark.png Graphic file (type png)
 <use ../figs/pirom/checkmark.png>
 Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
@@ -2834,7 +2818,7 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 375.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [98
 
-]
+ <../figs/pirom/checkmark.png>]
 File: ../figs/introduction/itm.png Graphic file (type png)
 <use ../figs/introduction/itm.png>
 Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 375.
@@ -3104,6 +3088,33 @@ Package pdftex.def Info: assets/header-tbird.png  used on input line 375.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
  [108
 
+]
+File: ../figs/introduction/itm.png Graphic file (type png)
+<use ../figs/introduction/itm.png>
+Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 375.
+(pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
+(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
+(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 375.
+(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
+File: assets/vrainbow.png Graphic file (type png)
+<use assets/vrainbow.png>
+Package pdftex.def Info: assets/vrainbow.png  used on input line 375.
+(pdftex.def)             Requested size: 85.35826pt x 0.7123pt.
+File: assets/header-tbird.png Graphic file (type png)
+<use assets/header-tbird.png>
+Package pdftex.def Info: assets/header-tbird.png  used on input line 375.
+(pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
+ [109
+
 ]) (./source/conclusions.tex
 File: assets/vrainbow.png Graphic file (type png)
 <use assets/vrainbow.png>
@@ -3121,7 +3132,7 @@ File: assets/header-tbird.png Graphic file (type png)
 <use assets/header-tbird.png>
 Package pdftex.def Info: assets/header-tbird.png  used on input line 9.
 (pdftex.def)             Requested size: 12.76477pt x 12.29161pt.
- [109
+ [110
 
 ])
 \tf@nav=\write6
@@ -3142,18 +3153,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 36367 strings out of 474222
- 757429 string characters out of 5748734
- 1949975 words of memory out of 5000000
- 57648 multiletter control sequences out of 15000+600000
- 586227 words of font info for 99 fonts, out of 8000000 for 9000
+ 36372 strings out of 474222
+ 757547 string characters out of 5748733
+ 1950975 words of memory out of 5000000
+ 57653 multiletter control sequences out of 15000+600000
+ 584690 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 142i,23n,137p,1073b,1075s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on main.pdf (109 pages, 32358430 bytes).
+ 142i,23n,137p,1072b,1075s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb>
+Output written on main.pdf (110 pages, 32366426 bytes).
 PDF statistics:
  981 PDF objects out of 1000 (max. 8388607)
- 635 compressed objects within 7 object streams
- 219 named destinations out of 1000 (max. 500000)
+ 636 compressed objects within 7 object streams
+ 221 named destinations out of 1000 (max. 500000)
  517 words of extra memory for PDF output out of 10000 (max. 10000000)
 
