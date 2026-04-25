@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1777138925.35425 "/home/andres/presentations/tps/main.tex" "main.pdf" "main" 1777138950.14963 0
+["pdflatex"] 1777143485.04919 "/home/andres/presentations/tps/main.tex" "main.pdf" "main" 1777143526.71962 0
   "../figs/introduction/itm.png" 1775316675.37385 121238 2f10d553b2536a71922dc4dbe9d5f2f9 ""
   "../figs/introduction/itm_1.png" 1775316675.38085 40058 57041af94c9d74190c733c57aef9dc7b ""
   "../figs/introduction/itm_2.png" 1775316675.38185 101505 f7cf50dc894a5f2ce548fa9a9fa5116b ""
@@ -390,14 +390,14 @@
   "beamerinnerthemeAngles.sty" 1777061257.26049 7853 6e3418f655c1d21a3dc0d73dfaca9d0e ""
   "beamerouterthemeAngles.sty" 1777061257.26049 3405 0f9cf4c0f7c9ffdc1a6381e02847548f ""
   "beamerthemeAngles.sty" 1776977239.87059 1614 07343d6d35ff097a99c8058b142e0c56 ""
-  "main.aux" 1777138949.97214 16218 018bfffd5db373871eda49c4044e0305 "pdflatex"
-  "main.nav" 1777138949.97314 1610 d651f8d5459bc9ac427af4074eb73407 "pdflatex"
-  "main.out" 1777138926.03603 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1777143526.42373 16218 018bfffd5db373871eda49c4044e0305 "pdflatex"
+  "main.nav" 1777143526.42573 1610 d651f8d5459bc9ac427af4074eb73407 "pdflatex"
+  "main.out" 1777143486.24248 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1777061257.4916 1947 a2fb71fb2af4a4d8a08811c7bfbbf282 ""
   "markings.tex" 1776977239.90759 10045 669c6b2d0c7109f34b4f59c7ca69b3e3 ""
   "new-mysymb.sty" 1776977239.90759 7587 cee14fd555bfc4ed97e787900c5bd0e0 ""
   "sandia-beamer.cls" 1776977239.90859 15063 65cd69c7112568c7ee7112a6e5e3e409 ""
-  "source/application.tex" 1777138901.8059 16304 a6de03e53e959f6c1af35a5c0184e7f1 ""
+  "source/application.tex" 1777143487.10849 16304 a3cbab75d6761a6ce9523a7dd5e44140 ""
   "source/conclusions.tex" 1776977239.90859 191 ef6859517591e38f68ad044acb82abaa ""
   "source/introduction.tex" 1777136347.50247 10792 b7ef8b236e25bb0f9fddd1c376a44414 ""
   "source/overview.tex" 1777136508.227 2752 7d83d9728164a764f60e535594dadec9 ""
