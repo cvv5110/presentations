@@ -12,54 +12,54 @@
     \end{figure}
 \end{frame}
 
-\begin{frame}{\small We start by \textbf{reducing the complexity} of full-order models,}
-    \footnotesize
-    \begin{columns}
-        \visible<2->{
-        \begin{column}{0.40\textwidth}
-                \centering
-                \textbf{Full-Order Model} (e.g., FEM)
-                \begin{align*}
-                    \dot{\vx} &= \vF\left(\vx;\vp\right)\\
-                    \vz_{\text{HF}} &= \vH\left(\vx;\vp\right)\\
-                    \vx(t_0) &= \vx_0
-                \end{align*}
-                \vspace{-0.2in}
-                \begin{enumerate}
-                    \item<3-> $\vx\in\mathbb{R}^{n_x}$: FEM states $(n_x\gg 1)$
-                    \item<4-> $\vp\in\mathbb{R}^{n_p}$: parameters
-                    \item<5-> $\vz_{\text{HF}}\in\mathbb{R}^{n_z}$: HF QoI 
-                \end{enumerate}
-        \end{column}}
-        \visible<6->{
-        \begin{column}{0.70\textwidth}
-            \centering
-            \textbf{Coarse Graining} (reduce FOM's complexity)
-            \begin{enumerate}
-                \item<7-> State decomposition $\vx = \left[\bvx,\deltavx\right]^{\top}\in\mathbb{R}^{n_x}$ 
-                \begin{itemize}
-                    \item<8-> Averaging variables (observables) $\bvx\in\mathbb{R}^{n_{\bar{x}}}$
-                    \item<9-> Un-resolved (un-observables) $\deltavx\in\mathbb{R}^{n_{\delta x}}$ $\left(n_{\delta x}\gg n_{\bar{x}}\right)$
-                \end{itemize}
-                \item<10-> Projection operator $\cP:\cH_{n_x}\to\cH_{n_{\bar{x}}}\subset\cH_{n_x}$, e.g.,
-                \vspace*{-0.1in}
-                \begin{equation*}
-                    \cP: \cG\left(\vx\right)\rightarrow \bar{\cG}\left(\bvx\right)\rightarrow\text{\textbf{cheaper to evaluate!}}
-                    \vspace*{-0.1in}
-                \end{equation*}
-                \item<11-> Complement operator $\cQ = \cI - \cP$
-            \end{enumerate}
-            \vspace{-0.1in}
-            \visible<12->{
-            \begin{figure}
-                \centering
-                \includegraphics[width=0.7\textwidth]{../figs/pirom/coarse_graining.png}
-            \end{figure}}
-        \end{column}}
-    \end{columns}
-\end{frame}
+% \begin{frame}{\small We start by \textbf{reducing the complexity} of full-order models,}
+%     \footnotesize
+%     \begin{columns}
+%         \visible<2->{
+%         \begin{column}{0.40\textwidth}
+%                 \centering
+%                 \textbf{Full-Order Model} (e.g., FEM)
+%                 \begin{align*}
+%                     \dot{\vx} &= \vF\left(\vx;\vp\right)\\
+%                     \vz_{\text{HF}} &= \vH\left(\vx;\vp\right)\\
+%                     \vx(t_0) &= \vx_0
+%                 \end{align*}
+%                 \vspace{-0.2in}
+%                 \begin{enumerate}
+%                     \item<3-> $\vx\in\mathbb{R}^{n_x}$: FEM states $(n_x\gg 1)$
+%                     \item<4-> $\vp\in\mathbb{R}^{n_p}$: parameters
+%                     \item<5-> $\vz_{\text{HF}}\in\mathbb{R}^{n_z}$: HF QoI 
+%                 \end{enumerate}
+%         \end{column}}
+%         \visible<6->{
+%         \begin{column}{0.70\textwidth}
+%             \centering
+%             \textbf{Coarse Graining} (reduce FOM's complexity)
+%             \begin{enumerate}
+%                 \item<7-> State decomposition $\vx = \left[\bvx,\deltavx\right]^{\top}\in\mathbb{R}^{n_x}$ 
+%                 \begin{itemize}
+%                     \item<8-> Averaging variables (observables) $\bvx\in\mathbb{R}^{n_{\bar{x}}}$
+%                     \item<9-> Un-resolved (un-observables) $\deltavx\in\mathbb{R}^{n_{\delta x}}$ $\left(n_{\delta x}\gg n_{\bar{x}}\right)$
+%                 \end{itemize}
+%                 \item<10-> Projection operator $\cP:\cH_{n_x}\to\cH_{n_{\bar{x}}}\subset\cH_{n_x}$, e.g.,
+%                 \vspace*{-0.1in}
+%                 \begin{equation*}
+%                     \cP: \cG\left(\vx\right)\rightarrow \bar{\cG}\left(\bvx\right)\rightarrow\text{\textbf{cheaper to evaluate!}}
+%                     \vspace*{-0.1in}
+%                 \end{equation*}
+%                 \item<11-> Complement operator $\cQ = \cI - \cP$
+%             \end{enumerate}
+%             \vspace{-0.1in}
+%             \visible<12->{
+%             \begin{figure}
+%                 \centering
+%                 \includegraphics[width=0.7\textwidth]{../figs/pirom/coarse_graining.png}
+%             \end{figure}}
+%         \end{column}}
+%     \end{columns}
+% \end{frame}
 
-\begin{frame}{\small Now, apply the \textbf{coarse-graining procedure} to the TPS FEM model,}
+\begin{frame}{\small Start by \textbf{reducing the complexity} of the TPS FEM model,}
     \footnotesize
     \vspace*{-0.2in}
     \begin{columns}
