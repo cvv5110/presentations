@@ -1,12 +1,17 @@
-\begin{frame}{\large Content Overview}
-  \footnotesize
-    \begin{enumerate}
-        \item \textcolor{gray!50}{Motivation, Background, and Objectives}
-        \item \colorbox{yellow!70}{\textbf{Addressing the Impossible Trinity of Modeling (ITM)}}
-        \item \textcolor{gray!50}{Unified Control-Theoretic Training}
-        \item \textcolor{gray!50}{Addressing the Impossible Trinity of Optimal Control (ITOC)}
-        \item \textcolor{gray!50}{Conclusions and Future Work}
-    \end{enumerate}
+% \begin{frame}{\large Content Overview}
+%   \footnotesize
+%     \begin{enumerate}
+%         \item \textcolor{gray!50}{Motivation, Background, and Objectives}
+%         \item \colorbox{yellow!70}{\textbf{Addressing the Impossible Trinity of Modeling (ITM)}}
+%         \item \textcolor{gray!50}{Unified Control-Theoretic Training}
+%         \item \textcolor{gray!50}{Addressing the Impossible Trinity of Optimal Control (ITOC)}
+%         \item \textcolor{gray!50}{Conclusions and Future Work}
+%     \end{enumerate}
+% \end{frame}
+
+\begin{frame}
+    \centering
+    \Large\textbf{Addressing the Impossible Trinity of Modeling (ITM)}
 \end{frame}
 
 % \begin{frame}{\large How does PIROM \textbf{solve the ITM} in small-data regimes?}
@@ -103,7 +108,7 @@
 %     \end{figure}}
 % \end{frame}
 
-\begin{frame}{\large How does PIROM \textbf{solve the ITM} in small-data regimes?}
+\begin{frame}{\large How does \textbf{physics-infused} ROMs (PIROMs) \textbf{solve the ITM} in small-data regimes?}
     \visible<2->{
     \begin{center}
         {\Large \textbf{Consider the following example}:}\\
@@ -321,7 +326,7 @@
                     \vz &= \textcolor{red}{\vD_{\bar{u}}}\bvu + \textcolor{red}{\vD_{\beta}}\boldsymbol{\beta}}
                 \end{align*}}
                 \visible<13->{
-                $\redvTheta = \left\{\textcolor{red}{\vP,\vQ,\vLambda,\vR,\vD_{\bar{u}},\vD_{\beta}}\right\}$ learnable parameters}
+                $\redvTheta = \left\{\textcolor{red}{\vP,\vQ,\vLambda,\vR,\vD_{\bar{u}},\vD_{\beta}}\right\}$ \textcolor{red}{optimize parameters!}}
             \end{graybox}}
         \end{column}
     \end{columns}
@@ -373,34 +378,34 @@
 %     \end{columns}
 % \end{frame}
 
-\begin{frame}{\large Now, consider the following TPS \textbf{parametrization},}
-    \footnotesize
-    \only<2>{
-        \begin{figure}
-            \centering
-            \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_1.png}
-        \end{figure}}
-    \only<3>{
-        \begin{figure}
-            \centering
-            \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_2.png}
-        \end{figure}}
-    \only<4>{
-        \begin{figure}
-            \centering
-            \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_3.png}
-        \end{figure}}
-    \only<5>{
-        \begin{figure}
-            \centering
-            \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_4.png}
-        \end{figure}}
-    \only<6>{
-        \begin{figure}
-            \centering
-            \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_5.png}
-        \end{figure}}
-\end{frame}
+% \begin{frame}{\large Now, consider the following TPS \textbf{parametrization},}
+%     \footnotesize
+%     \only<2>{
+%         \begin{figure}
+%             \centering
+%             \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_1.png}
+%         \end{figure}}
+%     \only<3>{
+%         \begin{figure}
+%             \centering
+%             \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_2.png}
+%         \end{figure}}
+%     \only<4>{
+%         \begin{figure}
+%             \centering
+%             \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_3.png}
+%         \end{figure}}
+%     \only<5>{
+%         \begin{figure}
+%             \centering
+%             \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_4.png}
+%         \end{figure}}
+%     \only<6>{
+%         \begin{figure}
+%             \centering
+%             \includegraphics[width=0.9\textwidth]{../figs/pirom/tps_data_5.png}
+%         \end{figure}}
+% \end{frame}
 
 \begin{frame}{\large \textbf{Compare the PIROM} to state-of-the-art SCiML methods,}
     \footnotesize
@@ -472,10 +477,10 @@
     \end{tikzpicture}}
     \visible<3->{
     \begin{tikzpicture}[remember picture, overlay]
-        \node[anchor=north west, xshift=0.30cm, yshift=-5.5cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
+        \node[anchor=north west, xshift=0.28cm, yshift=-5.5cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
     \end{tikzpicture}}
     \visible<6->{
     \begin{tikzpicture}[remember picture, overlay]
-        \node[anchor=north west, xshift=3.64cm, yshift=-5.5cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
+        \node[anchor=north west, xshift=3.62cm, yshift=-5.5cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
     \end{tikzpicture}}
 \end{frame}
