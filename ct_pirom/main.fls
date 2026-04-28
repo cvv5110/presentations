@@ -1,9 +1,9 @@
-PWD /home/cavarga/presentations/ct_pirom
+PWD /home/andres/presentations/ct_pirom
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /home/cavarga/.texlive2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/cavarga/presentations/ct_pirom/main.tex
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/andres/presentations/ct_pirom/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls

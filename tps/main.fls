@@ -1,9 +1,9 @@
-PWD /home/cavarga/presentations/tps
+PWD /home/andres/presentations/tps
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /home/cavarga/.texlive2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/cavarga/presentations/tps/main.tex
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/andres/presentations/tps/main.tex
 OUTPUT main.log
 INPUT ./sandia-beamer.cls
 INPUT sandia-beamer.cls
