@@ -1,4 +1,4 @@
-% \begin{frame}{\large Content Overview}
+% \begin{frame}{\small Content Overview}
 %   \footnotesize
 %     \begin{enumerate}
 %         \item<2-> Motivation, Background, and Objectives
@@ -15,9 +15,9 @@
 %     \end{enumerate}
 % \end{frame}
 
-% \section{\large Motivation, Background, and Objectives}
+% \section{\small Motivation, Background, and Objectives}
 
-% \begin{frame}{\large Content Overview}
+% \begin{frame}{\small Content Overview}
 %   \footnotesize
 %     \begin{enumerate}
 %         \item \colorbox{yellow!70}{\textbf{Motivation, Background, and Objectives}}
@@ -28,7 +28,7 @@
 %     \end{enumerate}
 % \end{frame}
 
-% \begin{frame}{\large Motivation: Simulation and Control of Hypersonic Systems}
+% \begin{frame}{\small Motivation: Simulation and Control of Hypersonic Systems}
 %     \footnotesize
 %     \begin{columns}
 %         \begin{column}{0.6\textwidth}
@@ -104,7 +104,7 @@
     \Large\textbf{Introduction, Background, and Motivation}
 \end{frame}
 
-\begin{frame}{\large We want \textbf{high-fidelity and efficient} \textbf{simulation and control} of hypersonic systems,}
+\begin{frame}{\small We want \textbf{high-fidelity and efficient} \textbf{simulation and optimal control} of hypersonic systems,}
     \footnotesize
     \only<2>{
         \begin{figure}
@@ -158,47 +158,48 @@
         \end{figure}}
 \end{frame}
 
-\begin{frame}{\large ITM: balancing \textbf{accuracy, efficiency, and generalizability} with little data,}
+\begin{frame}{\small How can we balance \textbf{accuracy, efficiency, and generalizability} with little data?}
     \footnotesize
     \begin{columns}
         \begin{column}{0.65\textwidth}
-            \only<1-2>{
+            \only<2>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.8\textwidth]{../figs/introduction/itm_1.png}
                 \end{figure}}
-            \only<3>{
+            \only<4>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.8\textwidth]{../figs/introduction/itm_2.png}
                 \end{figure}}
-            \only<4>{
+            \only<5>{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.8\textwidth]{../figs/introduction/itm_3.png}
                 \end{figure}}
-            \only<5->{
+            \only<6->{
                 \begin{figure}
                     \centering
                     \includegraphics[width=0.8\textwidth]{../figs/introduction/itm_4.png}
                 \end{figure}}
         \end{column}
         \begin{column}{0.46\textwidth}
-            \visible<2->{
+            \visible<3->{
             \noindent Remains largely \textbf{unresolved} because,}
             \begin{itemize}
-                \item<3-> \textbf{FEMs}: too many states,
-                \item<4-> \textbf{RPMs}: overly simplified problems,
-                \item<5-> \textbf{NNs}: need too much data,
+                \item<4-> \textbf{FEMs}: too many states,
+                \item<5-> \textbf{RPMs}: overly simplified problems,
+                \item<6-> \textbf{NNs}: need too much data,
             \end{itemize}
         \end{column}
     \end{columns}
+    \visible<2->{
     \begin{center}
         {\tiny ITM: Impossible Trinity of Modeling, FEM: finite-element method, RPM: reduced-physics model, NN: neural network}
-    \end{center}
+    \end{center}}
 \end{frame}
 
-\begin{frame}{\large ITOC: balancing \textbf{accuracy, efficiency, and generalizability} with little data,}
+\begin{frame}{\small How can we balance \textbf{accuracy, efficiency, and generalizability} with little data?}
     \footnotesize
     \begin{columns}
         \begin{column}{0.65\textwidth}
@@ -229,7 +230,7 @@
             \noindent Remains largely \textbf{unresolved} because,}
             \begin{itemize}
                 \item<3-> \textbf{TO}: need discretization and optimization,
-                \item<4-> \textbf{NNs}: scarce data,
+                \item<4-> \textbf{NNs}: biased towards training data,
                 \item<5-> \textbf{Linearizations}: not the original problem
             \end{itemize}
         \end{column}
@@ -240,7 +241,7 @@
     \end{center}}
 \end{frame}
 
-\begin{frame}{\large Objectives of research are \textbf{to solve the ITM and ITOC simultaneously},}
+\begin{frame}{\small Objectives of research are \textbf{to solve the ITM and ITOC simultaneously},}
     \footnotesize
     \only<1>{
         \begin{figure}

@@ -32,8 +32,13 @@
 % Outer theme
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \useoutertheme{miniframes}
-\newlength{\beamer@baseliney}
+\newlength{\beamer@baseliney}       
 \setlength{\beamer@baseliney}{.25\paperheight}
+\newcommand\psu@flatlogoy{-1.1\paperheight}
+\newcommand\psu@titleaerologoy{-.88\paperheight}
+\newcommand\psu@titleapuslogoy{-.88\paperheight}
+\newcommand\psu@titlebarTopY{-.29\paperheight}
+\newcommand\psu@titlebarBottomY{-.33\paperheight}
 
 \pgfdeclareimage[width=.25\paperwidth]{apus-logo}{_src/apus_1}
 \pgfdeclareimage[width=.35\paperwidth]{flat-logo}{_src/apus_2}
@@ -55,15 +60,15 @@
 \begin{pgfpicture}
 \pgftransformxshift{-\Gm@lmargin}
 \pgftransformyshift{\beamer@baseliney}
-\pgftext[at=\pgfpoint{.0\paperwidth}{-.97\paperheight},left,base]{\pgfuseimage{flat-logo}}
+\pgftext[at=\pgfpoint{.0\paperwidth}{\psu@flatlogoy},left,base]{\pgfuseimage{flat-logo}}
 \end{pgfpicture}}
 
-\addtobeamertemplate{frametitle}{}{%
+\addtobeamertemplate{frametitle}{\vskip-5pt}{%
 \begin{pgfpicture}
 \pgf@relevantforpicturesizefalse
 \pgftransformxshift{-\Gm@lmargin}
 \pgftransformyshift{\beamer@baseliney}
-\pgftext[at=\pgfpoint{.0\paperwidth}{-.97\paperheight},left,base]{\pgfuseimage{flat-logo}}
+\pgftext[at=\pgfpoint{.0\paperwidth}{\psu@flatlogoy},left,base]{\pgfuseimage{flat-logo}}
 \end{pgfpicture}%
 \vskip-25pt%
 }
@@ -78,10 +83,10 @@
 \pgftransformyshift{5.5pt}
 \DoPSUBackground
 
-\pgftext[at=\pgfpoint{.007\paperwidth}{-.99\paperheight},left,base]{\pgfuseimage{aero-logo}}
-\pgftext[at=\pgfpoint{.98\paperwidth}{-.99\paperheight},right,base]{\pgfuseimage{apus-logo}}
+\pgftext[at=\pgfpoint{.007\paperwidth}{\psu@titleaerologoy},left,base]{\pgfuseimage{aero-logo}}
+\pgftext[at=\pgfpoint{.98\paperwidth}{\psu@titleapuslogoy},right,base]{\pgfuseimage{apus-logo}}
 
-\pgfpathrectanglecorners{\pgfpoint{0}{-.31\paperheight}}{\pgfpoint{\paperwidth}{-.36\paperheight}}
+\pgfpathrectanglecorners{\pgfpoint{0}{\psu@titlebarTopY}}{\pgfpoint{\paperwidth}{\psu@titlebarBottomY}}
 \pgfsetfillcolor{PSUnavy}
 \pgfusepath{fill}
 
@@ -92,7 +97,8 @@
 % Inner Theme
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \useinnertheme{rectangles}
-\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{headline}{}
 
 \setlength{\leftmargini}{.5em}
 \setlength{\leftmarginii}{1.0em}
