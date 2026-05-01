@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.5)  29 APR 2026 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.10)  30 APR 2026 22:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/cavarga/presentations/ct_pirom/main.tex
-(/home/cavarga/presentations/ct_pirom/main.tex
+**/home/andres/presentations/ct_pirom/main.tex
+(/home/andres/presentations/ct_pirom/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -382,15 +382,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
-Package: sansmathaccent 2020/01/31
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count309
@@ -1179,37 +1171,42 @@ Package pdftex.def Info: ../figs/introduction/problem_space_10.png  used on inpu
  [13
 
  <../figs/introduction/problem_space_10.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 200.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 201.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 200.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 201.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 200.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 201.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 200.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 201.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 200.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 201.
  [14
 
 ]
 <../figs/introduction/itm_1.png, id=151, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_1.png Graphic file (type png)
 <use ../figs/introduction/itm_1.png>
-Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 200.
+Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 201.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [15
 
- <../figs/introduction/itm_1.png>] [16
+ <../figs/introduction/itm_1.png>]
+File: ../figs/introduction/itm_1.png Graphic file (type png)
+<use ../figs/introduction/itm_1.png>
+Package pdftex.def Info: ../figs/introduction/itm_1.png  used on input line 201.
+(pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
+ [16
 
 ]
 <../figs/introduction/itm_2.png, id=163, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_2.png Graphic file (type png)
 <use ../figs/introduction/itm_2.png>
-Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 200.
+Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 201.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [17
 
@@ -1217,7 +1214,7 @@ Package pdftex.def Info: ../figs/introduction/itm_2.png  used on input line 200.
 <../figs/introduction/itm_3.png, id=170, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_3.png Graphic file (type png)
 <use ../figs/introduction/itm_3.png>
-Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 200.
+Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 201.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [18
 
@@ -1225,7 +1222,7 @@ Package pdftex.def Info: ../figs/introduction/itm_3.png  used on input line 200.
 <../figs/introduction/itm_4.png, id=177, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itm_4.png Graphic file (type png)
 <use ../figs/introduction/itm_4.png>
-Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 200.
+Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 201.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [19
 
@@ -1233,14 +1230,14 @@ Package pdftex.def Info: ../figs/introduction/itm_4.png  used on input line 200.
 <../figs/introduction/itoc_1.png, id=185, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_1.png Graphic file (type png)
 <use ../figs/introduction/itoc_1.png>
-Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 242.
+Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 243.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [20
 
  <../figs/introduction/itoc_1.png>]
 File: ../figs/introduction/itoc_1.png Graphic file (type png)
 <use ../figs/introduction/itoc_1.png>
-Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 242.
+Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 243.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [21
 
@@ -1248,7 +1245,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_1.png  used on input line 242
 <../figs/introduction/itoc_2.png, id=197, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_2.png Graphic file (type png)
 <use ../figs/introduction/itoc_2.png>
-Package pdftex.def Info: ../figs/introduction/itoc_2.png  used on input line 242.
+Package pdftex.def Info: ../figs/introduction/itoc_2.png  used on input line 243.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [22
 
@@ -1256,7 +1253,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_2.png  used on input line 242
 <../figs/introduction/itoc_3.png, id=205, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_3.png Graphic file (type png)
 <use ../figs/introduction/itoc_3.png>
-Package pdftex.def Info: ../figs/introduction/itoc_3.png  used on input line 242.
+Package pdftex.def Info: ../figs/introduction/itoc_3.png  used on input line 243.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [23
 
@@ -1264,7 +1261,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_3.png  used on input line 242
 <../figs/introduction/itoc_4.png, id=212, 711.4078pt x 540.51938pt>
 File: ../figs/introduction/itoc_4.png Graphic file (type png)
 <use ../figs/introduction/itoc_4.png>
-Package pdftex.def Info: ../figs/introduction/itoc_4.png  used on input line 242.
+Package pdftex.def Info: ../figs/introduction/itoc_4.png  used on input line 243.
 (pdftex.def)             Requested size: 207.1349pt x 157.38167pt.
  [24
 
@@ -1272,7 +1269,7 @@ Package pdftex.def Info: ../figs/introduction/itoc_4.png  used on input line 242
 <../figs/introduction/objectives_1.png, id=219, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_1.png Graphic file (type png)
 <use ../figs/introduction/objectives_1.png>
-Package pdftex.def Info: ../figs/introduction/objectives_1.png  used on input line 263.
+Package pdftex.def Info: ../figs/introduction/objectives_1.png  used on input line 264.
 (pdftex.def)             Requested size: 398.3386pt x 177.0352pt.
  [25
 
@@ -1280,7 +1277,7 @@ Package pdftex.def Info: ../figs/introduction/objectives_1.png  used on input li
 <../figs/introduction/objectives_2.png, id=227, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_2.png Graphic file (type png)
 <use ../figs/introduction/objectives_2.png>
-Package pdftex.def Info: ../figs/introduction/objectives_2.png  used on input line 263.
+Package pdftex.def Info: ../figs/introduction/objectives_2.png  used on input line 264.
 (pdftex.def)             Requested size: 398.3386pt x 177.0352pt.
  [26
 
@@ -1288,7 +1285,7 @@ Package pdftex.def Info: ../figs/introduction/objectives_2.png  used on input li
 <../figs/introduction/objectives_3.png, id=234, 1280.53406pt x 569.12625pt>
 File: ../figs/introduction/objectives_3.png Graphic file (type png)
 <use ../figs/introduction/objectives_3.png>
-Package pdftex.def Info: ../figs/introduction/objectives_3.png  used on input line 263.
+Package pdftex.def Info: ../figs/introduction/objectives_3.png  used on input line 264.
 (pdftex.def)             Requested size: 398.3386pt x 177.0352pt.
  [27
 
@@ -1841,263 +1838,227 @@ Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
 (pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
  [74
 
-]
-File: ../figs/introduction/itm.png Graphic file (type png)
-<use ../figs/introduction/itm.png>
-Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 486.
-(pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
- [75
+]) (./src/itoc.tex [75
+
+] [76
 
 ]
-File: ../figs/introduction/itm.png Graphic file (type png)
-<use ../figs/introduction/itm.png>
-Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 486.
-(pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
- [76
-
-]
-File: ../figs/introduction/itm.png Graphic file (type png)
-<use ../figs/introduction/itm.png>
-Package pdftex.def Info: ../figs/introduction/itm.png  used on input line 486.
-(pdftex.def)             Requested size: 107.55177pt x 68.7785pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 486.
-(pdftex.def)             Requested size: 19.91814pt x 19.91075pt.
- [77
-
-]) (./src/itoc.tex [78
-
-] [79
-
-]
-<../figs/ct/ct_overview_1.png, id=565, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_1.png, id=549, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_1.png Graphic file (type png)
 <use ../figs/ct/ct_overview_1.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_1.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [80
+ [77
 
  <../figs/ct/ct_overview_1.png>]
-<../figs/ct/ct_overview_2.png, id=572, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_2.png, id=556, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_2.png Graphic file (type png)
 <use ../figs/ct/ct_overview_2.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_2.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [81
+ [78
 
  <../figs/ct/ct_overview_2.png>]
-<../figs/ct/ct_overview_3.png, id=579, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_3.png, id=563, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_3.png Graphic file (type png)
 <use ../figs/ct/ct_overview_3.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_3.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [82
+ [79
 
  <../figs/ct/ct_overview_3.png>]
-<../figs/ct/ct_overview_4.png, id=586, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_4.png, id=571, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_4.png Graphic file (type png)
 <use ../figs/ct/ct_overview_4.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_4.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [83
+ [80
 
  <../figs/ct/ct_overview_4.png>]
-<../figs/ct/ct_overview_5.png, id=593, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_5.png, id=578, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_5.png Graphic file (type png)
 <use ../figs/ct/ct_overview_5.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_5.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [84
+ [81
 
  <../figs/ct/ct_overview_5.png>]
-<../figs/ct/ct_overview_6.png, id=600, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_6.png, id=585, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_6.png Graphic file (type png)
 <use ../figs/ct/ct_overview_6.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_6.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [85
+ [82
 
  <../figs/ct/ct_overview_6.png>]
-<../figs/ct/ct_overview_7.png, id=608, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_7.png, id=592, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_7.png Graphic file (type png)
 <use ../figs/ct/ct_overview_7.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_7.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [86
+ [83
 
  <../figs/ct/ct_overview_7.png>]
-<../figs/ct/ct_overview_8.png, id=615, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_8.png, id=599, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_8.png Graphic file (type png)
 <use ../figs/ct/ct_overview_8.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_8.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [87
+ [84
 
  <../figs/ct/ct_overview_8.png>]
-<../figs/ct/ct_overview_9.png, id=622, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_9.png, id=606, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_9.png Graphic file (type png)
 <use ../figs/ct/ct_overview_9.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_9.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [88
+ [85
 
  <../figs/ct/ct_overview_9.png>]
-<../figs/ct/ct_overview_10.png, id=629, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_10.png, id=614, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_10.png Graphic file (type png)
 <use ../figs/ct/ct_overview_10.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_10.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [89
+ [86
 
  <../figs/ct/ct_overview_10.png>]
-<../figs/ct/ct_overview_11.png, id=636, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_11.png, id=621, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_11.png Graphic file (type png)
 <use ../figs/ct/ct_overview_11.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_11.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [90
+ [87
 
  <../figs/ct/ct_overview_11.png>]
-<../figs/ct/ct_overview_12.png, id=643, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_12.png, id=628, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_12.png Graphic file (type png)
 <use ../figs/ct/ct_overview_12.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_12.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [91
+ [88
 
  <../figs/ct/ct_overview_12.png>]
-<../figs/ct/ct_overview_13.png, id=651, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_13.png, id=635, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_13.png Graphic file (type png)
 <use ../figs/ct/ct_overview_13.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_13.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [92
+ [89
 
  <../figs/ct/ct_overview_13.png>]
-<../figs/ct/ct_overview_14.png, id=658, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_14.png, id=642, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_14.png Graphic file (type png)
 <use ../figs/ct/ct_overview_14.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_14.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [93
+ [90
 
  <../figs/ct/ct_overview_14.png>]
-<../figs/ct/ct_overview_15.png, id=665, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_15.png, id=649, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_15.png Graphic file (type png)
 <use ../figs/ct/ct_overview_15.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_15.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [94
+ [91
 
  <../figs/ct/ct_overview_15.png>]
-<../figs/ct/ct_overview_16.png, id=672, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_16.png, id=657, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_16.png Graphic file (type png)
 <use ../figs/ct/ct_overview_16.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_16.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [95
+ [92
 
  <../figs/ct/ct_overview_16.png>]
-<../figs/ct/ct_overview_17.png, id=679, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_17.png, id=664, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_17.png Graphic file (type png)
 <use ../figs/ct/ct_overview_17.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_17.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [96
+ [93
 
  <../figs/ct/ct_overview_17.png>]
-<../figs/ct/ct_overview_18.png, id=686, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_18.png, id=671, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_18.png Graphic file (type png)
 <use ../figs/ct/ct_overview_18.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_18.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [97
+ [94
 
  <../figs/ct/ct_overview_18.png>]
-<../figs/ct/ct_overview_19.png, id=695, 1707.37875pt x 668.4975pt>
+<../figs/ct/ct_overview_19.png, id=678, 1707.37875pt x 668.4975pt>
 File: ../figs/ct/ct_overview_19.png Graphic file (type png)
 <use ../figs/ct/ct_overview_19.png>
 Package pdftex.def Info: ../figs/ct/ct_overview_19.png  used on input line 120.
 (pdftex.def)             Requested size: 378.42044pt x 148.16135pt.
- [98
+ [95
 
- <../figs/ct/ct_overview_19.png>] [99
+ <../figs/ct/ct_overview_19.png>] [96
 
 ]
-<../figs/introduction/motivating_example_1.png, id=707, 853.68938pt x 569.12625pt>
+<../figs/introduction/motivating_example_1.png, id=690, 853.68938pt x 569.12625pt>
 File: ../figs/introduction/motivating_example_1.png Graphic file (type png)
 <use ../figs/introduction/motivating_example_1.png>
 Package pdftex.def Info: ../figs/introduction/motivating_example_1.png  used on input line 148.
 (pdftex.def)             Requested size: 239.00558pt x 159.33688pt.
- [100
+ [97
 
  <../figs/introduction/motivating_example_1.png>]
 File: ../figs/introduction/motivating_example_1.png Graphic file (type png)
 <use ../figs/introduction/motivating_example_1.png>
 Package pdftex.def Info: ../figs/introduction/motivating_example_1.png  used on input line 148.
 (pdftex.def)             Requested size: 239.00558pt x 159.33688pt.
- [101
+ [98
 
-] [102
+] [99
 
 ]
-<../figs/sparsehjb/trajectory_parametrization_1.png, id=725, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_1.png, id=710, 1138.2525pt x 583.42969pt>
 File: ../figs/sparsehjb/trajectory_parametrization_1.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_1.png  used on input line 193.
 (pdftex.def)             Requested size: 250.9505pt x 128.622pt.
- [103
+ [100
 
  <../figs/sparsehjb/trajectory_parametrization_1.png>]
-<../figs/sparsehjb/trajectory_parametrization_2.png, id=733, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_2.png, id=717, 1138.2525pt x 583.42969pt>
 File: ../figs/sparsehjb/trajectory_parametrization_2.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_2.png  used on input line 193.
 (pdftex.def)             Requested size: 250.9505pt x 128.622pt.
- [104
+ [101
 
  <../figs/sparsehjb/trajectory_parametrization_2.png>]
-<../figs/sparsehjb/trajectory_parametrization_3.png, id=740, 1138.2525pt x 583.42969pt>
+<../figs/sparsehjb/trajectory_parametrization_3.png, id=724, 1138.2525pt x 583.42969pt>
+File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
+<use ../figs/sparsehjb/trajectory_parametrization_3.png>
+Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
+(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
+ [102
+
+ <../figs/sparsehjb/trajectory_parametrization_3.png>]
+File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
+<use ../figs/sparsehjb/trajectory_parametrization_3.png>
+Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
+(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
+ [103
+
+]
+File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
+<use ../figs/sparsehjb/trajectory_parametrization_3.png>
+Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
+(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
+ [104
+
+]
 File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
 (pdftex.def)             Requested size: 250.9505pt x 128.622pt.
  [105
 
- <../figs/sparsehjb/trajectory_parametrization_3.png>]
+]
 File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
 <use ../figs/sparsehjb/trajectory_parametrization_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
@@ -2105,233 +2066,269 @@ Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  use
  [106
 
 ]
-File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
-<use ../figs/sparsehjb/trajectory_parametrization_3.png>
-Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
-(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
- [107
-
-]
-File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
-<use ../figs/sparsehjb/trajectory_parametrization_3.png>
-Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
-(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
- [108
-
-]
-File: ../figs/sparsehjb/trajectory_parametrization_3.png Graphic file (type png)
-<use ../figs/sparsehjb/trajectory_parametrization_3.png>
-Package pdftex.def Info: ../figs/sparsehjb/trajectory_parametrization_3.png  used on input line 193.
-(pdftex.def)             Requested size: 250.9505pt x 128.622pt.
- [109
-
-]
-<../figs/sparsehjb/solutions_1.png, id=768, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_1.png, id=752, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_1.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_1.png  used on input line 217.
 (pdftex.def)             Requested size: 358.50229pt x 159.36179pt.
- [110
+ [107
 
  <../figs/sparsehjb/solutions_1.png>]
-<../figs/sparsehjb/solutions_2.png, id=775, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_2.png, id=759, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_2.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_2.png  used on input line 217.
 (pdftex.def)             Requested size: 358.50229pt x 159.36179pt.
- [111
+ [108
 
  <../figs/sparsehjb/solutions_2.png>]
-<../figs/sparsehjb/solutions_3.png, id=782, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_3.png, id=766, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_3.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_3.png  used on input line 217.
 (pdftex.def)             Requested size: 358.50229pt x 159.36179pt.
- [112
+ [109
 
  <../figs/sparsehjb/solutions_3.png>]
-<../figs/sparsehjb/solutions_4.png, id=789, 1024.57782pt x 455.45157pt>
+<../figs/sparsehjb/solutions_4.png, id=774, 1024.57782pt x 455.45157pt>
 File: ../figs/sparsehjb/solutions_4.png Graphic file (type png)
 <use ../figs/sparsehjb/solutions_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/solutions_4.png  used on input line 217.
 (pdftex.def)             Requested size: 358.50229pt x 159.36179pt.
- [113
+ [110
 
- <../figs/sparsehjb/solutions_4.png>] [114
+ <../figs/sparsehjb/solutions_4.png>] [111
 
 ]
-<../figs/sparsehjb/characteristics_1.png, id=801, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_1.png, id=786, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_1.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_1.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [115
+ [112
 
  <../figs/sparsehjb/characteristics_1.png>]
-<../figs/sparsehjb/characteristics_2.png, id=809, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_2.png, id=793, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_2.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_2.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [116
+ [113
 
  <../figs/sparsehjb/characteristics_2.png>]
-<../figs/sparsehjb/characteristics_3.png, id=816, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_3.png, id=800, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_3.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_3.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [117
+ [114
 
  <../figs/sparsehjb/characteristics_3.png>]
-<../figs/sparsehjb/characteristics_4.png, id=823, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_4.png, id=807, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_4.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_4.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [118
+ [115
 
  <../figs/sparsehjb/characteristics_4.png>]
-<../figs/sparsehjb/characteristics_5.png, id=830, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_5.png, id=815, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_5.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_5.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_5.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [119
+ [116
 
  <../figs/sparsehjb/characteristics_5.png>]
-<../figs/sparsehjb/characteristics_6.png, id=837, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_6.png, id=822, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_6.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_6.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_6.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [120
+ [117
 
  <../figs/sparsehjb/characteristics_6.png>]
-<../figs/sparsehjb/characteristics_7.png, id=844, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_7.png, id=829, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_7.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_7.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_7.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [121
+ [118
 
  <../figs/sparsehjb/characteristics_7.png>]
-<../figs/sparsehjb/characteristics_8.png, id=852, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_8.png, id=836, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_8.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_8.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_8.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [122
+ [119
 
  <../figs/sparsehjb/characteristics_8.png>]
-<../figs/sparsehjb/characteristics_9.png, id=860, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_9.png, id=843, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_9.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_9.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_9.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [123
+ [120
 
  <../figs/sparsehjb/characteristics_9.png>]
-<../figs/sparsehjb/characteristics_10.png, id=867, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_10.png, id=850, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_10.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_10.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_10.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [124
+ [121
 
  <../figs/sparsehjb/characteristics_10.png>]
-<../figs/sparsehjb/characteristics_11.png, id=874, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_11.png, id=858, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_11.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_11.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_11.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [125
+ [122
 
  <../figs/sparsehjb/characteristics_11.png>]
-<../figs/sparsehjb/characteristics_12.png, id=881, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/characteristics_12.png, id=866, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/characteristics_12.png Graphic file (type png)
 <use ../figs/sparsehjb/characteristics_12.png>
 Package pdftex.def Info: ../figs/sparsehjb/characteristics_12.png  used on input line 281.
 (pdftex.def)             Requested size: 378.42044pt x 189.21039pt.
- [126
+ [123
 
- <../figs/sparsehjb/characteristics_12.png>] [127
+ <../figs/sparsehjb/characteristics_12.png>] [124
 
 ]
-<../figs/sparsehjb/performance_ae_1.png, id=894, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_1.png, id=878, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_1.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_1.png  used on input line 305.
 (pdftex.def)             Requested size: 358.50229pt x 179.24966pt.
- [128
+ [125
 
  <../figs/sparsehjb/performance_ae_1.png>]
-<../figs/sparsehjb/performance_ae_2.png, id=901, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_2.png, id=885, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_2.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_2.png  used on input line 305.
 (pdftex.def)             Requested size: 358.50229pt x 179.24966pt.
- [129
+ [126
 
  <../figs/sparsehjb/performance_ae_2.png>]
-<../figs/sparsehjb/performance_ae_3.png, id=908, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_3.png, id=892, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_3.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_3.png  used on input line 305.
 (pdftex.def)             Requested size: 358.50229pt x 179.24966pt.
- [130
+ [127
 
  <../figs/sparsehjb/performance_ae_3.png>]
-<../figs/sparsehjb/performance_ae_4.png, id=915, 1138.2525pt x 569.12625pt>
+<../figs/sparsehjb/performance_ae_4.png, id=900, 1138.2525pt x 569.12625pt>
 File: ../figs/sparsehjb/performance_ae_4.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ae_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ae_4.png  used on input line 305.
 (pdftex.def)             Requested size: 358.50229pt x 179.24966pt.
- [131
+ [128
 
- <../figs/sparsehjb/performance_ae_4.png>] [132
+ <../figs/sparsehjb/performance_ae_4.png>] [129
 
 ]
-<../figs/sparsehjb/performance_ss_1.png, id=927, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_1.png, id=912, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_1.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_1.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_1.png  used on input line 344.
 (pdftex.def)             Requested size: 181.24155pt x 181.23427pt.
- [133
+ [130
 
  <../figs/sparsehjb/performance_ss_1.png>]
-<../figs/sparsehjb/performance_ss_2.png, id=935, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_2.png, id=919, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_2.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_2.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_2.png  used on input line 344.
 (pdftex.def)             Requested size: 181.24155pt x 181.23427pt.
- [134
+ [131
 
  <../figs/sparsehjb/performance_ss_2.png>]
-<../figs/sparsehjb/performance_ss_3.png, id=942, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_3.png, id=926, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_3.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_3.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_3.png  used on input line 344.
 (pdftex.def)             Requested size: 181.24155pt x 181.23427pt.
- [135
+ [132
 
  <../figs/sparsehjb/performance_ss_3.png>]
-<../figs/sparsehjb/performance_ss_4.png, id=949, 625.58719pt x 625.58719pt>
+<../figs/sparsehjb/performance_ss_4.png, id=933, 625.58719pt x 625.58719pt>
 File: ../figs/sparsehjb/performance_ss_4.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_4.png  used on input line 344.
 (pdftex.def)             Requested size: 181.24155pt x 181.23427pt.
- [136
+ [133
 
  <../figs/sparsehjb/performance_ss_4.png>]
 File: ../figs/sparsehjb/performance_ss_4.png Graphic file (type png)
 <use ../figs/sparsehjb/performance_ss_4.png>
 Package pdftex.def Info: ../figs/sparsehjb/performance_ss_4.png  used on input line 344.
 (pdftex.def)             Requested size: 181.24155pt x 181.23427pt.
+ [134
+
+]
+<../figs/introduction/itoc.png, id=946, 776.9025pt x 496.85625pt>
+File: ../figs/introduction/itoc.png Graphic file (type png)
+<use ../figs/introduction/itoc.png>
+Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
+(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+ [135
+
+ <../figs/introduction/itoc.png>]
+File: ../figs/introduction/itoc.png Graphic file (type png)
+<use ../figs/introduction/itoc.png>
+Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
+(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+ [136
+
+]
+File: ../figs/introduction/itoc.png Graphic file (type png)
+<use ../figs/introduction/itoc.png>
+Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
+(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
+File: ../figs/pirom/checkmark.png Graphic file (type png)
+<use ../figs/pirom/checkmark.png>
+Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
+(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
  [137
 
 ]
-<../figs/introduction/itoc.png, id=961, 776.9025pt x 496.85625pt>
 File: ../figs/introduction/itoc.png Graphic file (type png)
 <use ../figs/introduction/itoc.png>
 Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
@@ -2350,7 +2347,7 @@ Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
 (pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
  [138
 
- <../figs/introduction/itoc.png>]
+]
 File: ../figs/introduction/itoc.png Graphic file (type png)
 <use ../figs/introduction/itoc.png>
 Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
@@ -2426,67 +2423,10 @@ Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
 (pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
  [142
 
-]
-File: ../figs/introduction/itoc.png Graphic file (type png)
-<use ../figs/introduction/itoc.png>
-Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
-(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
- [143
-
-]
-File: ../figs/introduction/itoc.png Graphic file (type png)
-<use ../figs/introduction/itoc.png>
-Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
-(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
- [144
-
-]
-File: ../figs/introduction/itoc.png Graphic file (type png)
-<use ../figs/introduction/itoc.png>
-Package pdftex.def Info: ../figs/introduction/itoc.png  used on input line 383.
-(pdftex.def)             Requested size: 143.39871pt x 91.70468pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
-File: ../figs/pirom/checkmark.png Graphic file (type png)
-<use ../figs/pirom/checkmark.png>
-Package pdftex.def Info: ../figs/pirom/checkmark.png  used on input line 383.
-(pdftex.def)             Requested size: 39.83629pt x 39.82918pt.
- [145
-
 ])
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 96.
- [146
+ [143
 
 ]
 \tf@nav=\write6
@@ -2507,18 +2447,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35713 strings out of 474222
- 745942 string characters out of 5748734
+ 35504 strings out of 476106
+ 740598 string characters out of 5793933
  1956975 words of memory out of 5000000
- 56943 multiletter control sequences out of 15000+600000
+ 56510 multiletter control sequences out of 15000+600000
  627162 words of font info for 116 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 128i,26n,123p,439b,1784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59 hyphenation exceptions out of 8191
+ 101i,26n,107p,438b,1784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (146 pages, 31617087 bytes).
+Output written on main.pdf (143 pages, 31611540 bytes).
 PDF statistics:
- 1148 PDF objects out of 1200 (max. 8388607)
- 745 compressed objects within 8 object streams
- 293 named destinations out of 1000 (max. 500000)
+ 1129 PDF objects out of 1200 (max. 8388607)
+ 729 compressed objects within 8 object streams
+ 287 named destinations out of 1000 (max. 500000)
  652 words of extra memory for PDF output out of 10000 (max. 10000000)
 

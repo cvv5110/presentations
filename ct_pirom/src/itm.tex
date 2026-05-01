@@ -108,7 +108,7 @@
 %     \end{figure}}
 % \end{frame}
 
-\begin{frame}{\small How does \textbf{physics-infused} ROMs (PIROMs) \textbf{solve the ITM} in small-data regimes?}
+\begin{frame}{\small How does PIROM \textbf{solve the ITM} in small-data regimes?}
     \visible<2->{
     \begin{center}
         {\small \textbf{Consider the following example}:}\\
@@ -236,7 +236,7 @@
     \end{columns}
 \end{frame}
 
-\begin{frame}{\small Next, we employ the Mori-Zwanzig formalism for \textbf{physics infusion},}
+\begin{frame}{\small Next, we employ the Mori-Zwanzig formalism to \textbf{account for the residual dynamics},}
     \footnotesize
     \visible<2->{
     \begin{equation*}
@@ -277,7 +277,7 @@
     \end{center}}
 \end{frame}
 
-\begin{frame}{\small Next, we employ the Mori-Zwanzig (MZ) formalism for \textbf{physics infusion},}
+\begin{frame}{\small Next, perform \textbf{physics infusion} by \textbf{approximating} the memory kernel,}
     \footnotesize
     \begin{columns}
         \begin{column}{0.5\textwidth}
@@ -457,16 +457,16 @@
             \begin{itemize}
                 \item<2-> \textbf{Accuracy}: comparable to FOMs (NRMSE $<1\%$),
                 \item<3-> \textbf{Efficiency}: two-to-three orders of magnitude faster than FOMs,
-                \item<6-> \colorbox{green!30}{\textbf{Generalizability}}:
+                \item<4-> \colorbox{green!30}{\textbf{Generalizability}}:
                 \begin{itemize}
-                    \item<7-> \colorbox{green!30}{\textbf{Dimensions}: un-seen loading conditions},
-                    \item<8-> \colorbox{green!30}{\textbf{Physics}: un-seen material properties} 
+                    \item<5-> \colorbox{green!30}{\textbf{Dimensions}: un-seen loading conditions},
+                    \item<6-> \colorbox{green!30}{\textbf{Physics}: un-seen material properties} 
                 \end{itemize}
-                \visible<9->{
+                \visible<7->{
                 \item \textbf{What about training efficiency?}}
                 \begin{itemize}
-                    \item<10-> \textbf{Overhead} is \colorbox{red!30}{$\approx$ 4 hrs in 3 CPUs} (similar to NODE),
-                    \item<12-> therefore, we need to explore \colorbox{red!30}{other training approaches!}
+                    \item<8-> \textbf{Overhead} is \colorbox{red!30}{$\approx$ 4 hrs in 3 CPUs} (similar to NODE),
+                    \item<9-> therefore, we need to explore \colorbox{red!30}{other training approaches!}
                 \end{itemize}
             \end{itemize}
         \end{column}
@@ -477,10 +477,10 @@
     \end{tikzpicture}}
     \visible<3->{
     \begin{tikzpicture}[remember picture, overlay]
-        \node[anchor=north west, xshift=0.25cm, yshift=-5.1cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
+        \node[anchor=north west, xshift=0.24cm, yshift=-5.4cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
     \end{tikzpicture}}
-    \visible<6->{
+    \visible<4->{
     \begin{tikzpicture}[remember picture, overlay]
-        \node[anchor=north west, xshift=3.62cm, yshift=-5.1cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
+        \node[anchor=north west, xshift=3.58cm, yshift=-5.4cm] at (current page.north west) {\includegraphics[width=0.05\textwidth]{../figs/pirom/checkmark.png}};
     \end{tikzpicture}}
 \end{frame}
